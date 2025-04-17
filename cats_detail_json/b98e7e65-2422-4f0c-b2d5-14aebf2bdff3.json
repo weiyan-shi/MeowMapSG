@@ -1,0 +1,14 @@
+{
+  "name": "Rocky",
+  "catId": "b98e7e65-2422-4f0c-b2d5-14aebf2bdff3",
+  "sex": "Female",
+  "personality": "Skittish, fearful",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673932913041,
+  "dateModified": 1673932913041,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b98e7e65-2422-4f0c-b2d5-14aebf2bdff3/Hitler_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131410Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=833d61cccc43549860f4995e777c3269c7acb784fa47622431406aae133b82ddf7ae52423c6bba01b25485a7c51842671b8b554daa81a91b902c15f67275517d945ae9ea9c2771a21338582a7ecad667be0568b04bcbdb0656446e5f7ee35c7ff5a6f73c9f4565787ab7100d024bbb99ee20ca6b9fa966f32fe82dffa40b74dc87903a0d2e81e42a4e904e0bce808d3c6d7586bdf333b3deb0d8925750f76a4cebb120607471afe1d7a30d456f033e90316fe3832493bee86ea5df398e4f0ccd4c16108917af252743dc5d535783254e96e806aad638ced8199586bb58883f1cabd8e311d8ed9ee64533212852df8ace941408b83c19587fdd9a2e59df3ebf3e",
+  "imageName": "b98e7e65-2422-4f0c-b2d5-14aebf2bdff3/Hitler_noexif.jpg",
+  "region": "EAST"
+}

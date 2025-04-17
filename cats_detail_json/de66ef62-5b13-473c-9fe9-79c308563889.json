@@ -1,0 +1,14 @@
+{
+  "name": "Tsundere Boi",
+  "catId": "de66ef62-5b13-473c-9fe9-79c308563889",
+  "sex": "Male",
+  "personality": "Playful, distant to humans",
+  "likes": "Catching insects",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673881917814,
+  "dateModified": 1673881917814,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/de66ef62-5b13-473c-9fe9-79c308563889/Boi.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131325Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=70685917066ce5c203176f31876f22c7100818959b013307268eb428f6ce14e5d58108c82b69241381d547471c1246bbe19b47caa072261e83ec0e5d48b3552707491bf03f7b55dcf421f181ccc4f32c44194b98e6c586b1a78ce2bb48baff538eb433a7bb3a0bca9665cf69d0250f004618a640d34737bf9bd7ec82286bbe648c8f443450cebbb505c37ab63505e6ba08f623ec1693b5f7e4e52ceae18fe7b3ab7a51421de2a6c5ea0a6785c31a9e4958ab94ff550e3aeaa22cbeb489d361df0f67a2c2c236918d07b00dd80735acce004790f85faba01aec8cd60865747db3d659b1d426a4eee0a13d815eabe39b3b5b04b5322e794519680e43a7cf68130d",
+  "imageName": "de66ef62-5b13-473c-9fe9-79c308563889/Boi.jpeg",
+  "region": "EAST"
+}

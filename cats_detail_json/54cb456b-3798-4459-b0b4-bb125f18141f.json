@@ -1,0 +1,14 @@
+{
+  "name": "Luna",
+  "sex": "Female",
+  "personality": "She\u2019s a very friendly cat and likes greeting people with a meow!",
+  "likes": "She likes food",
+  "dislikes": "She doesn\u2019t like loud noises",
+  "other": "She\u2019s a black small cat. About 1 year old",
+  "dateCreated": 1728098455539,
+  "dateModified": 1728098455539,
+  "catId": "54cb456b-3798-4459-b0b4-bb125f18141f",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/54cb456b-3798-4459-b0b4-bb125f18141f/luna.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131610Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8bd0f546bf00c7dd13c08be67dba8e8a2f9c245680f9e19a467037157326c6e0fba41d72a9c0b517606ac1653ad66e07fff09bb0d716c6154f74290ff2b24db24aa72e6f1babe2e0e9ff38f1a3691eaf09fcc4c18a2b237e54033e3a52222e387caaddb877a1b23c539a1042c5aaa121d2d62927bd7e9bcd1864f1d7a76cd102740370c54ea335d5c35682336b2603bf2e387cb43daf96024a364212bedcf4d453a290c68ba88f6841c16c9f972d0aec05bdcdd56e0a7664290d5ada9a1b3a53182053ac16b9c382d49182722aa105775470e8989bb719cf4be89638e578eb658fd8309ebc4db55f04ccfbb4c48337094e808bfd3297cfa061d7ee59af1f805d",
+  "imageName": "54cb456b-3798-4459-b0b4-bb125f18141f/luna.jpeg",
+  "region": "CENTRAL"
+}

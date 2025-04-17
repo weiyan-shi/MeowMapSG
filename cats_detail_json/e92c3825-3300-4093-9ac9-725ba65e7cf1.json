@@ -1,0 +1,14 @@
+{
+  "name": "Baby",
+  "catId": "e92c3825-3300-4093-9ac9-725ba65e7cf1",
+  "sex": "Female",
+  "personality": "Extremely vocal",
+  "likes": "Being pet, sitting on laps, salmon",
+  "dislikes": "Canned shrimp, being carried",
+  "other": "she is a baby",
+  "dateCreated": 1673871810748,
+  "dateModified": 1673871810748,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e92c3825-3300-4093-9ac9-725ba65e7cf1/baby.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131043Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=862435ca8610b15e545c238648dea862d81dc7b0ac82ab0a331136970b8fb3a6eb99470e49246a36ee402c4bc10162f8d46d09e777a3ac1a8e9a522bc649e536f7971786f6a87fb7f23ef15b9d8d86435f096ac35ab07757f304e24a5da8489652aafa91e4db0dce5277b11852ecef29be951bd108cac02efc59ca0fab23ddc78d341ffa258d9e12370aa97345116206798e4b86a62a47044e8a976caacf41ec906bade4d5fae15342ec11c690626481000bf6efe49fa1cf054fb48dcf929e5b06d48f74f9483b36767c1aa8e2d3f32da4dc9aed6a78d69ff29094b80c60b3be192a062d8562c644f8de6f35bf0de070fbb9b5261dd7739b4bfa647c0c883271",
+  "imageName": "e92c3825-3300-4093-9ac9-725ba65e7cf1/baby.jpeg",
+  "region": "EAST"
+}

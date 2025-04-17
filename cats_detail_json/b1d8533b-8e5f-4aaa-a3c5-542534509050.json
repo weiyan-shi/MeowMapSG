@@ -1,0 +1,14 @@
+{
+  "name": "Patty",
+  "catId": "b1d8533b-8e5f-4aaa-a3c5-542534509050",
+  "sex": "Female",
+  "personality": "Friendly if you're alone. She will talk to you like she's giving you a tour. Likes to rub her fur on everything.",
+  "likes": "Pats, being talked to, cat food, dry snacks",
+  "dislikes": "Wet food, noise, loud children",
+  "other": "She is clean. You can rub her belly.",
+  "dateCreated": 1673946829190,
+  "dateModified": 1673946829190,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b1d8533b-8e5f-4aaa-a3c5-542534509050/Patty-Blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131414Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=32584533f6b97858e5543233b6bb8e14d3619672d47422f4bd83a95689eeb6bfe12095d01a71af009479adaa30069cd28138477f1afe5bc8d60ab3ca5bb04a9af684cc070e441754863d27559303b217f7d83eeb447a0871c1b9747abfd45ef5252b7d62b98f597753c02e4d0e771a6647087d953412b7721d9be53ffd8d4e4944644ac8751d0555c07ee3d7ad122961740efe12e72b186da3be5f6c677dff793f53a1c968aa0c27afeb1d8efd890de19d2a0568ba46a30b1452e4361d6d5fbb32356038db597ec353112c521e981943ee13e28ce9804ad7d3b610d67c1e1cdbd10e0015278ec4b35afc3ed936f18b1752f43ae0facbdc0aee3ffa904e27d955",
+  "imageName": "b1d8533b-8e5f-4aaa-a3c5-542534509050/Patty-Blur.png",
+  "region": "NORTH-EAST"
+}

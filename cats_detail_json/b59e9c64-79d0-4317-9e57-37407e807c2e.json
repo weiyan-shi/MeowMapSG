@@ -1,0 +1,14 @@
+{
+  "name": "Bao",
+  "sex": "Female",
+  "personality": "Super Sweet & Docile",
+  "likes": "Seafood, Salmon, Tuna, Napping",
+  "dislikes": "Beef, Other cats, Feather toys, Long toys",
+  "other": null,
+  "dateCreated": 1696885005786,
+  "dateModified": 1696885005786,
+  "catId": "b59e9c64-79d0-4317-9e57-37407e807c2e",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b59e9c64-79d0-4317-9e57-37407e807c2e/bao_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131550Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=54bb23887d3e682488897cca87d98c82048d19cb9cb75f2e18688a24eb9d6328ccca068de006c1efc68a2b77dceba35a0234fa07bfc1290eea0828b38800569979a2d6062cb40c8f02ddde34591a0b55b2864d8737bad3cafb6b635239317114a1528c2d98605b46e0ef07a294bceb808823b3e37eb73d1de465b656d4943a7332f97c208e0c92dde2bba889a8cd31b98ce639f8c97ca61cab7184a96ba8130adc2911bce82842ca8a95db7817427c0728bfb668cd8a86cf795a0146a8a9d4e6f2e8a2cdd3f34d9bd711aad11bf4950146eb89f71e59a4fb1cf27fc184256945680b97c0e4aaab3656f310d31ccf9ab50d9e72e159a5bbd359fae694cc53d7a9",
+  "imageName": "b59e9c64-79d0-4317-9e57-37407e807c2e/bao_cropped.jpeg",
+  "region": "CENTRAL"
+}

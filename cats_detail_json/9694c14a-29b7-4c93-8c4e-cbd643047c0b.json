@@ -1,0 +1,14 @@
+{
+  "name": "Bus stop bb",
+  "catId": "9694c14a-29b7-4c93-8c4e-cbd643047c0b",
+  "sex": "Female",
+  "personality": "Sweet and spicy",
+  "likes": "Acting cute to everyone. Exposing belly for extra points.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673882225744,
+  "dateModified": 1673882225744,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9694c14a-29b7-4c93-8c4e-cbd643047c0b/20221125_192545.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131328Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8cdd7a0e085839c4a843421d12384ddf5235161ac710072b7af33357e6991680d7d63d3ef6b554668b68100beb8da904a872b4f22caa5b882e5c8ca72ec192ad1b9e54e2efdf09b99f354a9999386c41e2b7084725b8f2f636ca4b7db9b36764b3415b8fdda3e29b1f158d00983d94d90fedd6429df5a07f1592162f8966f200894222e270168b9372a0411924a66c3805fee5bf65b7a3d94a91c5bc338ef298fa80884a227e78c181867050cb151568d9bab0b2aaacd737cb5b69a6954053484127fa13e360c375de8e88476911c1c3568da1e7d67008abccac3c1e74d6a1fd2dc60694b8868ab078a2cebd25afc115273105a9493802a8f8688eb862c5ab2e",
+  "imageName": "9694c14a-29b7-4c93-8c4e-cbd643047c0b/20221125_192545.jpg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Confusiyeon",
+  "catId": "5eb7c0ed-7425-436d-bc16-d0a35c78ad2c",
+  "sex": "Female",
+  "personality": "Aspiring model.",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673882432205,
+  "dateModified": 1673882432205,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/5eb7c0ed-7425-436d-bc16-d0a35c78ad2c/IMG_20221003_082755_435.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131330Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=555b1db01bc860e6fe860ef88ab45ba84e77dd6d6643a03c506857e33b075c9635c7c91922b628d4c28235ebe7c2b156dccd10a5fd5e12670b14a500b480aafdebb69d9833ab4a14570dec8760e87a270e61de3ec72ba462debce8f7f5fbae3dd664689708b242403d70ba20bf96b3eaee0fd5ec042209adc59615e60033ceed90bdea3f3305fa42e01f0319c4bb9f9d8180b769115f156722dc2e64a8f1c1dc0fd9956297e582c5dc6cbdc60bf237b792b707c6d9181372f9f1a00190f1e5e904a0fe088403febaf7cde966292bcfe46c1494e409abaa39d29e5b0eedb5c90c8cc390f20945a1db39e971ef1093d1f538d9c1be608a8f213f1f225691efe0c1",
+  "imageName": "5eb7c0ed-7425-436d-bc16-d0a35c78ad2c/IMG_20221003_082755_435.jpg",
+  "region": "EAST"
+}

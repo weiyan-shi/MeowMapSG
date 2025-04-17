@@ -1,0 +1,14 @@
+{
+  "name": "bob",
+  "sex": "Male",
+  "personality": "loves to watch f1",
+  "likes": "ass pets",
+  "dislikes": "nothing",
+  "other": null,
+  "dateCreated": 1674751612178,
+  "dateModified": 1674751612178,
+  "catId": "9606cc5d-0d9f-4042-979d-4db6d4340ada",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9606cc5d-0d9f-4042-979d-4db6d4340ada/Bob.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154641Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4be4ddb0a4119e7b4147a76f942547dd8b1bacb8b548141ff1f9a4c9391f8b6d85dc71d4bf7d58076a83d71aeb2d444c0060118bdceecbd930535dc7772c49436b9fe96994c07a5add75c367fbb445698fa83dc5d93806d6ca4554f9e630247925f124b4bfc8e1838dacde06c7ce1692cc67e334b318bf339d0fee04fc10a2fcb554069c2d5b4b6c0c723ffffc3b239be7b21ff409c3e978e9d2a17f35b122836fae4f5a1cdbdb231f353ea7b64cf39413f328cad2e5642bf998955ad875205dd62130de93dbf473a9c272d11838373168ed0a66eb2da04810574b768b1a94e7c72108a38fc28b97bc59ab16f49a379388c3076fd6e27743fff0bfc24c891de2",
+  "imageName": "9606cc5d-0d9f-4042-979d-4db6d4340ada/Bob.jpeg",
+  "region": "CENTRAL"
+}

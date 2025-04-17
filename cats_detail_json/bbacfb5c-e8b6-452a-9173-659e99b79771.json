@@ -1,0 +1,14 @@
+{
+  "name": "Gingy",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1683452448499,
+  "dateModified": 1683452448499,
+  "catId": "bbacfb5c-e8b6-452a-9173-659e99b79771",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/bbacfb5c-e8b6-452a-9173-659e99b79771/gingy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131539Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4a5e2f12a57d8f8ce3eedef471236f480b5311fa727d48fa6594cdee7422c997364ec8edf93c51b54231ed463671662d6cc1e8975273e25e9d51b9f620220749e79b617b44d33c07d7814dafa01664a082e2401ef86298a52c06e5dbabd7e7bebfed137f5c41fe117d106451960c9d68ac33ea14aba6952c2f6be3f8407697d089914ef2a80326df8074335c300f1cb96b5c6896a1dd8b0c3b9be5e8a75de4f12fe6e4ad0fbf60c180023546890887882e61ca1e3ba33127f33d9ca4e99b819eaa3eef834cf1182253d5502aab87263595c2da11f35db6bb9ea1cc503e7cec19bb83a6b03e5e3a2d0969cd8d675f8243774b70c4074bdf2cf4cdcb968f4a8971",
+  "imageName": "bbacfb5c-e8b6-452a-9173-659e99b79771/gingy.jpeg",
+  "region": "WEST"
+}

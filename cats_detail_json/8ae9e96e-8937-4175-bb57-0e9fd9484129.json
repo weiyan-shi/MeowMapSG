@@ -1,0 +1,14 @@
+{
+  "name": "Tank",
+  "sex": "Female",
+  "personality": null,
+  "likes": "To sleep near the motor bikes",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1740113051059,
+  "dateModified": 1740113051059,
+  "catId": "8ae9e96e-8937-4175-bb57-0e9fd9484129",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/8ae9e96e-8937-4175-bb57-0e9fd9484129/tank_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T190140Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=88f1e5397df973ef1a8fa04f58c77fd351e55c355fff13971720365dd97a8e667277db6553e4e9b7e816f919accddd116a8fb1417c31151baadde838f627df1d271882449f93d430f92ac245636b5b7a0094f57877e10f9d8314ce657edeaa3868f7edb8b7c43b5e9082e4c9cdbd9b07f27d9ed0154736267f679333e8e1b0abea49cb86173fa9915a4f46705402eaf05d3d978fd748785a3ad3d7a3c2e9ac3ce8d5c2e057e83ce237353f25af22f6d7b13f95b65ad73c9a539ef812914186a21a9dd69bdb59d92d8b6e1e7aab9d22a6aede4e4aab7f080c4d7f0636c2f657f67f3ab35ca6ffde77126a65a22becf9805b92525e43a52f38052468e7e8e0dc41",
+  "imageName": "8ae9e96e-8937-4175-bb57-0e9fd9484129/tank_noexif.jpeg",
+  "region": "EAST"
+}

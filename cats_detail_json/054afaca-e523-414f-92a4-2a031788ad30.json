@@ -1,0 +1,14 @@
+{
+  "name": "Charles",
+  "sex": "Male",
+  "personality": "Does not care about anyone and not friendly",
+  "likes": null,
+  "dislikes": null,
+  "other": "Very fat",
+  "dateCreated": 1711786631667,
+  "dateModified": 1711786631667,
+  "catId": "054afaca-e523-414f-92a4-2a031788ad30",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/054afaca-e523-414f-92a4-2a031788ad30/IMG20240218162833.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131558Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=537d7ead42055c858319c72d568545d6317dce973166ce349ad408add735d50496ad10b8716bb00f379eb92384b1b2227310f3740dbd25d41c2349c192c0ea0ea6a966a13d512de490eaca0a861f9cb234fa1e7062a69e0a3fdb1fe66fffcca92d4ffc7be04ef9e43aa89c8899fe1074cdda251e28100fa80da196b75ddbadfee9f3d99873ccbcac48bd9050deaabe1261b6bbc1e18e76f46a96be76572ce8fcc07f76c838d73d34da88ee284f11112b9452f66a274864d0c88982338f7f10dc77830a2fe4285f112fa7fbf84df1ad355279d370dc13503caa44584b22c3940d26d47554a9f178456e83368a5bf37c84cca3043bd776ff3a9ca63714dd0e250c",
+  "imageName": "054afaca-e523-414f-92a4-2a031788ad30/IMG20240218162833.jpg",
+  "region": "WEST"
+}

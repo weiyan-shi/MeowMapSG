@@ -1,0 +1,14 @@
+{
+  "name": "Curly",
+  "sex": "Female",
+  "personality": "Friendly cat to persons she is familiar with.",
+  "likes": "Likes food and is overweight. Likes to be stroked on the head and will flop over when she is comfortable with you.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1675661979624,
+  "dateModified": 1675661979624,
+  "catId": "cad4268e-f7f9-46c1-96d7-6a8d74d4df21",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cad4268e-f7f9-46c1-96d7-6a8d74d4df21/Curly.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130934Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=50ed627fae16d7ca1740277002b188f078399f81a4de0d7bc458950943627f58d7d914ff2a6e6baea3008ddc4872d24b9d69798028f413b9856b4ae45e158796a587561768ffa554227615a1112156bcb7182ef4350362345c9b53d88567dbbeced5d11c4d64cd9ae9cc4d80f85fdb442094d4965cdf35bafd2bcc3e5ff8702e13231672c803fdd280f78e19fa815ae55224ca77a57d125811b6a6213f112db18605290eb457fd88989d32606cb0388ea7eb89d70130727e95b2c6cc0665b866584332655667f4af13b50a851749a0cf8242c2cdb598186c5399e7cbf76304246c33b57f8a6f4220c9ea331f55638cc17b5f518ef16548ca215cb0a31fa8078b",
+  "imageName": "cad4268e-f7f9-46c1-96d7-6a8d74d4df21/Curly.jpeg",
+  "region": "EAST"
+}

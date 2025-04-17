@@ -1,0 +1,14 @@
+{
+  "name": "MISTY",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1675291715137,
+  "dateModified": 1675291715137,
+  "catId": "347f05c0-542a-4b56-8744-e61440e65696",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/347f05c0-542a-4b56-8744-e61440e65696/Misty.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T145406Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2fed2e7ca30e1f25c855449889083e207400587b589f0d8a50336c9bae5655b81d5940feae84d302dca56d8f5abf67d183fcc502a2f6c1fe99209ef0c45155dbe8c1cf9b4ee40ef8d9686e9136900a313265c937e554f96d7caae7e3b8264c9ff557fb27b3d4b90ff5c4849a5b94bf923df9f852afed48578d0ff0d03827e5cce3f78cce8aab13477394978aba6c55630cbc522810dcb5b692259aa1ae942b8a18c11f5976b182f65d6c97fa546f66358e139686caf689674814c980c9ce4cbf27bb2ff3a93926ea48f69d342cfc1e95c9ce7b81b4da5f292c611c12c4dca4b57364aa503ecf3ac2aa4db29aa8eef4e65f55af26e53a6a276da5bc8523168c32",
+  "imageName": "347f05c0-542a-4b56-8744-e61440e65696/Misty.jpeg",
+  "region": "NORTH-EAST"
+}

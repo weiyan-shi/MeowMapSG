@@ -1,0 +1,14 @@
+{
+  "name": "Charcoal",
+  "catId": "e9f44995-7279-4d41-8d88-9d2ed20fee92",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673952398969,
+  "dateModified": 1673952398970,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e9f44995-7279-4d41-8d88-9d2ed20fee92/Charcoal_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130815Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6e7c5a72c4af5b2b0cf53fbf2226ad68bf665671954415dc0c2650a00aa3958b9503b1d215dc9ff92ad8de2fc4d2079a6de771e8c6719dd1af379e82f42bbc4b85883fa80a029e95bb1db2c4938f788fa477333cbbab414568e0b65dce58223dc4d0ed164f63d41163c48924aa92a22a7209c628544fcfdf3b0ac3265940737869d2421fdb6208e493092c99ede880822831036380cc44eb29bce5ae4b58d33fbe61b3f6b6484d7572bc7e1c2e8fc208383602796ab29aa3c7bfc3598ff283639fbce3554d78ec39c4c36ce19fc9bb9a907d584716a6a145ce9d7701ffd6cd5fd4d4eaf8db5c4b3138a2afc2fea220bb79d7d16e64483cef5f32f94e4bc6ce3d",
+  "imageName": "e9f44995-7279-4d41-8d88-9d2ed20fee92/Charcoal_2.jpeg",
+  "region": "EAST"
+}

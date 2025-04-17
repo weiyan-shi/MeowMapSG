@@ -1,0 +1,14 @@
+{
+  "name": "Rumlee",
+  "sex": "Male",
+  "personality": "friendly and sociable, loving attention but also enjoying independence. Curious and adventurous, love to explore, but have a calm, affectionate side. Playful yet gentle.",
+  "likes": "He loves wetfood and treats",
+  "dislikes": "biscuits",
+  "other": null,
+  "dateCreated": 1729770804834,
+  "dateModified": 1729770804834,
+  "catId": "ddd6f608-3725-4293-9d33-0424d9d60aac",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ddd6f608-3725-4293-9d33-0424d9d60aac/20240413_214551.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T065249Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1db1bf497bc15a1a369b87df13cd8f8e0191bb8e92dacdd2db42169156d8d4b61124f935df85e9ddcfad9eb17d84156c179b308bd1659bb20265976a1742d2fe01ea3fa33894b8d219cce947777a1437be021d4be99c6e61c97033861bb1aa7d2420fbde210a80333f8986b414dac0717ae95afea41020fb571951ceec9fb8b6ac629db3707d279a31280dbf05f24709c06b1fa96ae33e204cf67cd747516a66bac232cecbf21ff40f17d2125ab0c76362b374f4c7660dd02bf11fe989078b6bd0cda29656fa9f7c824b0c904d6cd69525c24a99442182a268b323a7f99aa9f784cb12d9d87f93b2bed7b2f91852d2b620ac88fc4f28c9b57428f83f7f801e8a",
+  "imageName": "ddd6f608-3725-4293-9d33-0424d9d60aac/20240413_214551.jpg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Mango",
+  "catId": "d723d5ff-7bbd-4869-823d-c83bdf9fd27e",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Mango is a placeholder name. If you know the cat's actual name, please contact us!",
+  "dateCreated": 1673882834398,
+  "dateModified": 1673882834398,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d723d5ff-7bbd-4869-823d-c83bdf9fd27e/Mango_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064930Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=216372081dda1f3c8010fcf5cb05e4d23e890d27cd6d4e341da0827559f25a30a83fd36ffc335c060e25c9ff06c2db673a2d0bfc9bf82c0c5f0fbb11892f2d5234675b965f7141b9cbbfb73b4dbe5ec03c3a7d88fe552780fb70866ddd99062936d4b134b6fff901018082fe0f0ac515f85a1c44ccdcdb4a0eaf787d7ddb7cfdb4ff6531b85b75b1231d373bdbe14ed3daa6e7b79d38df676d13329d935b3ec246eeabd30609c9e3e6125b60a491905114ff392f93357eb1990fef402f8148c448c4955ee88442f6b83cce9db0d35140f46a4768aa2a5632cffc2f3fa8aa124179deec717ba8371a208decd8a44b43c5fbdc1f7c240886f1503eeb9c901be73e",
+  "imageName": "d723d5ff-7bbd-4869-823d-c83bdf9fd27e/Mango_blurred.png",
+  "region": "WEST"
+}

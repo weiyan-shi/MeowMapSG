@@ -1,0 +1,14 @@
+{
+  "name": "PiPi",
+  "catId": "b1e634b9-9c4a-47bf-b924-53cc524814c2",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Is afraid of people \r\nHas a bent tail",
+  "dateCreated": 1674057940898,
+  "dateModified": 1674057940898,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b1e634b9-9c4a-47bf-b924-53cc524814c2/9D5A0D67-E45B-4B8D-B578-9753B0AD6AEF.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131510Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=234e5f6b05dfec6259c6255115b8c7eac44d7eb97fae5a50dae80e63c678df51228526f8aaa20236439b83f546f5a00931a7b4047f4d6f9d3d1a4e73c957ab99037ec9d571e54fa062e7ab5cad61642463b22c6c5502bfbcc548cf7dfdb9eebb92d55e28a2eb76ec105a55d5feac0645cf8ce7a13e1741dcda075d773f920c3deab1588aa2e3e14e1b2218a6e9251c949bcc342762f3acdb4e5c7d87e30a9e3d047b3e9f8c410c84ce5f447ffd988e94a462723da15b8bdf9018154261518e8a8914e2a6d27d0637477b3f2ad014d849014c77ea4b792c3ba78df994114d72d3d58f83ea663880bc3c53a36cf28e455172ac329e7010f21033d799c74c876e79",
+  "imageName": "b1e634b9-9c4a-47bf-b924-53cc524814c2/9D5A0D67-E45B-4B8D-B578-9753B0AD6AEF.jpeg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Gangster",
+  "catId": "ef188866-d854-44a3-9cbe-cce959ac3d47",
+  "sex": "Male",
+  "personality": "Calm, cool and aloof",
+  "likes": "Sitting at high places, protecting his territory, lazing on the grass",
+  "dislikes": "Other male cats and new cats in the area",
+  "other": "Gangster is often seen hanging out with other community cats but is not trusting of humans.",
+  "dateCreated": 1672904480950,
+  "dateModified": 1672904480950,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ef188866-d854-44a3-9cbe-cce959ac3d47/2939B11A-C7E1-447B-B17A-CF0576E3C3DF.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131247Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1897f1bb20b2b38c1eea5f58111150c85d8331d0ba76a2ced0c47cb7c19851b5fb70600d0864cdc1dab5fda4e0161703d2ff1ba10c4b742b6a9820e6aea1bf5ada85e443bdaf371cb8a865c973c874d44b6a18cecd7357f81ee1213e95b91a0f6c9a858aa2b192e8b8f9b86bec8f6630f9a33f9f0f3950f2fb5d62414f4d1aff4097dbee27692970fb3895b43ed13e9fd81922ca09bd97f72c1df5a9ce5fc4365622191bd8ceb51039b81f23a9011cccefba7db6de0506328d641501127fe4341282f61c1e1ef14df9236c290d21d760b6bba4ebf5e81d6de0569f037a154614d8890e6d157a567e275f6a1a27c2304bd03ef8bd9c64f402a5258de2af43dbd3",
+  "imageName": "ef188866-d854-44a3-9cbe-cce959ac3d47/2939B11A-C7E1-447B-B17A-CF0576E3C3DF.jpeg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Socks / Peggy",
+  "catId": "eb4b1340-a04b-4984-8bac-c3ae4aa97f5f",
+  "sex": "Female",
+  "personality": "Like a princess, friendly to humans but she will retaliate if you pat her too much.",
+  "likes": null,
+  "dislikes": "Wet food, dogs",
+  "other": "Shop owners leave out bowls of water and food for it.",
+  "dateCreated": 1673880375429,
+  "dateModified": 1673880375429,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/eb4b1340-a04b-4984-8bac-c3ae4aa97f5f/peggy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131320Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6231c323a76f1eda43120da9f53a4ac12c1fdd10f0c37d59d017d54e6837a2daff89bef68b09c5d9e94d95347b7a5f62c6e3f539b40ba980c3e4c7043b42f47c2e5206a772d2298c4fc0e0719361d1fba494d18673b04b8ae97e639ae7c0031f1b8c3cf1ab88602d9ea4d0941001cb83b5e72d5b5e4b1fe6a7012d9bca255335bb7af311ea365811c004c4b115be642f8d167a43aec21db422dad8f3053bb0d46a6328d581336ea3b6ae5afd90f4900a29510859ea4d850118c7e6dbe7f259072dd86bb26ac249d2ef265a3764171a965464fbefaa55d064772e45ecde59a27ee1c5218435cb189bd1693a1d68f166f5f5b8f4bde49d691ba0f6a3b74b25017f",
+  "imageName": "eb4b1340-a04b-4984-8bac-c3ae4aa97f5f/peggy.jpeg",
+  "region": "EAST"
+}

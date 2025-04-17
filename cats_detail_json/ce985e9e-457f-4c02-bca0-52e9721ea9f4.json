@@ -1,0 +1,14 @@
+{
+  "name": "Catpet",
+  "catId": "ce985e9e-457f-4c02-bca0-52e9721ea9f4",
+  "sex": "Unknown",
+  "personality": "Friendly",
+  "likes": "Rubs, freefood, scratches, lap naps",
+  "dislikes": "Other cats",
+  "other": null,
+  "dateCreated": 1673884551414,
+  "dateModified": 1673884551414,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ce985e9e-457f-4c02-bca0-52e9721ea9f4/Catpet.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131341Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7b97b6a1705a4739eb26c9c2e49fb5d341cfc2a27a8b48039474c369633d541520938c2d208b12f0fbdcb05cf13e2905fbe0d3b31646556053f51477497f5d1d6845440dc69ac1eab362d4ca876a043d0574a78a11ff87b703991bb2d78eb6a9b20ecf241474ec5fad1b07d731cae17484c8d9f9914e99ebc4e6aa179c883dd6d500bf6bb315e6b716b256cf9ccc87eac0f7da0cd6d15c10ff67e7d44ac594e614fecdba1f8f9a7500f027a3cd57f72fd8a500d3e5dfb4b654a34160b1a0d594d3d3866cae3f6cd1c0463b02d2bdafaf98b36e43ef92c3046da9c99dc34e92264c65af5ac34097ca4a1bccc458f2d59bb0097bebdfe6adee2a942a5e38df8210",
+  "imageName": "ce985e9e-457f-4c02-bca0-52e9721ea9f4/Catpet.png",
+  "region": "WEST"
+}

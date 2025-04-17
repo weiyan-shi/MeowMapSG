@@ -1,0 +1,14 @@
+{
+  "name": "Lava",
+  "catId": "336f2b05-61ca-49e0-9709-36b29b3a73bb",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Lava is a placeholder name. If you know the cat's actual name, please contact us!",
+  "dateCreated": 1673882602137,
+  "dateModified": 1673882602137,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/336f2b05-61ca-49e0-9709-36b29b3a73bb/Lava_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131332Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3cdf6991f52ecc05c2f14231f26620471d1a781bfba57f1ae5361749c99672e9a8ee5f4f6f906fed4f7168742807beb8a46f8924080394c0de986260c750505fd6466b417712ea2d052cafece8dbf4defe5e15c62c0db63f1c4804e0a0bcf06b5dd3672f6fa6feb4177ef32f5f7fa2a94233a6e20a2c3f4ab70173ad82ea9ddae172b8e9bc8dd8094652791ef55c21283dd12b1192ab51af16a16f76ca5eb2a233c490f67e56d49a9126726da36a0847aea6bd4e6d100ff7816689aa2e2f569142a0f3fbb0887256ea46dc5daaac5cdb03f5baa203dfab70f02fba2eeb10fc59fdcebf8f5d2deb5dbdf402d3979a8b808f066ef0d90f3718d0848a5ffbea5d96",
+  "imageName": "336f2b05-61ca-49e0-9709-36b29b3a73bb/Lava_blurred.png",
+  "region": "WEST"
+}

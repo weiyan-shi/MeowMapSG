@@ -1,0 +1,14 @@
+{
+  "name": "Bart",
+  "catId": "f6f5798c-6893-4666-91a8-6b2e8c9c178f",
+  "sex": "Female",
+  "personality": null,
+  "likes": "Wet food\r\nPets on her far back by the tail\r\nCrawling on your lap when you sit on the ground \r\nFlop around",
+  "dislikes": "Other cats\r\nDry treats",
+  "other": null,
+  "dateCreated": 1673886231333,
+  "dateModified": 1673886231333,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f6f5798c-6893-4666-91a8-6b2e8c9c178f/Bart_cropped.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151843Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5a3363a7fcf7e53003e2a0bf8205d40f5b243ed9ca3dc4a5a13348114f45fd83dd1de1d7494fca30b9ed3f2901d9d6a7d5f76e8c4566666fe24d0f0f675dd652dc13d3dadafb9df9f3bf82b998c40b52a833997c7cfa63659b2fbeb039b10db8b9f02fe205f787bf254215a9356491bef0c397c388eb8b7bbb6dd8fa8eebc65eb00f8dc1843dbc16f28f848ff3a882d7c1f8236a060bbe1546aae39d376f8c4c415cd9a866b233d84bc47492aa33ca43dafc36c2e6397d23ac9602d38dffc96f3153ed93f62215ff3d1c9d70883a884ae1d0b8b60a55c1f8735ab56f02b8f5a10fe1435a60446017ded112c3c96ce8dbe68e7a47811676adec828ca1bfccd2d8",
+  "imageName": "f6f5798c-6893-4666-91a8-6b2e8c9c178f/Bart_cropped.png",
+  "region": "NORTH-EAST"
+}

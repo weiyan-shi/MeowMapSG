@@ -1,0 +1,14 @@
+{
+  "name": "dingus",
+  "catId": "4f48bfd6-7b91-4fe6-80c9-130f420d7b42",
+  "sex": "Female",
+  "personality": null,
+  "likes": "to hiss and growl while eating yummy treats",
+  "dislikes": null,
+  "other": "has the biggest paws ive ever seen",
+  "dateCreated": 1673953281038,
+  "dateModified": 1673953281038,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4f48bfd6-7b91-4fe6-80c9-130f420d7b42/Dingus.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T071321Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=00988ae00fedd33e0cd284314cbcefa84dc3a01cd78043b8a43e4f4bc6e90e8e97d2d3ca6866a504520f807684ec37385b578af050dcc88758b1bbbf94ec6a4b9e06cef7b26a6da083bd583d05df83786cd9f9ffda67fcc37cc9851b24766d9b3ba5de49ff2c0961925a6633725034d593f393cb59de2bb10bad67b87787a40cda882de96dc25322da8c4281a4350228b20ec9a028919e895d8c4b27efbe20f6a05b5a0fcc0fe67bd62fac21e86be30c244e2525a0542f71d4b0f4116beb9cd9f14a394046978cb82a0aadbbf34f21f5a93ef27ed63acf0c4b6ff9fe4dc3ecf82a9a559c4cf950c52828068731c55b62f0ac800bab9f6a9251d91f759f40ddc1",
+  "imageName": "4f48bfd6-7b91-4fe6-80c9-130f420d7b42/Dingus.jpeg",
+  "region": "CENTRAL"
+}

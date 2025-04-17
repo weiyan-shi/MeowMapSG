@@ -1,0 +1,14 @@
+{
+  "name": "Orange",
+  "catId": "8786a4b5-4131-49fb-bf81-0782d263fc8e",
+  "sex": "Male",
+  "personality": "friendly, trusting, curious",
+  "likes": "pets, sleeping in bicycle baskets",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673920671661,
+  "dateModified": 1673920671661,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/8786a4b5-4131-49fb-bf81-0782d263fc8e/Orange_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131358Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=55b16732df61939a54e623ad22a0eb50392ceacbf52e4d826a4e50f6b0ae8eacad5255b518c177f07d7aa2853bf8e06b55196689b191d4dddad1ad9cf95a8f1c93f463c5340b2867d6f1660dcb48d2b4d399f378dfb1adff5a6ee3d9ac40376b7ca861aa0eb0a2c68f9b3f0a1087002e0833d37aa57a2b6addb688550f1af9b2bab1eca0e048b4c0d104b09dbeff677c4af8d0c7b7ccef1dd58d88df7917eeca9acaa0c8d906eb04bd24be62503a3f6dfb334602c1dacc18be7c96d51f55b87202633d60f695a88588e1405f07940d0421fb48750e2e704bbedfb5fb7698f03aab18b072443ec0171f67f53574e2e1794f294ec4f37572e7fcdbb2bd179fd051",
+  "imageName": "8786a4b5-4131-49fb-bf81-0782d263fc8e/Orange_noexif.jpeg",
+  "region": "CENTRAL"
+}

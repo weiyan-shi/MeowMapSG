@@ -1,0 +1,14 @@
+{
+  "name": "Zhan Hong",
+  "sex": "Male",
+  "personality": "Grey cat who will act cute infront of humans but gangster infront of cats",
+  "likes": "Attention from Humans",
+  "dislikes": "Other cats",
+  "other": null,
+  "dateCreated": 1692966818926,
+  "dateModified": 1692966818927,
+  "catId": "ee83107c-0c07-4ede-bbd5-74831d9b1897",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ee83107c-0c07-4ede-bbd5-74831d9b1897/Screenshot_20230825-203135_Gallery.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T185810Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=39ff11f3c68f013889883b33864b7bc1e4ccff0118a4e86e6abee2c41d6b4431e9d8238b8ab8aeda1f6271dcd5166007fcaac31249c760613fdcf49b596479b6c82b66a8ef4b2f8cde0c5c9927e734ed2672d4d01ab9b3f25d7c35c633f3948004013bd217e3b14c83486172dd25ccc6aa3c812a4ca21ab5e2448617c72ec2807abea60eb0e0154e0fc8ed0e44d74141f6f6d540dd367265ecd14fa5065cf981ed28e456a5f8902083434161369c446188c32ad4b2ca8a95735e6f3a9a8a9ebb58839d13428f442f586603286367162e3338b2f272ed8954f00c072e9beaccb99888a415def5b6724711a46c3e5f9f6a3d765fe9ffeec25435c8516c8ec84bdf",
+  "imageName": "ee83107c-0c07-4ede-bbd5-74831d9b1897/Screenshot_20230825-203135_Gallery.jpg",
+  "region": "NORTH"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Blackie",
+  "catId": "880dfdee-b5ca-4dda-a359-7adf5176435c",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Treats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673949283705,
+  "dateModified": 1673949283705,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/880dfdee-b5ca-4dda-a359-7adf5176435c/Blackie_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131046Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=568652603455190890abea7dd8bc954af8fc0f2dd189b03819bce7ac79fa9b71a84ce7a8deb68af82fd633311ce82c7adf578f905fa375c131d23e20ddddcb209c2600443da456f2417eaf6a8a5d1b7bfc499a7d34e1d0ae86a85e51643ec73499bcdd51f8bcf90168b09ea1a4dd6a6549f46a1696296bd1502a5b599dcff53c36e1c6af8d5ccb496484d4bdb7aa9a8f8df8a811f4925ee14c9c1a6e9f5f9f120b8857cf0a9088d3c69c92002ebd749b95e9b2b0e3272e9e7f6d07b59505ddc6a03e57e6fa98839b227840353ad4cb1e1e2e72719689dd64728f3153a8aff8084fe1c49568ff733cb178ae821488e4ba9fc4dbd0964ae82582f8e79d36e51989",
+  "imageName": "880dfdee-b5ca-4dda-a359-7adf5176435c/Blackie_blur.png",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Milo",
+  "catId": "f239f5c6-3fd7-4ecb-bb95-2c9ec6b445f9",
+  "sex": "Female",
+  "personality": "lazy",
+  "likes": "food",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674029857172,
+  "dateModified": 1674029857172,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f239f5c6-3fd7-4ecb-bb95-2c9ec6b445f9/Milo_3_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130832Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3ac9453b0c8434df73f05270c0308bf2f000a504f36235c4a4145c77844fad10f31866c440634ccb954473d825880a4d89452ac5d63c3b6c5d7ea6352c313f49f48736f0b13955210f4e2d839586eb78a5141f638c855d05d63b98425b4d097aff7dc4ba8ea2efb34d116e0d2ef271d4985a6123d3ad32fc46a28de1ea14a09b8b08b10357c19a52942473bcacfbcbd6bb8ae53f6905c5a9ba1b607b1f188d582680c4096bad943e1d7828f32ca3a50ce65df32d1f115081bad22a698275c7abff8e8d0b59ab4cf216f02323afdec637903567f038f7b7b04341bf4fb7628df27320bc0ef1dcc6b0c108ef4adf3acde8a115058591fb9c05310947591e1e2510",
+  "imageName": "f239f5c6-3fd7-4ecb-bb95-2c9ec6b445f9/Milo_3_blur.png",
+  "region": "EAST"
+}

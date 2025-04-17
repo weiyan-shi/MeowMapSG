@@ -1,0 +1,14 @@
+{
+  "name": "Putih",
+  "catId": "d6297cf9-60d7-496b-a797-29838fe78a27",
+  "sex": "Female",
+  "personality": "Picky about food, very intelligent",
+  "likes": "Sleeping 24/7, patting her butt",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673929508989,
+  "dateModified": 1673929508989,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d6297cf9-60d7-496b-a797-29838fe78a27/Putih.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131407Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=750b54c527c5e8586251a5495a331d9745d5c1c7f94b373fe38f9a9d8b50dd4cfbaf1f6aa98685d804a558bbb337dbfc9afc16c487bea75ba01a5c9884d27a2330b405a547150a2b40d92281293612f95de469d61d0d7b4f38ce2336229a33498a4c3732eff4e61044ad91b65b75f7654a65aa0f3cb8e93d161674c660842fd8ee4fa16ebecdea35549f4c7448f6ace4237345e255c22aabecfab60ca072c0ce6e05906ee5823faa119dde2c1b280629f03b752a2174c1afe27502e7ba7a8fdf3ceb906fba3885c45e24e2adf7788050049b180a60929e51d2a77b54e61a4e236991629e6581a5126c75f187b28e699b8b62accc658eca2140d125b3cacad68c",
+  "imageName": "d6297cf9-60d7-496b-a797-29838fe78a27/Putih.jpg",
+  "region": "NORTH"
+}

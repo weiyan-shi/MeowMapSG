@@ -1,0 +1,14 @@
+{
+  "name": "Maya",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "She looks like she\u2019s a young adult and is very timid.",
+  "dateCreated": 1711982104571,
+  "dateModified": 1711982104571,
+  "catId": "3544d3e9-e6b3-4c19-adf2-cce54af83091",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3544d3e9-e6b3-4c19-adf2-cce54af83091/Maya_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131558Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=63fcffaca97be7586fbc76c2aeda45d6b1d610008d174e46156b72823a61b4e8a4605dcb9c377994346c003807aa3cbd9e6b84ecb2b428c1fcfa92ec46a1ed9456fe0ff51e7bcec5599921d05092802d4c155453eb6ad909469f44ff8b8397ad109289a475aafd04b947372517ac7a098d2ec331a12470e322c406d9625bcbf364086737eeb2261ac31a4e5841470131785d897faaadc463fd1f47a8ddef5bd63a396b2fd980a127678e1177760601252ff398b07a8ff306c389cb05952853d756bbcc4161927f2ff57b481ba7984ba35df46d02f2328d9f5b1724d6411ce56484f2437e32ddacd091dd4c0e2fb161fb6d56b5dfaa45f81cece662884f2f1e29",
+  "imageName": "3544d3e9-e6b3-4c19-adf2-cce54af83091/Maya_cropped.jpeg",
+  "region": "WEST"
+}

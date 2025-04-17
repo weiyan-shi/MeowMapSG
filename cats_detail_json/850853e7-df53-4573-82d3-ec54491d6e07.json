@@ -1,0 +1,14 @@
+{
+  "name": "Meowy",
+  "catId": "850853e7-df53-4573-82d3-ec54491d6e07",
+  "sex": "Female",
+  "personality": "Moody \r\nFriendly\r\nFierce",
+  "likes": "All cat food",
+  "dislikes": "Human food and drinks\u2026",
+  "other": "She likes being alone and hates most of the cats around",
+  "dateCreated": 1673968129346,
+  "dateModified": 1673968129346,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/850853e7-df53-4573-82d3-ec54491d6e07/meowy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131444Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=009dfd8735134d4de3c6f758a9388f27426eb57d65ef734eea6172513bbe991953364e164a213e92acb5f7caa6b8a1d1696469716bde2fb5ca3a11c57cdab50bb6d744748ca9a4d0891c8a5c85c61f03f6dee1975105c9322c01f9349642f4bca378be749cf9eefd7f3ae6f55383583bfcfad2c8f792b219427282d16c88c48c9599797e344650dcb95c1cc170dc8acc59d292b6b52d3d53736ca1453cc368ac9a1d4ca6f6f6b89b4820de94c83398bc3c0053fd2f6e4b9d2314ce27cb995f0bd8c7ff4f45e68ee119c72b92984249eab2359845311ad97d4680c382a5f957c2e766a062c333a6568f6dc004824c2c8e6e60ef086b2090cb5a7236ddb1365a13",
+  "imageName": "850853e7-df53-4573-82d3-ec54491d6e07/meowy.jpeg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Meow Meow",
+  "catId": "dc1dc7c9-12b6-48e2-8a0e-57feb3f97429",
+  "sex": "Unknown",
+  "personality": "Vocal",
+  "likes": "Meowing (a lot)",
+  "dislikes": "Belly rubs",
+  "other": null,
+  "dateCreated": 1673947808931,
+  "dateModified": 1673947808931,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/dc1dc7c9-12b6-48e2-8a0e-57feb3f97429/Meowmeow2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131416Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3cb8abeafb4e34777fbcada98f50e38e807f62c1b8bf0da951cdcd9a59d4ec3d8ab0d87bd323f1c686213b5e763b8df245c065dfe67fb09bea25bb578358e45189fedc8086000a01757b57502246c245d3812efaba0d1abe1dc1cac1ae6f3892170f16eb210d2955fb047895e7a0444f5b1495c50f9924233650cfae46bf672b126068791c7e73412592718460bad1792197c06b31c0c3a861891612417642e1cdbe5007d2933b31bc2586fdc11ea8eb43af741b4d9228ec96632a33f900dd0b004461a28798ae4ccde39b03ec13bd0fa2d9c83ee619ecf81b5d7ddb001f7ef909dbca7933319298fc8f33d3ed5b56c3b7970d7e0583743686d218f9e332acea",
+  "imageName": "dc1dc7c9-12b6-48e2-8a0e-57feb3f97429/Meowmeow2.jpeg",
+  "region": "NORTH"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Cheems",
+  "sex": "Unknown",
+  "personality": "Skittish",
+  "likes": "Churu\r\nHeadpats\r\nBelly Rub",
+  "dislikes": "Noises",
+  "other": "Appears to have skin condition, likely elderly cat",
+  "dateCreated": 1741455950536,
+  "dateModified": 1741455950536,
+  "catId": "23ae422d-1bda-411e-8c23-febdbb5759c1",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/23ae422d-1bda-411e-8c23-febdbb5759c1/cheems_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131621Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=45a91a0d07e53593e6146dabcd5720ae8608ac8e98041d998b7eaa083df227beff5297861ee058ce401804e2764d01d3eec2131560c426696a0c3ae3b46c89cf875333d2d5fca761d5db9d9cb52422a95540422fceb2cee113dcfaf9303dedfa1fc80e53ebbf2712bc422b476f9ad51754631d0ef331d738caa1dfac1295265e0d110531d9e8746de3a318bea0a83b9413858a260044d28a9ccb796a95cedf8cf41708248750452eabde1f426ab5b4927893c8b8d63b298ea017821a4997e10a7b68a256b238c5b99637107423456002b4c8afc4ea75d34a1de86ceda240652bc0a306b337f34beab17acb0cf0ebb082bfce4e6749296e3cf3f1e4e693af823e",
+  "imageName": "23ae422d-1bda-411e-8c23-febdbb5759c1/cheems_cropped.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Moomoo",
+  "catId": "1d786a50-7f0d-41af-ac57-be5c2c695058",
+  "sex": "Unknown",
+  "personality": "Slightly curious but nothing more.",
+  "likes": "To be alone.",
+  "dislikes": "Human interactions.",
+  "other": null,
+  "dateCreated": 1673953171325,
+  "dateModified": 1673953171325,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/1d786a50-7f0d-41af-ac57-be5c2c695058/PXL_20220823_081109327.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130846Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=200909cc3257cb51b1d19414198b1d1961bd84055c3ec41d26f3faf2423172f6d3eb783bb7558b5a390c451c0b9ef4125415c75493b8ae9aaff76c88d973505a7a663be9e86a0dac2c1100099790f4cc38e0bb252f2c6651af820e07927b1d4bd7e41b73b9b8bd64a9ac70635cd62e7d87afef2f26bb6308d6486f697f0a20c046584b1d7933d6855cd24501d2f43d860280e67d2deedc8c6eacf5f4e40c69d909fa4a1458f332f65d2cb21e40c02ae87ac1b38de59661f2c991d2a2cb3fda15d89877d22d8d2288bc9f84f5f7629840fb500a50041d532d985262e103a3148a51233f52c980c410eda03fa07bd08b1ef75dcc4a46a9c32dc21ac99fd0061ee0",
+  "imageName": "1d786a50-7f0d-41af-ac57-be5c2c695058/PXL_20220823_081109327.jpg",
+  "region": "EAST"
+}

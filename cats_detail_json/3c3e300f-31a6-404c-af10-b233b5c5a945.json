@@ -1,0 +1,14 @@
+{
+  "name": "Luki",
+  "sex": "Female",
+  "personality": "Very nice cat who will run up to people when they shake the treats",
+  "likes": "Treats",
+  "dislikes": null,
+  "other": "Lives in longkang, very skinny",
+  "dateCreated": 1683204084722,
+  "dateModified": 1683204084722,
+  "catId": "3c3e300f-31a6-404c-af10-b233b5c5a945",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3c3e300f-31a6-404c-af10-b233b5c5a945/luki_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T011327Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=84a71b249b1b639464b6f00a6b98991ded60873145d7de31ded231528ab64c68f1d7db5d5bd1ff2006b833e579d5b104eff27fc82896a92f53cd7de6c1a5f36337f757ba18e275016a579617c635107b97a1c46aa0293daa703eb4fcf10f3d67042d17ffc00274ede6a48bddca35b3e919c66f885f70fc228071eb024928310d3dd5bb36627fe0228217c6ab3bcd51cbf99f7bd7ca3286bb3589214413263c49913004de15347f391030d3200678cad8f445fb9dde746c0cffc2f30688881e0f1c28f0eccc221df8c520a16a6eddb65371ec5949af4d055cbf5c9912c1ffde35072f4b79de0fffb0f6be33def0c889eefff2fdfd631651b27dec7f264207c843",
+  "imageName": "3c3e300f-31a6-404c-af10-b233b5c5a945/luki_noexif.jpeg",
+  "region": "NORTH"
+}

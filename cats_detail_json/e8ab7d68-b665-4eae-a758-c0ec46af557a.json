@@ -1,0 +1,14 @@
+{
+  "name": "Gendut",
+  "catId": "e8ab7d68-b665-4eae-a758-c0ec46af557a",
+  "sex": "Unknown",
+  "personality": "Friendly",
+  "likes": "Creamy treats and scratches",
+  "dislikes": null,
+  "other": "Standard issue cat",
+  "dateCreated": 1673919434877,
+  "dateModified": 1673919434877,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e8ab7d68-b665-4eae-a758-c0ec46af557a/ABD9FB1F-E390-477E-BDF7-ED71C5FC0B73.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131357Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2922945a54b2c1c978fcff8f6adc314ad0c5e112b1e66ee53e95a40e69e46dc1e7a384305d05f7051223ddcf919366ac31994c6173a6742645a6b2d4a6125cb8d913a55411ae2e47469a460c73efec6b182b1aa53dde79a7d7f1fe0d96050da960ccec2f34f1249a4b073e8ad07deb80f5413aeb9f22725664e524b04867ab5f3fac771181e8cdb0f9370ee1db7f2c365ff86a8b37841bbd1ecfa62ccc42fe8f7df39d42fc6d77e5f1c3b460d6aee1811c679a50876ce169b10b18694cc157d265f2f8835d6dd9483509081c2019f7bf830acba564c40c4d92144c4863b1d72387c6c7983c813e3903c7ae3b989a936d3729425db23cd23351eb5e26a7ce23c9",
+  "imageName": "e8ab7d68-b665-4eae-a758-c0ec46af557a/ABD9FB1F-E390-477E-BDF7-ED71C5FC0B73.jpeg",
+  "region": "EAST"
+}

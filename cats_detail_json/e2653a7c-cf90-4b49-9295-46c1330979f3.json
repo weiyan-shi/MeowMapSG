@@ -1,0 +1,14 @@
+{
+  "name": "Flower",
+  "catId": "e2653a7c-cf90-4b49-9295-46c1330979f3",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674037591660,
+  "dateModified": 1674037591660,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e2653a7c-cf90-4b49-9295-46c1330979f3/flower.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131505Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=830d15ddcac22e756fb9951c8254308ecea3be7e1d7ee57afebcfc57d6628261ffaa944bcff0923965bed34672c6d0b29f6ef8efe99b07de308b6655c998d11db91e4a4bd7e5d709cb9205f155c27c8f2abf547c248914710e671e5385ac76f583ca77cc10df7be3e084910e87039b86a5ffd48c1b048625666928261120689786c26b115a714357731c87209a2ed1d31d328a5dc14450166fde6df47b8e75b36434cbc254e11b8e1f2c3c4995e1e11e741543aec8d1a58edc8ad1fa11ad79a29bd583388b994f420d82ebd900b0522ea603d8534bd81297e8a118faab0d5f4f81d551da929914cb8b42356e75ddb40ca026dba153e380ac1f7be6cce7e58cf2",
+  "imageName": "e2653a7c-cf90-4b49-9295-46c1330979f3/flower.jpeg",
+  "region": "NORTH"
+}

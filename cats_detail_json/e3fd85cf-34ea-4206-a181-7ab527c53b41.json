@@ -1,0 +1,14 @@
+{
+  "name": "Simba",
+  "catId": "e3fd85cf-34ea-4206-a181-7ab527c53b41",
+  "sex": "Male",
+  "personality": "Calm, loyal and regal",
+  "likes": "Head scratches, pats, and food",
+  "dislikes": null,
+  "other": "Simba will sometimes take the lift with residents!",
+  "dateCreated": 1672904150633,
+  "dateModified": 1672904150633,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e3fd85cf-34ea-4206-a181-7ab527c53b41/Simba.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151749Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=64b737a31ab24a552a6f80dc1cd7434425fb13eae4bb387c82e8f119ae2e2b036694ee7788635cfc041cf2daedb2106bbbc28f3b1aa22c39c8aa9d89f9ec89d72ccc313dd3505cd287ac6886182dcba6cc7888c4dd4d1458939f04f18a0470a0fd324d92787654d9141618cb7743cbc42b5fead8f51c027c45b854e86f42bf8d15a3c729db6d28f8fccaf9376a19107865985bb5586729b5381ac8287f9d3c98f240e9b3a4cac7987d63a0800742b037f050733271197788221e12e48c9ed82af932167acc750c986ed53c4e9316172ec1503fb977e5e567d7a90b839cbe928c70003504f052764d6597d720955c73545937b4c733534217d0d4318acaa4fd84",
+  "imageName": "e3fd85cf-34ea-4206-a181-7ab527c53b41/Simba.jpg",
+  "region": "CENTRAL"
+}

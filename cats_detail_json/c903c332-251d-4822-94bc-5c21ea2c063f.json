@@ -1,0 +1,14 @@
+{
+  "name": "Good Boy",
+  "catId": "c903c332-251d-4822-94bc-5c21ea2c063f",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673923451031,
+  "dateModified": 1673923451031,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c903c332-251d-4822-94bc-5c21ea2c063f/Goodboy_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064729Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4273a55658accb062500e0bb60f83d87631e8b25743683c5e9d9ae528dcc64bd277d46592243c41f42d1a0c266a1aff79a21ea5d74e03fb93f0d460fd80c6be1b2c2c281b405a8347b931f34bc250d5dfa81eda612181311149849d5fb93c0620cdab7fd5af88588daa9e8f3cc1320f70cfd8944481a2ddd28d6e81cf223b228ae77d0e8081f53416cb41c9b3b4774b3e2278c41d27c95e99ff18479e43fca85119c0d115954f833ad1b99878b6a60902dfb7410992c20e4b915441465670c695fe5ebeedf55fd87a2141f50b6b826394bd0c287a80c7db5c99293b49c75bc7394adebf9569a3570296da1a0db3384d769735377d67d49f4d63297cf7fd69825",
+  "imageName": "c903c332-251d-4822-94bc-5c21ea2c063f/Goodboy_noexif.jpg",
+  "region": "NORTH"
+}

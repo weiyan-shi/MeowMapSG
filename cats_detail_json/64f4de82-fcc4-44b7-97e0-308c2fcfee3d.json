@@ -1,0 +1,14 @@
+{
+  "name": "Durian Mooncake",
+  "catId": "64f4de82-fcc4-44b7-97e0-308c2fcfee3d",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Is a flopper.",
+  "dateCreated": 1673952719904,
+  "dateModified": 1673952719904,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/64f4de82-fcc4-44b7-97e0-308c2fcfee3d/Durian_mooncake_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131021Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0699fb206e96de69457e447567f2c7f652d1ce36a242c80bc399dd15e25ff597c098b3ff91a30c2b763ea9b4f727dc2495a1479094c06dc57cdaa5da7d331411969ee737e3aaed42d21536ed70ca2e9289b39cadb848b3339cc8dec168ffb4c257ad2faf049480b42dd478b2c126b3cab74daa677ec59b7df699b5316e1f93c578c663aa24c99dcf35e89f7c3359dad7f89b99273089760178790eb9dcd7f22d05d3a60d83effbee932e754cebba3a0ba6395a777f6626e8a75175c736d4e92c4a103590ed18082e7bef49fd913421798ee44e04333b44d39f592fe420248ea2f365edbcb537bcd00b52c76fe1d1306258da2c3664ccae8ad3c61c332b29c1ef",
+  "imageName": "64f4de82-fcc4-44b7-97e0-308c2fcfee3d/Durian_mooncake_noexif.jpg",
+  "region": "EAST"
+}

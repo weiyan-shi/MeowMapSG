@@ -1,0 +1,14 @@
+{
+  "name": "Happy",
+  "sex": "Female",
+  "personality": "friendly",
+  "likes": "cat treats",
+  "dislikes": "dexter the black cat",
+  "other": "12 years old in 2023. Fed by numerous aunties and uncles everday",
+  "dateCreated": 1675759099829,
+  "dateModified": 1675759099829,
+  "catId": "83745793-d171-42d8-8724-410156bff99f",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/83745793-d171-42d8-8724-410156bff99f/Happy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T172701Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8ab307c3aff5bf33c51e26e97e40e38b7a86ad116c3d815a17aec0ab1dd09607f7c8141e9a48a4e7aa2131f72fe2318dc7076bce136b15a894978b74bcb5d053fb53df3e45711f2f647ce37a3b0c01381e3476e6c9cad23d32a4382e3135f5d98049ee65d116a0eb55909fd8c13db136f294061d9684ae572bfbad209c460b650e8c385dee328dc4ce2751160c181139903c6fde62f4791b6c184a867e570d886c894746c64aca6214e9c6f00fbc81ff9b9a14462f6c883329d2a196dbd7d32018e716f50994452ec45c371cc09d04792f9fcdb4b1ca33ccf6897a2f041fba8fb4e2492bd4fb18557cc11e47b65e5f8ec6ff015686c806bf86b6f6502b39ae60",
+  "imageName": "83745793-d171-42d8-8724-410156bff99f/Happy.jpeg",
+  "region": "CENTRAL"
+}

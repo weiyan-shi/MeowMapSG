@@ -1,0 +1,14 @@
+{
+  "name": "Panda",
+  "catId": "127756d9-6c13-44d9-96fb-dfe79388d46a",
+  "sex": "Female",
+  "personality": "Great personality",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674064196160,
+  "dateModified": 1674064196160,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/127756d9-6c13-44d9-96fb-dfe79388d46a/Panda_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131513Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=75cc448080a33ed607c07fb1492f83f515e23bd9bc167e7f6b5d1b9deddba2af208c5fccdf46cd7790b360ef963b270c199d694cabbdb7194647ffea2f75dc3a3f9981d1c2b7ca2e9d1b8f09f3f8179f2f8160a29b2d39a28c779417ba9579f00764562266cbe9cf1555df1e87b309e0d4b092206e030b00096e138c6ebccbf001043340d381cd0512c9566a82ca89e993f13ce64db793bf4fbc48704935d71d5fea16eb0175390149dd0d314a89e33dff20d411f8d824619727276799219c7cc530f67da4a91f6cad7ac884743804836a300828cdee9be6119713d0b01df966e7cf252106efd13dae47e4cd296ac4e79cc7a203b756a8c3c935050aab2c54a3",
+  "imageName": "127756d9-6c13-44d9-96fb-dfe79388d46a/Panda_2.jpeg",
+  "region": "CENTRAL"
+}

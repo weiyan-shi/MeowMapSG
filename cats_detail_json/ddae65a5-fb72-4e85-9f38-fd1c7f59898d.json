@@ -1,0 +1,14 @@
+{
+  "name": "Baby",
+  "catId": "ddae65a5-fb72-4e85-9f38-fd1c7f59898d",
+  "sex": "Unknown",
+  "personality": "Affectionate, gentle and patient.",
+  "likes": "Ultimate lap lover.",
+  "dislikes": "When there's no laps.",
+  "other": "If there's a lap, there's a way.",
+  "dateCreated": 1673952152589,
+  "dateModified": 1673952152589,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ddae65a5-fb72-4e85-9f38-fd1c7f59898d/Baby_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130945Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4a2489071b52e9b57d0fdf196b78a5aa7d4bb4f701fa6c3d72794e13772a6b25aa800fb8ed86e546e184803e8d8a7828b866f3057d3761fa1b44a4883a9fafc0d293894baf703da169b53e159bd6c5889c7215041cd0bd602e4b42d24648612fad87bdf28301ebb3229055785717a668fba4e91bd25d7401f51584ec83643c44852ac313f52bfbdb100fc75d31109dcd32fba9d591c7098739a7257a75008115bd78fcc10f7fa7edd8984614a0ec7bcebe7c4cc993fa970fe829dc5db11dd913aec63a4cc32d5b01be4191c24ad30fc1fef9b6e410bac616c5ceff322982c5451fdf2ef5d965320d4b57255e1323251291ebc4e36beee33d1b5041cff5cefd54",
+  "imageName": "ddae65a5-fb72-4e85-9f38-fd1c7f59898d/Baby_noexif.jpg",
+  "region": "EAST"
+}

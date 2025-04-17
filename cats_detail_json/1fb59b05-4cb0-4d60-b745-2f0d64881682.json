@@ -1,0 +1,14 @@
+{
+  "name": "Jerry",
+  "catId": "1fb59b05-4cb0-4d60-b745-2f0d64881682",
+  "sex": "Male",
+  "personality": "A laidback little shit; will let you poke his belly and touch his toebeans",
+  "likes": "Hunting; sleeping; licking people's hands; sitting in people's laps when it rains",
+  "dislikes": "Being carried",
+  "other": null,
+  "dateCreated": 1673912349801,
+  "dateModified": 1673912349801,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/1fb59b05-4cb0-4d60-b745-2f0d64881682/20220720_191146.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131353Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=349cf9ef214854262f074e241281bbf28444c056d88c7dedbd04143337355349b91fc8064fa211e9908b4fef15acfceb5f3265257bad6b1b57df511b22cee007e9b8d3cd5197153863cb872c8292f3da56281eab14de06ef671ff54dace6f4ce7796384cfbc96228559df96e42d81fa95e06181f43d96fc6f88c9760c5ebd0994129e2f0b311b70ab8b1d5e2c1a8f6035e821b509edf1a4b37afae880fdfa625a843061cdd385be27bec566b7fa0184d6afa909bb52ac0735b630a9be2e24be8fd138e916e2d809cc0010f7f6bdec9e187b9348d7c4f6e07d7cbd817cfa6fbf0d07b1631e0c2b9895aa401810101376e97a9a7721ccdea20b25a93659f8f9822",
+  "imageName": "1fb59b05-4cb0-4d60-b745-2f0d64881682/20220720_191146.jpg",
+  "region": "WEST"
+}

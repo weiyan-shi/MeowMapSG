@@ -1,0 +1,14 @@
+{
+  "name": "Cleo",
+  "sex": "Female",
+  "personality": "Shy and aloof",
+  "likes": "Sitting in her bicycle nest, hiding in the sewers, basking in sunlight.",
+  "dislikes": "People, being pet, being annoyed.",
+  "other": "I rarely see her, perhaps she prefers to hide in the sewers.",
+  "dateCreated": 1691204516040,
+  "dateModified": 1691204516040,
+  "catId": "9850195f-8170-4dea-83a8-36e9c2cedc02",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9850195f-8170-4dea-83a8-36e9c2cedc02/cleo.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T022552Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8d76157ee03fd0b022fe98a1f4364bb4ae9e72f24f5115bf78c2448eb2f98fcdcb17ee6bc27dff3540a5f196c2d76bc753b8140d929efe0a01f9a3189f728dc0f78c186697f3c643cb3f528ab82ce2120d6b875ac6a759341dd5f32afd3769b77d02a0421efa19ddc569374f2f05e1f35745410acbedf2ae4fe4712bc592a2162e8deedf4ff04bf30fa55d0cf111f9c6b8f85b8e6f3571666b7492e5284a197b789e5d4b861cc363fa545013646ed6684979360a96d703f0f5170fc65604a669519521410734c7b0ca433e8a1c03d821128f09e9cfb32a3d9fd232d4ae506f2a8dbbcfd0410a65145d22319410201cfb23b075db78a439b9b358644698a2b825",
+  "imageName": "9850195f-8170-4dea-83a8-36e9c2cedc02/cleo.jpeg",
+  "region": "CENTRAL"
+}

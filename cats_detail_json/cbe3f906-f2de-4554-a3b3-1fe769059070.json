@@ -1,0 +1,14 @@
+{
+  "name": "george",
+  "sex": "Male",
+  "personality": "really cute but spoiled. friendly and outgoing",
+  "likes": "food, chasing rats and birds, hoomans, pets",
+  "dislikes": "other cats,dogs",
+  "other": "he luvs food and anyone who give him food and will often follow ppl up to their house and will break into ppls house to look for food",
+  "dateCreated": 1725620191593,
+  "dateModified": 1725620191593,
+  "catId": "cbe3f906-f2de-4554-a3b3-1fe769059070",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cbe3f906-f2de-4554-a3b3-1fe769059070/george_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130941Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1253d86cfe7ca3dbd191b49d7585cba32e98917295c087afa965e6b922ae3e9f32733d63b0e782c9db6c990417daec7bf0e2fdd00d4cc1341e36d6d6e2c2e43f74c88e16c18ce4bb267cc2c75039d17f9ea9969d6c50f84ae62038a264885b69a32e6135f1205f4637a4973ac6b9a46ab0f35c216af2b868afe07dae05fdd5ea7c095296ea129af77c89f709f5bfc12c277cc4c063098ace782e84c2fe8ab4d2dd247919dda82c071cea4693930b6f62cd5c142ff17322e08c50e494adbd674600385643dd4b1099cdc6be709457f5e6d820e1a8bcf8792abf6025afe70d97c758fef28d5ac99739144ee30db37e77a7491f492e1003a20b9340a39b7189c253",
+  "imageName": "cbe3f906-f2de-4554-a3b3-1fe769059070/george_cropped.jpg",
+  "region": "EAST"
+}

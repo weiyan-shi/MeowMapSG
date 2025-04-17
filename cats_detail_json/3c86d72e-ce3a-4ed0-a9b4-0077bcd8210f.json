@@ -1,0 +1,14 @@
+{
+  "name": "Yinny",
+  "sex": "Female",
+  "personality": "Noisy\r\nVocal",
+  "likes": "Treats",
+  "dislikes": "Being Pet too often",
+  "other": "Loves treats",
+  "dateCreated": 1675929176052,
+  "dateModified": 1675929176052,
+  "catId": "3c86d72e-ce3a-4ed0-a9b4-0077bcd8210f",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3c86d72e-ce3a-4ed0-a9b4-0077bcd8210f/Yinny_noxif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131530Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=74c1594141c6ceb5ea60b04860222307f4cdc579528400bf94b89dc71dddb34b673096b7231fc3adfbed93991cedf20b21beddc4012331a9312649df132d7d18f14c521e97ccc4ae1bb4c2ce09c45e012891610314e6c6ba1ca2009da5a94b3eb615dab3038ce1a80d6ab94415369b297fdfe86a674ae3bf9d071c5e3b075168cb77cd2819a45d07bc306972d07823e99ced28c7e3b4635fd4d7a248b97f3ed538c48fe6ba3c089aa8fe2902c5ce72533cf6c07b9c9d4a8757842158756c632ec7d5dd69312826db888c6eec7ca8651dba1057474ad5787a4e10ed8df4b857a1853f065527f4b2a5bfa511a137ca42cf7fc221f318222615c43e1c5679a83c70",
+  "imageName": "3c86d72e-ce3a-4ed0-a9b4-0077bcd8210f/Yinny_noxif.jpg",
+  "region": "NORTH"
+}

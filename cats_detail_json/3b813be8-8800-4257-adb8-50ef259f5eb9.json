@@ -1,0 +1,14 @@
+{
+  "name": "Crystal",
+  "sex": "Male",
+  "personality": "Close to ppl",
+  "likes": "Pats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1714651948901,
+  "dateModified": 1714651948901,
+  "catId": "3b813be8-8800-4257-adb8-50ef259f5eb9",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3b813be8-8800-4257-adb8-50ef259f5eb9/crystal_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154549Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=81dee9bbb2ccd150a1f435882b3104c22606ab934c907ca76c94f4982323bbea484eaa85d94eefae24453ea4f1774a7df78800f76971ac2eaae35092f94ef2f5b11250f0243b2f5b18ae82289cc58e8500b37db1f8ddb5ec8dee43ae8e288699ec4ba2140fdc6f4dd1758f3584bd113706b6b44bfb8c29ded25398092102936cd2d1e958a67449faf13065c582d8ba8ca912ed004bc5044050284f43afd5f0f7494a02d780a838574821febd87c06e272ea53f0a43cf447fe96c011deccc13462dbebcad4dedeb89e07a3138ed9dae2c0f37100ba4164223d007d5e5f05a3cd85056f6901077f4910b5ba4e7797b44e2943ef261620c042affb604c0f4beefe0",
+  "imageName": "3b813be8-8800-4257-adb8-50ef259f5eb9/crystal_noexif.jpeg",
+  "region": "WEST"
+}

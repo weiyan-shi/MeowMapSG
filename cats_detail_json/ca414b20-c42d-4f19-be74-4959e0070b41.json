@@ -1,0 +1,14 @@
+{
+  "name": "Darth Vader",
+  "sex": "Male",
+  "personality": "Meowing does not stop until food is provided. Hides under cars to nap. A great model for close-up pics.",
+  "likes": "Making an appearance after the rain. Having a whole conversation with long meows. Butt pats.",
+  "dislikes": "Other cats.",
+  "other": null,
+  "dateCreated": 1733686706892,
+  "dateModified": 1733686706892,
+  "catId": "ca414b20-c42d-4f19-be74-4959e0070b41",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ca414b20-c42d-4f19-be74-4959e0070b41/darth_vader_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T145427Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1dc4534abcec9469c4654e29d4fa4ac7786bd8bf22ccc86c1c2cef138c9b9848325b9e8ef996be41a19d6b5cd3573183d1585c7d79cb2003e01c9b01cfad53df45ee35546b21a5ec45b8f69d207dcb3f3ea70505cca29268832d7b4f6a8f406dc1a39ff8e613a553952f1a99a02747ba1ba316aa865ff7ffea16204c1d22082e030606caa15522916ace914a2f36b0373d42be4b77b46f275330129298015dc10e087d5fee548521b6618686dc55fe56f12ad9f487f3d8133a8e16d3790be4f82a4cf1b4cc24bd644262838e5315134a842929c31af2dcc08b332f479804118a7a71871f4ee3f2e07d0eeba27efa20edbda1172131d9dfb8cecd5bba66f547f9",
+  "imageName": "ca414b20-c42d-4f19-be74-4959e0070b41/darth_vader_noexif.jpeg",
+  "region": "NORTH"
+}

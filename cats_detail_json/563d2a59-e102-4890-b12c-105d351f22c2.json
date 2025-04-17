@@ -1,0 +1,14 @@
+{
+  "name": "Ginger",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Belly rub",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674959290167,
+  "dateModified": 1674959290167,
+  "catId": "563d2a59-e102-4890-b12c-105d351f22c2",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/563d2a59-e102-4890-b12c-105d351f22c2/47DAF26C-A98E-4BF6-912C-7070459142D7.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131523Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=74fb03d4a9e8c0d33369c47c09f491a79e0c8d2d63f8b2c12b2b262bc671eab4d5d48d70f8a887b5ac36f0c0dc6924a0517268f4f4dee8521214a7182f8bd88fc80ce9bc392cc431b4c5b1f8dfc225f56cac2fe7806120d557cc1905025ca305437a6eae5df9be84a320fe6d3adaa74399a0758e841096902beddec6ab527c4c86d53070fedc663417f6d51e5c2b9bf1ca0205a72718060bf43683505ea3f6aa4c9f5ffe642b5569cf60774350e711924d2cc02957f459b417ce93643b1d33abbd92ffb79dc5a0ef932eb98fa7948a166b94e968ce2fed74c603742ce1812cd41c7b639cbe4b0309632fc7b0357de195a089d82cc2aa8f11c9c3e834f1fa7bcc",
+  "imageName": "563d2a59-e102-4890-b12c-105d351f22c2/47DAF26C-A98E-4BF6-912C-7070459142D7.jpeg",
+  "region": "WEST"
+}

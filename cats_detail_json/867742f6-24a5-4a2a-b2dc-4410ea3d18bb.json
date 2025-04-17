@@ -1,0 +1,14 @@
+{
+  "name": "Scruffy",
+  "catId": "867742f6-24a5-4a2a-b2dc-4410ea3d18bb",
+  "sex": "Unknown",
+  "personality": "Still wild, Scruffy is afraid of people",
+  "likes": "Food",
+  "dislikes": "People",
+  "other": null,
+  "dateCreated": 1673922539138,
+  "dateModified": 1673922539138,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/867742f6-24a5-4a2a-b2dc-4410ea3d18bb/Scruffy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154415Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=724ccf5dd9e19156c91c100e1743276fce7f0df8a5e5c1784988e19a9036b65171277874b47de56df5dc60092c0b90facb40b42af951cf7a182d1396aa47c2adba7a14666b0719bb3be141a8b09b4418c4a7b3652de7b531fa2da687b8591446eb2017e28c59896bce2fb393bf00465ef4e29d7e03bcb3c6c1345347097bfd4084466e309e2f679df059e0f009a9677f826e6e7e59dd2e1caa9a9c03589d0079d856ddcb50f2bdf686f3349d17524e30f923664f6ba6e330079748d7b8076afd83431a4b97bdbb9c5646f2f28d67cb1670411f10b59db838f27db7b50fe989c0034a0d94e855e6eaf935ce4c4c795f354ad296921749056df2455fbf7cec8338",
+  "imageName": "867742f6-24a5-4a2a-b2dc-4410ea3d18bb/Scruffy.jpeg",
+  "region": "NORTH-EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "puss in boots",
+  "sex": "Female",
+  "personality": "scared",
+  "likes": "sleeping under cars",
+  "dislikes": "cat beds",
+  "other": null,
+  "dateCreated": 1674829983279,
+  "dateModified": 1674829983279,
+  "catId": "7a0fa4f9-4ff3-49c6-ae9d-6e1b23f32983",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7a0fa4f9-4ff3-49c6-ae9d-6e1b23f32983/pussinboots_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T061201Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=248ab6393309fccbc2e3d3a490574bbfee36db7a0c31b545f1fedbc03d060d73b0f0e0204e40632a97223af02d5578c1d9395c3a608142f814d430b607305d413a189d6b9de2798a93d5f308325eed2ed9911612142deaefb744b44ce7edce8ffa16667f6cfa5e5491cb6203943cd4bd6fae029bb8ca0c80d84dcbac1b19963e003f70f803422edf1a7c891c98eae8076ece329f4bd03fed9733786505491baa58b7329970476e4616ca9a812b111b840758f383be5be3e892b4dc8be1d162ad4c1df45bfaeac0c4594f32f4e2542222092472dd0b9fdc457b25d2fd5a5c9e314893982148bad0c525d1fc46e67607420d00355eb8e2ac2acfedb40328a921b5",
+  "imageName": "7a0fa4f9-4ff3-49c6-ae9d-6e1b23f32983/pussinboots_blurred.png",
+  "region": "NORTH-EAST"
+}

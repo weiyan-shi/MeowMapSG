@@ -1,0 +1,14 @@
+{
+  "name": "Gooyoo",
+  "catId": "cc97f193-f3d7-4afb-96f1-046ae6a3e904",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673201008043,
+  "dateModified": 1673201008043,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cc97f193-f3d7-4afb-96f1-046ae6a3e904/Gooyoo.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131252Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=004a600bcf8b378b2e205ded0fb05a52c1b48f12fafc9fa59b38262210d3d8657ff84ad4a2b00d54a1c0dc19f5652af08a6e0f89ec7798f7ad57a25404f5b975c6766b2b386d6793744b7b0045795f196b94ffb7d21c9f2df0d11b4de19bdbb6e4a877892d48c01f16b84ba24efc68d52bff31f3dfb6fee85f395530ecb1e060191cb41e05430d6ef080a6ea4e8c0392ce0cb2df957b72070fcd2d59aac8356b232403f0ca71e3d546b1a162e6fd3fcd7cfae7638641140d5859399ff0fa8780acabfa1e5bd10a295c5094d650b84c3992e7e8b0bfabcb6f96e0880d4552552e4b5b88344513d324b22546d38fb5f1e0b9f0d1de684155ebcd125950d120b911",
+  "imageName": "cc97f193-f3d7-4afb-96f1-046ae6a3e904/Gooyoo.png",
+  "region": "CENTRAL"
+}

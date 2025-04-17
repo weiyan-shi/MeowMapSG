@@ -1,0 +1,14 @@
+{
+  "name": "Moo Cat",
+  "catId": "496e00e2-aa97-4803-aa8e-1728482385f6",
+  "sex": "Male",
+  "personality": "Likes to sleep above the carpark",
+  "likes": "Pats on the back and chin scratches",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673927431529,
+  "dateModified": 1673927431529,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/496e00e2-aa97-4803-aa8e-1728482385f6/Moocat.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131407Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5ed06a5d747d3c3675a6a2fef7a18ae4c05842c1f43cf2f38032637d084cd3c9107af9e7d553201e3d6b5a74a30d64f6314f331f4266752287615cca31fc862eff7d9cb90edea3aaad4a26087541a1922cfd5e73d679d9ab335e5c6620ae3ac6916f2b6f6b3b385127e41645aa83477f8037c872b68864fd7e46476cf4bf629689d81a1ddcb99767bf8848182dcff4e8f4d9905bb7f004a5bf2bd173c28b89730b7b4e4bb00525d27ed997b9be781e6c96ff310aa443f78bb3182894da991331dbc26203b51a414568b084d2bbcb63d60ddbe837344992c11f1a6f31279d0528b661be722c5895aece1263f4bfc4158d64a08806b7f8b2386979295d6ce2e2c7",
+  "imageName": "496e00e2-aa97-4803-aa8e-1728482385f6/Moocat.jpeg",
+  "region": "NORTH-EAST"
+}

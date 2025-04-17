@@ -1,0 +1,14 @@
+{
+  "name": "Tonkatsu",
+  "catId": "e95b6edc-1fc0-48be-bc4e-04d8f179550f",
+  "sex": "Unknown",
+  "personality": "Friendly",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673957292335,
+  "dateModified": 1673957292335,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e95b6edc-1fc0-48be-bc4e-04d8f179550f/Tonkatsu.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131437Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=59d0477541fd3687e8d4d47b3075290504f4f402ecec917789c117e79310a045d429595cdad1f7fe7e610e048bd194f41ff9a78650b18a47deba236b54c7125759bafe1eb50c6a3736d660fc67e52b8f724b9827d50ec2e9f7a8e043dc7aed90a3574fd9c10b7937f03a58527d22e6ccbc7ff60688d2335eb719e52afeb5fdb20d64500d6d9eda7cc1e52e183b28b0fe09338ba9c586321843a60b3bb47d631a0a4a8fc93a078023dc3ceb6c6170af77232b8450d9660a0a3eecb53e0ae8befc089ebb872bc46567ab954deb2b53f7fcbf9e0e2c28f0035725b959ec2e5550741e239287eff88fb6eb60ad5ecf6af75651960691bd1ef7a70f86232cefbecf2f",
+  "imageName": "e95b6edc-1fc0-48be-bc4e-04d8f179550f/Tonkatsu.jpeg",
+  "region": "NORTH"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ginger",
+  "sex": "Male",
+  "personality": "Friendly & talkative cat likes purring.",
+  "likes": "Petting on head and butt",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1718209067192,
+  "dateModified": 1718209067192,
+  "catId": "1d44198b-da04-4bbb-9f8b-adc102d12ae5",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/1d44198b-da04-4bbb-9f8b-adc102d12ae5/b892587e-a7ef-45f1-af4f-1a79926a3e7a.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T061005Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=59ab9fe5b06644ecc53a62fe096b10149bb4072703a4126707828638eb4a3dd231eecb662cce95a3d5bf35e25113fe686cb83d205a2f8782d214e7c32b8910ad87d6ea3ad6f4667ad22cf0c9afd14fd6f0bdff3af293c42b666263c26a848469aae981317ce40971b18633417629cc9aaac679346bf4d245418c085a105207dffb410bf81901d258c1ce7dd5588ebcddc7a526e62900de5589ff451a29f7a7664979a2e08251ae6eb59e38e1f05bbfa9bc811013533d14d41b90f0ec0becded34f06b5db26460d7eb446e9f4ec716042efb81cc073c5b7c6c32f71a8922af74f8c6fa26e711d690561a8767016d5f0486ab0d521e8904a3be58f9016fc8b18c2",
+  "imageName": "1d44198b-da04-4bbb-9f8b-adc102d12ae5/b892587e-a7ef-45f1-af4f-1a79926a3e7a.jpeg",
+  "region": "CENTRAL"
+}

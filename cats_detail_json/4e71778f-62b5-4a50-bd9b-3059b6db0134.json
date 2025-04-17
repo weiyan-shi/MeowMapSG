@@ -1,0 +1,14 @@
+{
+  "name": "coco",
+  "sex": "Unknown",
+  "personality": "Cute cat that has a high pitch meow, loves its feeders and loves to sit in grass.",
+  "likes": "Likes food, quiet environments",
+  "dislikes": "Does not like to be in noisy environments, does not like to be touched at the tail",
+  "other": null,
+  "dateCreated": 1694507033444,
+  "dateModified": 1694507033444,
+  "catId": "4e71778f-62b5-4a50-bd9b-3059b6db0134",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4e71778f-62b5-4a50-bd9b-3059b6db0134/WhatsApp_Image_2023-09-12_at_3.21.06_PM.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131550Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1538ec63d05913aa252c40cf77c68512785e67ff43f5ea6c656d522836aeaedc91820c426e90739cda33035431221c06d58f4cc28f9d039f661df1f322944e71ea0ce300360772073acb9c228514f850d3ab93e016fe5507796e5c3a1ce7f5adb9bdc67113464621fee3a9b49a8cad31a8c57404470489293ba4daf618a97d4fb33b7475fe27f71f479730bf5a2fd11c5c2aece15f30d730f2a976aa923110c541a06383048c7103313ba6e047fdae032a58feef698e09383cb8dfa8ca060ba00529a569fbc36729ad7577ad03696440c8e07781432c1ec06c7e3a6ff62126c3df3f979bee1f08fcb98ffcf303cb5b66c95c372eb6daed8537740c26566e6acc",
+  "imageName": "4e71778f-62b5-4a50-bd9b-3059b6db0134/WhatsApp_Image_2023-09-12_at_3.21.06_PM.jpeg",
+  "region": "WEST"
+}

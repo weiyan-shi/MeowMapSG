@@ -1,0 +1,14 @@
+{
+  "name": "White Cat",
+  "catId": "3a8e5752-08e2-42bc-8cb5-0f23b36bb553",
+  "sex": "Female",
+  "personality": null,
+  "likes": "tuna flavoured mousse\r\nsleeping in a shoebox",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673876430731,
+  "dateModified": 1673876430731,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3a8e5752-08e2-42bc-8cb5-0f23b36bb553/6F6AE760-0741-4FA7-9B30-28095D544BF9.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131316Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7f4c720cdbeff82e7a0eeb6d1f78bddc277492c7732c155863c249237953a2f3ed5bc6a83cacfbfefe140a2a4ec70de3739aafdb1c1bc217de3bd7f0da00d34b8a625ad1fbe7b91f810ee3ba1d42c2fddee4c7636a513d2be5a128357b398c2290b58e87bfaca8e95485278668f5f72648d2ea0b177363ffceb7ab8f300e88aa653414fd4c2b406e8a417369f24f23d9ae5f5bfc3527ab4f176e2d32df300068469dbef72de380614ba2349645fea0f3190ef02bf255825d3c9e7b13469cd8f694f0671075441550e46cdfb7faea0aab755273e2a2cf61e7d5d621935273209f6034c25c25aa1decfec1a404abc8a35eb2ad46eced291e3e150cb147955e5312",
+  "imageName": "3a8e5752-08e2-42bc-8cb5-0f23b36bb553/6F6AE760-0741-4FA7-9B30-28095D544BF9.jpeg",
+  "region": "NORTH-EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Old cat",
+  "catId": "6e9ef281-c26c-4ae2-931c-5d3334468901",
+  "sex": "Unknown",
+  "personality": "talkative",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673947436318,
+  "dateModified": 1673947436318,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6e9ef281-c26c-4ae2-931c-5d3334468901/Old_Cat.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131416Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=18771f1e886251b0d3a13ed6f422c67e57bef85dd50f179b22ad056f8837e7eb85b6d953b029b465ddc214fc0d445a12c4b4b27f9cd3007f8a4d0cfa52271bfb9377d7073b873c917e6a1f31e6c196cdcca31d6d271c2bacf17ef9ed291b9b5e2b140ed24f11344f844477a4da54c9567578b94c947f849780e5d0ef441f30631a2318552753f6fe4f42ea48b708603c9b9d48ded5583d9a675830fecb46a8756b2b5cfae70b05cced59d34417e0cef61cbe59e22b76caa6fa67394616391bb3d03fb32dbd2c68f6ade15eb08eaebb3c716be5caf0e2c42e1117aff421ca12f222804fa8d0e82f1729a39319ac3d18c3825b0e47cc01fe15a9e71948e2605fe7",
+  "imageName": "6e9ef281-c26c-4ae2-931c-5d3334468901/Old_Cat.jpeg",
+  "region": "CENTRAL"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Bubu",
+  "sex": "Female",
+  "personality": null,
+  "likes": "Chicken flavour cat food",
+  "dislikes": null,
+  "other": "a.k.a Lembu/Oreo/Angel",
+  "dateCreated": 1699612061781,
+  "dateModified": 1699612061781,
+  "catId": "88f45693-57fb-4a95-a0ef-65acd2c71de8",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/88f45693-57fb-4a95-a0ef-65acd2c71de8/bubu_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131553Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=512ac31c809ee49d00bff1929aca2af7e458d466fcde1de860bd063e71820507aeea82da6a0c94a977ca360f3e44199cc11d48955678c4eabf45ac57a69164f562b7b14288c04bfc01c380bf6f29fb8c13441faab20752c2b7898a850e7bc7b472cafa0b014fdaa7d7e1915c49a95deca4f27f67e17ea33dc23d1515fc02be10a64d93d4dd969b6ceed34877642f3b67546670f63b870399c5d10223b0c09e5f32236fac0e9746073ed09598874c926138e644ab65e276c6969f9c5ea80123bf1766d5605732b3b2badc0dddcde476e74a773ff78c72e820d4e996d35ae57abd71fc2f7f35b09dcd0878dd9012b2816801c3d58168bfae35a727c6a17d499ec7",
+  "imageName": "88f45693-57fb-4a95-a0ef-65acd2c71de8/bubu_cropped.jpeg",
+  "region": "WEST"
+}

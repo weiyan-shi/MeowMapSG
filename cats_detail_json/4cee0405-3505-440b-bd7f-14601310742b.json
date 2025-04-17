@@ -1,0 +1,14 @@
+{
+  "name": "Gizmo",
+  "sex": "Female",
+  "personality": "friendly and affectionate",
+  "likes": "snacks\r\naffection",
+  "dislikes": null,
+  "other": "tipped ear, pink collar",
+  "dateCreated": 1729162182184,
+  "dateModified": 1729162182184,
+  "catId": "4cee0405-3505-440b-bd7f-14601310742b",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4cee0405-3505-440b-bd7f-14601310742b/gizmo_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154619Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=24f1ebf191cdd3bd6f743dda7d7eead5a57ab57d9999c9a56cb4605d81a346bc5121efb3ff4b3e957c74b274400aa20a7ce35b4b122966ef81bbe0faba4a4cc2c49d2df252e754a70599606d0fd0c42333cf905ece86dfda3716c1b907660fe8c779efb11bd63757f19d67db769933eb1ecbacde0d2b68bb0b557e71a736402c945ee3ff57390476093cf1a58c1a9f61a252c5eb2c3e9b7e17ee28964de767eb01db79bdc2cb350ab32ec7c1c2e77fed291852cf59bc615f2f192a1eb282e2c487ac4f148c2e4b5fcd463bdb515f4caed4ed1f6086bdd16b81cd22cfb0f9346cf175f9a052e73d252d331557f04fcd9a7fabfbef56271ff58109a013885ffca1",
+  "imageName": "4cee0405-3505-440b-bd7f-14601310742b/gizmo_cropped.jpeg",
+  "region": "NORTH-EAST"
+}

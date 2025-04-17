@@ -1,0 +1,14 @@
+{
+  "name": "Tofu",
+  "catId": "dead75ea-c9f2-4958-8cf2-407f0e458a11",
+  "sex": "Unknown",
+  "personality": "Friendly",
+  "likes": "Pats, belly rubs",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673957352279,
+  "dateModified": 1673957352279,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/dead75ea-c9f2-4958-8cf2-407f0e458a11/Tofu.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T185813Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=15fe754e07073fb52cfc7d4baff21933c5370a058de94765d20f6bd9e5ccedb4a294c1181025810648b86fbec065221e62bb2db8af56d6ca90f3d5388dc5b6eb9b38116892f5a11127ce2e0568214345a0e2d7caa773da44703d8b03ba818cc34c674c701740373b8cb33aabeb0e133394c4fb3dd204c79f7826888877ada0a63ce3e249e119f69c9078a76e90253c2fc3d675a64834d51e49b14e0382b80fb00d5f73eea6eec8722e855f2c9bc224660f8b8112c8fdec2cdeec18f8e3bee9bd28e9f682afe2150b33742b730dcb56edd6f74456a433af05794a3bbfb1569b86eedaa585434b71413b6715f43142f1da510fed4bdaac8a97542623f9ca62ba97",
+  "imageName": "dead75ea-c9f2-4958-8cf2-407f0e458a11/Tofu.jpeg",
+  "region": "NORTH"
+}

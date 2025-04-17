@@ -1,0 +1,14 @@
+{
+  "name": "photocopy",
+  "catId": "bc92dbea-c14e-4f26-bf6e-b9b0f6201e10",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673953123388,
+  "dateModified": 1673953123388,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/bc92dbea-c14e-4f26-bf6e-b9b0f6201e10/Photocopy-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131431Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=120606846b28e399325e87816ccd276e4afa50248816d7f53d5e342ae3a7ed6a3f9b89771624973fad453da0b6e681adc7fc8ec1b4b5cabd9d78a24fefe981684b5d39d8ccb19777e6550b3500a634661ac898873d94739d1c19f18dc2bc5300c8c3e61387ba99b4351e0be5b3054800ae287cce537a1207f7d5fcffafcebf049ec71148ee9b4b29c80f7d9436cef814348c257890bd647abda7537cb1c1d2a64e156ef264de8e4f3518efcfbfdbdf127406eb74304922d81b42f7450db18e11a50892f11cfe2c99bcc16eb59044f5176d6ed338f95f916447a5d84bcde3ef20a3296b86469777637efab4dd2f404ec4f702300221882f950dfab6a2e593ff2e",
+  "imageName": "bc92dbea-c14e-4f26-bf6e-b9b0f6201e10/Photocopy-blur.png",
+  "region": "CENTRAL"
+}

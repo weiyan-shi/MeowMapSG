@@ -1,0 +1,14 @@
+{
+  "name": "Tommy",
+  "catId": "74b13f4f-8048-4084-9a80-9c8f6bc95c9f",
+  "sex": "Unknown",
+  "personality": "Curious, bochup",
+  "likes": "Gentle strokes on head and back",
+  "dislikes": "Tummy scritches",
+  "other": "Can be seen sleeping near another cat",
+  "dateCreated": 1673922747274,
+  "dateModified": 1673922747274,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/74b13f4f-8048-4084-9a80-9c8f6bc95c9f/Tommy_new.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130820Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8d2dfca5fca9bc7d5cc3e0af3a0b694c3496bddc7aa8e29de398ae9c159152df89a50a94d6997c296fabdc3fcc3bc3321477a59a751cbe894d8f5322acbeb7dda17654ed433f3c526f337fbae58d1d333084e79a1edc913a0accebe84b813b2b4f068d56300cab1b8808f817461aa18dbf14a0663587daf11298a59d8fa2c6c9f20e4993fb8631d4ed8ae2423878a1174cae9a76b2d28e12039c7d6ef31249f096508c1bb2913e526c11f933aefe019245014f31dc60e53543ecdcce6d4c5a7480213e08c27a3c7a21bce36508a6658263051dca04a7c8abd0f1cf8c7e42e8afd64b3bbc52858c40a01c96305e6ed769d0f7fa499cac951c17c507dc322de1ef",
+  "imageName": "74b13f4f-8048-4084-9a80-9c8f6bc95c9f/Tommy_new.jpeg",
+  "region": "EAST"
+}

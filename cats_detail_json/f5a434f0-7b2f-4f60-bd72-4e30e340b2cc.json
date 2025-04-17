@@ -1,0 +1,14 @@
+{
+  "name": "Ginger",
+  "catId": "f5a434f0-7b2f-4f60-bd72-4e30e340b2cc",
+  "sex": "Male",
+  "personality": "lazy\r\nsleepy \r\negoistic \r\nhungry",
+  "likes": "cream treats\r\nchin rubs attention",
+  "dislikes": "stomach rubs",
+  "other": null,
+  "dateCreated": 1674042022585,
+  "dateModified": 1674042022585,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f5a434f0-7b2f-4f60-bd72-4e30e340b2cc/Ginger_3.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T145411Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8aebb93364faa343f94b39aa9e49cdf1e293eeb76aad6b250d2677ca3b3f9bd793e04efbb7a65376502ab058916c84466e2fbaf5513ab8bee80ef504b56d0921a05c6123bfd0f5218b21b2a53bbbea50b3316900b01fb51cbe59d7881988839183daee2ef5428eab4ed07cf98593b6cdbabecb78bed093ab454ea431d8467c251a83dc5f83a58ea536745179313507ff2060a20ce3271650f077ed0b6ccfa997291a3a86494d89f3c2bad3b37b064bdceb473cb471ec2e4fe2be1c9d51e9e156b0194e2abbd70f4497556b56231d857eb21fb48ff8a21a31e017df79ec26bcf1fdd637c43bf3fceb11397b1e7b37c3c3db79fdc3d686840439d3c480b69381d5",
+  "imageName": "f5a434f0-7b2f-4f60-bd72-4e30e340b2cc/Ginger_3.jpeg",
+  "region": "NORTH-EAST"
+}

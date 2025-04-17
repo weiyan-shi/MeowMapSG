@@ -1,0 +1,14 @@
+{
+  "name": "Garfield",
+  "catId": "20a3fb80-7ae0-4ffd-ad55-2c51803e3a41",
+  "sex": "Male",
+  "personality": "Friendly, warms up to feeder soon.",
+  "likes": "Fresh canned fish or chicken",
+  "dislikes": "Noise",
+  "other": "He has a scar on his back, probably burnt by a cigarette or exhaust pipe.",
+  "dateCreated": 1673400521364,
+  "dateModified": 1673400521364,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/20a3fb80-7ae0-4ffd-ad55-2c51803e3a41/A753B255-D826-420F-8D68-A888984A2450.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T011516Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0d9dedb9b017519e4cfb0ff3f1b1fff1189fed08ec9366659c11a47bb65a5d5d68e348608b8942cad5537c0f68fa56048e708ea6edf81ac1d3d4b1ba42caea02b48327094389b91d6e131420e2b36fec5845d5873fe56c08d13f79aff598ed1718620e44c6e73731d4beb8cd4a260f4d8d7feedf6cc7328e0a4c9752cf6be07e091f2aad84e282dddad2af00b2e3f3127fe07ddb136199b70b552a71c67211360a6ac7f9880221fe2fac12d2f08323c48f86d25fd18bcaec585fa0e3d509a3fa2b4a35efa9ed9b7f0be39c9a07576810c13bec67831810a5924f7d7a3aff78d6ab6cecd0957f0913f0f389dd3daaa8a4ba2f458e250191a95bec0065d748acca",
+  "imageName": "20a3fb80-7ae0-4ffd-ad55-2c51803e3a41/A753B255-D826-420F-8D68-A888984A2450.jpeg",
+  "region": "NORTH"
+}

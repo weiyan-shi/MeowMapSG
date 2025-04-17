@@ -1,0 +1,14 @@
+{
+  "name": "Caramel (\"Meow Meow\")",
+  "catId": "362cf509-378f-4b1b-86ff-03cf81a9a339",
+  "sex": "Female",
+  "personality": null,
+  "likes": "Food, rubs",
+  "dislikes": "Loud noises, rain, cockroaches",
+  "other": null,
+  "dateCreated": 1674034050631,
+  "dateModified": 1674034050631,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/362cf509-378f-4b1b-86ff-03cf81a9a339/Caramel.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131503Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=700f22adcd7285c91e36f352b17ccc385b42fffed39347c3d9eb0fe29c931e88179f4b099da37637d390c24af53407f00d39ddc7a4a0d54267b855f4efc3d61ce172a4108a105ac1ccdb2a1eadf724ae5d25a4b8edc7635e80c4905a3b7115aa475a5d7cc44657812e4308123b86ef7d78326ba07f0194686df78d5d78282e5a60db8d439fe97a3099f69e3d0582ea05083bce685d1c7065462a686380fd0277995c674562adcc981231c03b56743eb2588e13b66c55e0927da993190f09daa8f8e0777e2d6a0052dc7811b8f295603d8b4b0074e277d6b63f1bf18ed38b7001a184695d8eb0ae5b48334ccf36b9e552d9b2ddfc13438e942a7c53e4305da4b8",
+  "imageName": "362cf509-378f-4b1b-86ff-03cf81a9a339/Caramel.jpeg",
+  "region": "WEST"
+}

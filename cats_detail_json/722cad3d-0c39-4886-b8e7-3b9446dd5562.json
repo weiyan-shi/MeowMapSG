@@ -1,0 +1,14 @@
+{
+  "name": "Fish Skin Cat",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Has the saddest face.",
+  "dateCreated": 1674663496453,
+  "dateModified": 1674663496453,
+  "catId": "722cad3d-0c39-4886-b8e7-3b9446dd5562",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/722cad3d-0c39-4886-b8e7-3b9446dd5562/fish_skin_cat_blur_noexif.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131517Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2122922d8ff4684a57c1a5615d563748a79da696ee3ef57ca1eb0cb40bba019a757619fb8fc2771c8dc9ad6298f56856605cb9aa8e2fa1ab3d1ab0cf544ec6c80038cb3139b43028bc0829e327b6b771d28c8ed057bcf1ec2faff886ce97cb94c1d87fe3a8051ce11a772543fc094ca1da4a2baad15f116e4a192b70447fc2ba348b23a9db41a6112469323cd1f7b6c7ea18665a649def93374d262996848f76a2ff9ef0c9ab9061aa479d1a4635caca203b1a59602d1315db3f05b8c8f2a9d9ca5894b74bb362df80c04cbff0deb48d1d375087009c79c81a6d1fe38ff0a45d0a41903be27baf68f762d4763a42c6f95c3b127c27302640517074b963194944",
+  "imageName": "722cad3d-0c39-4886-b8e7-3b9446dd5562/fish_skin_cat_blur_noexif.png",
+  "region": "EAST"
+}

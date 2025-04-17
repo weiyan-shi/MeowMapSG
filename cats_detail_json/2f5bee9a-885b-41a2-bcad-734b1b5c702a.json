@@ -1,0 +1,14 @@
+{
+  "name": "Bread",
+  "sex": "Female",
+  "personality": "Typically friendly to strangers. Has a few favorite people.",
+  "likes": "Raw fish treats, butt pats, sleeping on mcycles, belly rubs at your own risk",
+  "dislikes": null,
+  "other": "Will make biscuits when patted.",
+  "dateCreated": 1714957092985,
+  "dateModified": 1714957092985,
+  "catId": "2f5bee9a-885b-41a2-bcad-734b1b5c702a",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2f5bee9a-885b-41a2-bcad-734b1b5c702a/bread.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131602Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5b14e75e30a47b81e8c9da919584ab62d91bcf8518710b71a13c126c0c8a49edb46bc8391f3d3bef25c60c532d5d1e06d294fa52aa7d63a37b39b09d644cbb38277c3d17788b1fcd23e74a5fc9bad41f662608c0399586915e0767ba5ba2ade36cfb4cae76ce78c16795c529ebbd486e73e6da8cad1df298ae5197f88da19d9cd93450c82613bee302629c3639313c3cbd37777d7b40efb7d59bd8f6a8c4b8901304f21573c0a928b0a5a5ca6d84fcd3091341958728014a138de3210a10c7f49112cb31d66485f5b5600014cd99cb53aff29c477ac8b46f09d202e16871da842c814f8d43de5d5045763553408802baf4072c028c6d9d4366e88e630a9f3c43",
+  "imageName": "2f5bee9a-885b-41a2-bcad-734b1b5c702a/bread.jpeg",
+  "region": "WEST"
+}

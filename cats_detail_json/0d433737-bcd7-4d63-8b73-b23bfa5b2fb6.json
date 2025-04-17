@@ -1,0 +1,14 @@
+{
+  "name": "Greyson",
+  "sex": "Female",
+  "personality": "Fiesty yet lovable",
+  "likes": "Neighbourhood cat feeders",
+  "dislikes": "Being disrupted by her orange son",
+  "other": "Loves hiding among bushes",
+  "dateCreated": 1674641964893,
+  "dateModified": 1674641964893,
+  "catId": "0d433737-bcd7-4d63-8b73-b23bfa5b2fb6",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0d433737-bcd7-4d63-8b73-b23bfa5b2fb6/Greyson.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154635Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6a58f359b47ea5e8627c1a827739c757d2f5615e2ef85c0af86d9c92e5c389397c6e422fe6a15bd8e4a7e126de83e44e7341e019fbde217a1d9732ec1650332f9c1802b3d9bb6ed372e0f2f16bfd6fa7003955eb3ed024a7d0cdbb3693508384edea1c544d9fb264e6b31109dd124226714cf5df72d1f3fb62fcf56a304c1d8113b18a3a6109e74740c856a3bd48748c105fc1a6c9b16e18acecbcd140faf26d5c85b28094672eddc43f43270c224c4e2255183723e82740404dd7b8848d55ce27bc58aec8d2b7848dd2d7b71a121fc0ff3cd8a2c028ee80c20aa80a9667eee7448aef0d64f39e9f0ec267d37c70862edc61f08f4e7bbe23d5e8a83993c68c79",
+  "imageName": "0d433737-bcd7-4d63-8b73-b23bfa5b2fb6/Greyson.jpeg",
+  "region": "CENTRAL"
+}

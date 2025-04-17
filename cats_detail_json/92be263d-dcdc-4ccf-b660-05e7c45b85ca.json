@@ -1,0 +1,14 @@
+{
+  "name": "Tumis",
+  "catId": "92be263d-dcdc-4ccf-b660-05e7c45b85ca",
+  "sex": "Male",
+  "personality": null,
+  "likes": "Meowing very loud",
+  "dislikes": "Orange cats",
+  "other": null,
+  "dateCreated": 1673971638217,
+  "dateModified": 1673971638217,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/92be263d-dcdc-4ccf-b660-05e7c45b85ca/Tumis-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131449Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=67444e1031f0c3d4532cdbeec42ab7fb885974bf5087cb722628478e67cd65037b2664dc224ade31178b9f5611f5446eb227baf69bdc4851ea6b88a1f0d6aeff022f7e72d97f0fecf919fa265bb5a486642b5bfa9da43b7a9bd4b5ceeadfdf017571f13e5592528b562948df7845d351b5d5772b0d1e250e1ae71b09033a50eb8a369fc2d6d9df0610536e62dd5694b814fb5096fbc4a93d51b9b7d48e212c898f8f61d4d60b3e7a1af13e0791a68034e40640c0b3758d7d9d7fca7ec0aafcfe8c78e642cd5ea5ae4b0ccc65f8cbb1538146351cf647b850ca001fd6cf8424b5f841ccd51cbc7fee94314b770878fd40846ce3c9829455d9ea46ef20f9fbc423",
+  "imageName": "92be263d-dcdc-4ccf-b660-05e7c45b85ca/Tumis-blur.png",
+  "region": "NORTH-EAST"
+}

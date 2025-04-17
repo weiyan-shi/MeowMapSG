@@ -1,0 +1,14 @@
+{
+  "name": "cheeseball",
+  "sex": "Unknown",
+  "personality": "super affectionate and lazy",
+  "likes": "loves chin scratches and cuddles.",
+  "dislikes": null,
+  "other": "meows like it has a sore throat",
+  "dateCreated": 1685199149959,
+  "dateModified": 1685199149959,
+  "catId": "6ebebf0f-12d4-4673-8eb5-3df208c9c1e4",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6ebebf0f-12d4-4673-8eb5-3df208c9c1e4/20220221_191016.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131542Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=00bdd39bf592511d9aca0306d344b641d555662e50e5d54ca75e0a79e9c0e7b9ac206544518d50528d45693d4ccc2ebfa999ebf41cebec697665c91eb27e262556a5fe98632b7e7e90eacc04125341098e72653df56ec1a162108bfbc166350dc797ea881a25fc1b2cb321ee0ba6ee39d271ee464f9f92ded2d1f8ac24ebfe0928b00752047a46b12d9b7a4ad3ceb0284a1930ecc423f86c86efcc9ae8e55327877ab571f2a7de9131e5963a0f26eb97cf508cfd3d6e1fa1181ea690101ffa848bd1f52f53c182f0740202321ce18dfd976189e2c2d5375b3a8258e24dc0c2196dcae527a6e5ad1fbbd937394e195a34d6b7053fc6938e11dfc1498f983363ee",
+  "imageName": "6ebebf0f-12d4-4673-8eb5-3df208c9c1e4/20220221_191016.jpg",
+  "region": "WEST"
+}

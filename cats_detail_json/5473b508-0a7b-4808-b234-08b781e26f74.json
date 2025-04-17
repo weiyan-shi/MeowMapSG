@@ -1,0 +1,14 @@
+{
+  "name": "Triplet",
+  "catId": "5473b508-0a7b-4808-b234-08b781e26f74",
+  "sex": "Female",
+  "personality": "10/10 eyeliner",
+  "likes": "Meowing at people, but will not let you approach",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673929773395,
+  "dateModified": 1673929773395,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/5473b508-0a7b-4808-b234-08b781e26f74/Triplet_noexif_rotated.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T061204Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6c2acb333e748b9c37196d313d74a240ece54836e645b256f3d27862fea371bf86a9c37ae52edb157db4e7168a68472398a3fceff1ae205ef26dd153b93639d9f5ea60baccfe8dd73cc7d663a0f9b6056ded9e73b0b96ee1ddfec2199daaab9806a6cfa35e425343788a47ef36b982835f49cde93157f739c5cf3a8d89093c6187977a0c5997769d1bb22423a0b6dc90ff19fcf04e7d5782dfc10d6d0a5c4e0fcd455fe48badd433cf404ff03a2e86dd87f53acabf1000dccf46799253bbca2dfe47afef8503e323d9fed7ac43cd427750654fcde42fa3718d48af68d70bc79e016f136d52aafd4386006f71c5591b267fa34fa42a8750379b9e94f9abe09dff",
+  "imageName": "5473b508-0a7b-4808-b234-08b781e26f74/Triplet_noexif_rotated.jpg",
+  "region": "NORTH-EAST"
+}

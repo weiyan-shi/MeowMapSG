@@ -1,0 +1,14 @@
+{
+  "name": "Pepper",
+  "catId": "4e5f7966-fbb6-4a98-8cdd-345da0e7ef0d",
+  "sex": "Male",
+  "personality": "Friendly and caring",
+  "likes": "Chasing after prey \r\nHead scratches \r\nButt pets \r\nSalt (another cat!)",
+  "dislikes": null,
+  "other": "He is always seen with Salt \u2764\ufe0f",
+  "dateCreated": 1672904979404,
+  "dateModified": 1672904979404,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4e5f7966-fbb6-4a98-8cdd-345da0e7ef0d/7DC17DE1-1D7A-41DF-B0BA-0F5371CBAEA6.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154637Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=70bbab21b6bb453d8f558f134be2a26cf1d47740f8b79652ecefd9b86a50ab1f3e74bd8d8bd24ed8eaed016d77f00c57f2d516590b4a0f6d606bcff15500dd2eadf27b491b0ec1255b2f5787a518a0846a251b2eaec209b35dfa235c82311caf1cdfa9d96a41abd993f14a9338a5e648082814f90331744db17fd167ea47f4748d191233d40cc3590e851e1bce744dd79e5dc2964d5b49ea4d4426a0a1f6ca53edeee6b45564e20d2e2de391dfc448b766125ce80b86e8a186c7c7b0ae35a91e2125a3319b1827258f07421bceb561be1878c73853c36ca6507f662e2cc4b9d74a7a0f463fd352b4e233f3c0d0bd4968c509fc82f6cad1bfcc2a0900ad834711",
+  "imageName": "4e5f7966-fbb6-4a98-8cdd-345da0e7ef0d/7DC17DE1-1D7A-41DF-B0BA-0F5371CBAEA6.jpeg",
+  "region": "CENTRAL"
+}

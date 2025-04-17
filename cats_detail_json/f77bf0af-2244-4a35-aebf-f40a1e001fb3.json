@@ -1,0 +1,14 @@
+{
+  "name": "Naughty boy",
+  "sex": "Male",
+  "personality": "Close to humans",
+  "likes": "Food&pats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1714305950096,
+  "dateModified": 1714305950096,
+  "catId": "f77bf0af-2244-4a35-aebf-f40a1e001fb3",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f77bf0af-2244-4a35-aebf-f40a1e001fb3/naughty_boi_noexif_rotated.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131600Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=05076a3d2fccd8f795e1ca2db4826f89fa65b191ad52651d07502ecbab60cc8601e31bd0687b11079173676f38b18af2d682eb83eb354725d88b8cf69dc44a67e4f249e5058b3271f5e8b164d14dc79ceb4ac0c89050748928db158e85edcac9ee157db315fa670a50af6040a5b75876764550c9c1e03661d14771f1048406916ed0df1f94a231c5b67cffe1f7f1d298935f86980b32a59f8bd7596e1e531e62d894c261b6f0ab292a03242cbc3d84fe7cb10ec72368beb50653e2e6914a142e19b5797a5065ad8adb8c77d7d9105b961d707d41949af5acaad6a187cea35d4ac71f9602d9e6a09dd127625461a4893ac92fd9055e2bf5faa2f2b4e6936fa216",
+  "imageName": "f77bf0af-2244-4a35-aebf-f40a1e001fb3/naughty_boi_noexif_rotated.jpeg",
+  "region": "WEST"
+}

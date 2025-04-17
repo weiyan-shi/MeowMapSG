@@ -1,0 +1,14 @@
+{
+  "name": "Xiao Hei",
+  "catId": "27f86a10-063a-48f1-b09b-486cd8e2f6d9",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Pets and scritchez and lift rides",
+  "dislikes": "The other orange cat",
+  "other": null,
+  "dateCreated": 1673963477093,
+  "dateModified": 1673963477093,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/27f86a10-063a-48f1-b09b-486cd8e2f6d9/xiaohei2-blurred.JPG?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T185750Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7e969162c62a77bc4255e2ea1cb22459d5ee39aa0f775dc7f74c1a59c34585867873dc05a2e47a9d9e7bf96f8b6d19dd96e3e78eacbece38c262dabe655466f05b166d41574c5d829020aed70ec0c8cd5f2cfc073a712fa5bd5ab6be3dd6212642cfd956597c825293d1ddc06727466e65c20f71b8900e6f5eb4dfdeb2c43887063976375796ff1f7ca30bb94eb13c3827353361b77a8709bf50339f90638544e255390ec3ce664d72c9d57363380b2dc2844809007b834511c59ac1e7ddcb99b34668bbe22dc157ac6a94c86f67c32053bdc134eaa79631ba4b7083489da77757eeb97f321b1b2858161b9b5492bbea832925c2f649c51b4fc1c901b4483b60",
+  "imageName": "27f86a10-063a-48f1-b09b-486cd8e2f6d9/xiaohei2-blurred.JPG",
+  "region": "NORTH"
+}

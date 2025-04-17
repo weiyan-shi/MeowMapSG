@@ -1,0 +1,14 @@
+{
+  "name": "Nala Jr",
+  "catId": "6bdee609-ea0d-4be9-aa92-8dddfed1a25f",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Chilling near ATM machine.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673882389767,
+  "dateModified": 1673882389767,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6bdee609-ea0d-4be9-aa92-8dddfed1a25f/NalaJr.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130823Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6eed0836d2b88d177c1bd3e6ce824bf23bafd3a3168ca3850440fe293a262155b4c9ab750c47bf8d3c6e0a7b4c24103f7a7937bb502450bfa7631facc956a51d2532ace50aa2acedb59ba92728bba8901a5b700d9c5916589f6bfc0193fd2c4eb69d816fcb7e5fd174f6e4428ac2c6b8d9bdfc505310a48a32fb8cda412dfc594519e9281fe7ee58691ebbe93b575ed55b5baec9ef5f24f8ebf1ce2308a2217725d5c725cf86cb27606684acd069491476ef7a7ba7d5795cd9b4c5ef1454b6e5404b7463ca9b30c06913d647f63569070d59960f3ff4dc7ece7e88f0a550fdd9ce8618ac0786029790496e21e826a6c4db1ba6b72ad6063515f28c9b14387aff",
+  "imageName": "6bdee609-ea0d-4be9-aa92-8dddfed1a25f/NalaJr.jpeg",
+  "region": "EAST"
+}

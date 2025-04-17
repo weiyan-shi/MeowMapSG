@@ -1,0 +1,14 @@
+{
+  "name": "Mysterio",
+  "sex": "Unknown",
+  "personality": "Soft and cuddly.",
+  "likes": "Rolling on the floor. Plus points for belly rubs.",
+  "dislikes": "Loud sounds.",
+  "other": null,
+  "dateCreated": 1684397799385,
+  "dateModified": 1684397799385,
+  "catId": "9e28d0f3-e939-4e2c-ad26-35302f10cd00",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9e28d0f3-e939-4e2c-ad26-35302f10cd00/mysterio.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T074956Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=37aadbc5bf8adc5bd907407bfb517f1ec727f00d22feec8c86ce4b9d51ae164d96d9bb489135dfe515b9ec9d235b16e0b309bfc3edee3871415fc5b97d5c145e71b7d2fc91f9250cc4701f01d7eb4af7d161155542f2c3a0dd44563b2e3ca13f9090e5cac950a33898b31b2133cec64d25884db5e20a82bf9a8688988d032a0493ae9bcfdfccb7a829ffa77c46f8da14ca78102b5cd0e180bcb764d2b1ef857093cc9b5b677e05d8cedbe9364c09f40c6ffc9896d111541e6086b988b7d7a9fafaee255ce7e4a805f15ccbd0b83546858111c4c3d8996a026d6da4d6dd10f1d6b8dd5543287e032302d54244dd66e6bc7cd58473e0ddc931b80bcf86117822e3",
+  "imageName": "9e28d0f3-e939-4e2c-ad26-35302f10cd00/mysterio.jpeg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Milky",
+  "sex": "Unknown",
+  "personality": "Friendly",
+  "likes": "Petting and sitting on lap",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1720280515111,
+  "dateModified": 1720280515111,
+  "catId": "449ccbc7-712c-4fe5-86b5-cd751e5ec15f",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/449ccbc7-712c-4fe5-86b5-cd751e5ec15f/milky_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131606Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=593ee8fd0653800842bba61f38155ce6fb743d4b6c8cb190701fbe20b7f816bfe64c40a9255799163d13c8175e8c166702f6fb8269b508b57b1988c1fe865330c675679dfe916454ee5adf3af7070b10c78b3ccacf2e3bbcda5eb64b4ae856eea59f59c0be4b05bd33e58f64b954194009fba1aed76a5c09e9c84d1c429d187a1304f9c92d3c26d97be0fde3036f0195816ae13b92bbd0f25a75b4557d7204ac80ad120f056858263408326c594f8ead2d5ff836ae4ce1bc296e3f9764bc78ad398ffaabc6803d18c4e1d50c5590582ad1e21e95981f2a5bf040983f9659da5db99a6ae78dd491f92028c9034140464c3cc5a8c19106c2a50ff556720360cdd3",
+  "imageName": "449ccbc7-712c-4fe5-86b5-cd751e5ec15f/milky_noexif.jpeg",
+  "region": "EAST"
+}

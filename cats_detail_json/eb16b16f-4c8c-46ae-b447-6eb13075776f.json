@@ -1,0 +1,14 @@
+{
+  "name": "Orange",
+  "catId": "eb16b16f-4c8c-46ae-b447-6eb13075776f",
+  "sex": "Unknown",
+  "personality": "Relaxed",
+  "likes": "Snoozing at different places, but observed to enjoy sleeping in bicycle baskets.",
+  "dislikes": null,
+  "other": "Safe to pet.",
+  "dateCreated": 1674015300443,
+  "dateModified": 1674015300443,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/eb16b16f-4c8c-46ae-b447-6eb13075776f/Orange_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131457Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7193cbb986506be4f47c388e13d31cbff050f4a41c948371270a8fe730c77ab409deab3fd4445005324af44579f919a5167cde2a5649cf40d55b82bcfd93e47b9b0e673a6b57d6bbc01684d8d6c8e60585062b98f2597166cc3ce823ed7f613618684388415c5aab3b998a2c3e700489209332fe70efbb96279d30b0eca37b139ac8997ba8284e52167bac0d07a3ecfb0bf954ca538a185dc66240a9082063b6c8d667da45a513f122904607c00a82f8d1e55abe9c4fe6065114d1c36f059ce6c4d29fef7711c4e5c8cfda4ce3f092b90e52d805703f03c7455a7a23ff63b9e621d6446f94a4929b8cee36d8e801a03b6295c37de8dd4c3997f9516e1d577872",
+  "imageName": "eb16b16f-4c8c-46ae-b447-6eb13075776f/Orange_2.jpeg",
+  "region": "CENTRAL"
+}

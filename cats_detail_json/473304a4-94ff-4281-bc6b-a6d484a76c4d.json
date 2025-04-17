@@ -1,0 +1,14 @@
+{
+  "name": "Carys",
+  "sex": "Unknown",
+  "personality": "extremely chill",
+  "likes": "pets",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1732085787270,
+  "dateModified": 1732085787270,
+  "catId": "473304a4-94ff-4281-bc6b-a6d484a76c4d",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/473304a4-94ff-4281-bc6b-a6d484a76c4d/carys_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130843Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8caab0d1cbcb8dec938660c454e755e72566db455d740af2584357dacd3b7baba2076c75a061b7aa98e59633faf92891e4601aeed9dcc55dd581d3b78152f404a3ab0466cfa58a0f8081f726aba02e255c24b319423160343e985d46e1ff772cc99ed5d660b2b1e59e8bf11d616f507e5e455cb427a7b8187c3b62dada10a5f6120f4f547a11cce0bd864991ebcba1a9a6e595f60d9c79df4e8377dc84eb16b2c9b96d9e2ad0040d000907dc97d417c369b95e9c3974b4413139eb58f40b61ba9a96f5d6e398b92ce742034f10f984e8b187c2433cd4f2f165d6d8cfdb001912c08561b5a1b3b914589faceee7c25101182b20149d198b72f3a5ce6cb6122cc3",
+  "imageName": "473304a4-94ff-4281-bc6b-a6d484a76c4d/carys_noexif.jpeg",
+  "region": "EAST"
+}

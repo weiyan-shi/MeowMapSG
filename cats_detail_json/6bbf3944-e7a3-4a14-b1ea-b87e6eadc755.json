@@ -1,0 +1,14 @@
+{
+  "name": "Tabby",
+  "sex": "Male",
+  "personality": "a cat that is annoyed when u come near it until u give it food and will follow u and meow at u continuously if u give it too little food.",
+  "likes": "Quiet places, sleeping and food",
+  "dislikes": "being pet, carried",
+  "other": "tabby does not like other cats.",
+  "dateCreated": 1699779074840,
+  "dateModified": 1699779074840,
+  "catId": "6bbf3944-e7a3-4a14-b1ea-b87e6eadc755",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6bbf3944-e7a3-4a14-b1ea-b87e6eadc755/tabby_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T065315Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8b3d6b54899442c9b2c9f21d5d721ea89c9fe23f67eb497e950bf81b20c439d8bb203fd1dda02d72752fcc3e837fdef0c2d2b1f0dcb388fa4dcfa9c6f9bed728588e92bb05a0a552cc7f67915edc10ea6b16e4365891a1c391b71c2c587faa540cbd3641f5b25f4b90d59865e5f0740b5eab8d969f8cba479ac57f1270d41577e393cea7b5a73716a87b8adab90fbcd2d2c8766c6be850c50c9e6ede614b1f3149331738129460840703dce7986c5b35875173a33f634e4529c71d13399b0638f08aeddeb433ea655d06491bd9336896b86dea49b07a68b2399bf1e44f8ea8a8108c1de6c44690836758b09f903799f6c1aa7c86473b6881779d6b4ffef1e645",
+  "imageName": "6bbf3944-e7a3-4a14-b1ea-b87e6eadc755/tabby_cropped.jpeg",
+  "region": "WEST"
+}

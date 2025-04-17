@@ -1,0 +1,14 @@
+{
+  "name": "Blackie",
+  "catId": "fde25862-9814-4d28-873e-b414ff5bde16",
+  "sex": "Female",
+  "personality": "Finicky and has a short petting timer",
+  "likes": "Kibble of certain types and temptations",
+  "dislikes": "Healthy kibbles",
+  "other": null,
+  "dateCreated": 1673874752783,
+  "dateModified": 1673874752783,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fde25862-9814-4d28-873e-b414ff5bde16/Blackie_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131311Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3754a1c374a758a68f4d74d6d53560482ef40e67180236665273b68620cecd0180c9739ec24da45db89f2b08dbf65b5ffe1d2f24535889eac5e47657b64fe89c57967d700bacdd65d64755933aef7274515d42caf17a43d18cca4899fc25ae83b26ba354688969cedf63c25598fdc6a11f0129bb1da6876941777cfd8c4767960991a4e951f3c512e2eaab148545433d8b95e2f0bb858c934c6988debb42f11a63958a2777ae2b98b7b5e7ef903aa65a52818550d9894c298179a78eef82492173ff2d02808f279b44f7dcb98890ff81ab02eaeadfd48c666f293cd6c214f6aed668eafe35faf462eb28a54f9ba27f526dcd9816fff53c01fb03c81b9fb63a37",
+  "imageName": "fde25862-9814-4d28-873e-b414ff5bde16/Blackie_blurred.png",
+  "region": "CENTRAL"
+}

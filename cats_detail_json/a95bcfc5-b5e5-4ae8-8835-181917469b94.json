@@ -1,0 +1,14 @@
+{
+  "name": "Fighter",
+  "catId": "a95bcfc5-b5e5-4ae8-8835-181917469b94",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Cat treats",
+  "dislikes": "other cats",
+  "other": null,
+  "dateCreated": 1673947279459,
+  "dateModified": 1673947279459,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/a95bcfc5-b5e5-4ae8-8835-181917469b94/Fighter.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131415Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1b367c00698997e7c7b25dc4598fc03f34e3c10b993b01636b64b3b4b85f37935eac37429b71f5b342f82e911adf21da31e3cd0ba0a65cabaae9587614cbbdb31f27a8a49487c8defb2efabb8ad887ce26bf46d9e9d0b614472db23eb7b3bfb80b0054d4deefa37881d0264abbf7afa555500c0013a066dfa67d193b24276427b84e2948ea48f27dd16ed7fbbc0a8f0435d10fda093c00eb9f0e163c6ce96c7b369a5d837a1b9ac5d37d320a46193da51ebbf0375c4c0fdcd4625cad2080e5edcf71e3b140ea29db54f13785c567aa05c9c2dd725a8dc8e25b40d5aeabcbeac52a0620b28eb2bd4f9c5cd04c9e326e83a9472bd7678f3ebdd91f84606276203b",
+  "imageName": "a95bcfc5-b5e5-4ae8-8835-181917469b94/Fighter.jpeg",
+  "region": "CENTRAL"
+}

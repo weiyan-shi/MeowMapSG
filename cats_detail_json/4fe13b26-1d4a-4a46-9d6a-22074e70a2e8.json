@@ -1,0 +1,14 @@
+{
+  "name": "MooMoo",
+  "catId": "4fe13b26-1d4a-4a46-9d6a-22074e70a2e8",
+  "sex": "Unknown",
+  "personality": "Very friendly will meow at you from far away. Can always be found on top of motorbikes, or under if it\u2019s raining",
+  "likes": "Pets, food, human, motorbike seats",
+  "dislikes": null,
+  "other": "\u201cMooMoo\u201d is a placeholder name. If you know the cat's actual name, please contact us!",
+  "dateCreated": 1673953115089,
+  "dateModified": 1673953115089,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4fe13b26-1d4a-4a46-9d6a-22074e70a2e8/Moomoo_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131431Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=53b376b17b6d51c321fa4cd9286bccbfbae9c243e635162ae23eaaeff2123644050fa5f315c7049049e601abc87103eaa287fac8e620995746ebac95af3e84289694b6b9b61d0918c81fe1a737ef50f1d5c0e44b7e6119f9dbab77ad42e6fbf534e8f5661feaef95d8409d042a5a2d2cafb9f3f8aa830ebef2ed69e68cfe63bdaec05a77518e03331d5d76fd083f82924f47cd1a1ef1f2e6cb70bc65570f2cf45e47d22f1b7106526991e7bd8c058b333bad19a2a72be4f8affc35e04e261e0c36760f07ea40f5fe83e265e866eb2ba9dba49fc4143a4346759715d39d81c97951766208a24065a44f0bf5fe4d1731521129118eb8988184d181d8512fc017ba",
+  "imageName": "4fe13b26-1d4a-4a46-9d6a-22074e70a2e8/Moomoo_2.jpeg",
+  "region": "NORTH"
+}

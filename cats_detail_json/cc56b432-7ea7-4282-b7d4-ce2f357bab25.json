@@ -1,0 +1,14 @@
+{
+  "name": "Peanut",
+  "catId": "cc56b432-7ea7-4282-b7d4-ce2f357bab25",
+  "sex": "Unknown",
+  "personality": "Timid",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673882771564,
+  "dateModified": 1673882771564,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cc56b432-7ea7-4282-b7d4-ce2f357bab25/20221118_182053.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131334Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=42eece2bcf2a59abb6fb2aec89081b9487b1c73c3cf543b745da7f7ecb75777368d92c5bab699f30f1ec70b6964d03d8d2fcc67883e5e18905910ea1eedf77c67f0e17c570eec9df21a4463a36c4da8921b2f455a803c7b29a7cbd642ee0b2453ba5e1d4716687eef5d79cda8ce53ed2bee5540d19fedf4851390e28f0e492bd84df71510b2358ab28c018b8f258772da39dfb75852eae5ef748c69e09baa2fc998e42a06f5b7c047af50085052fc57571f549adcb14dbc8892d002063e9c3deb34417eeab0820789d209d2fe6bd5a89a1c9177941743323b262cd4ad5a2dd8476d27f5af73c75006c846c2199f3ba2d16e9fb05979e9a164bae0f2f7740cd6c",
+  "imageName": "cc56b432-7ea7-4282-b7d4-ce2f357bab25/20221118_182053.jpg",
+  "region": "EAST"
+}

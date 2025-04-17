@@ -1,0 +1,14 @@
+{
+  "name": "Tabby",
+  "sex": "Female",
+  "personality": "Quiet",
+  "likes": "Cardboard",
+  "dislikes": "Noise",
+  "other": "Loves to eat",
+  "dateCreated": 1719144657673,
+  "dateModified": 1719144657673,
+  "catId": "831ff804-db2e-4dcc-bcc6-d38827276beb",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/831ff804-db2e-4dcc-bcc6-d38827276beb/image.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131606Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=82c36512ec7b1134cade51ce00e1b59b1dfa3fc3e8d9d120e243cbdde149954f026555fa7afe68e3f89f19e9eaef61edf6e1f474acd2d03ee11aeec9ddb4f673eef2afc2b6af1dabbd32f6fb91e5395947cae57e27cc9247d8d5da413f03bc843a14d920751df70fa29aba2de4594471072c3a547686194e939932901aa09facbd5f62cc3ff7f78dd013ed35d11e3d8c840246ea6b7bc7ec130f372cb7996a57d64bbb91a108608e06c87bf87cea236f7c09e8b46d87a8be89efcba319253dedda94fb8a326309890a1303cffdeb87caec4e2bda227c96e0237d504edf18e181fe793e1053a66f45b34b3ca1ef0298e34fa484958fd6ddffc678aefccdd97797",
+  "imageName": "831ff804-db2e-4dcc-bcc6-d38827276beb/image.jpg",
+  "region": "CENTRAL"
+}

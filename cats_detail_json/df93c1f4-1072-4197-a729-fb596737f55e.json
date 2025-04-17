@@ -1,0 +1,14 @@
+{
+  "name": "Dusty",
+  "catId": "df93c1f4-1072-4197-a729-fb596737f55e",
+  "sex": "Female",
+  "personality": "Very very loud meows\nMeows until you give food\nLoves humans",
+  "likes": "Food",
+  "dislikes": null,
+  "other": "Dusty coat",
+  "dateCreated": 1673921535406,
+  "dateModified": 1673921535406,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/df93c1f4-1072-4197-a729-fb596737f55e/Dusty.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131359Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1c6ef81897040d89ff281f19eefa1d78e4a8344f95b290918f75a8737b69035854875aabebe7c1509bd7daa55e0575e39d8243ef5c5d052b1952083767546008577b0c0bbaedc57d0b7df465c648f2b91ffa4215bb65ee3232f2343981584b0ef7524ea3bb0b2b970f82a2d4ff26567c4d7928695d9edfacdc4892819c54ea70c2aad87076fdb302f72f6584b727821e1ef49c114db2ada9ffaeb9b4ec14d31102063c64f88765434aeade38a15a3e46af7e1ae1b4701099aa2d598ca5c0c5c2a625872a35fd6e5cde8ae3ebb1f295b920ab7a429c16583af82a4c4608ad2c5998cb72319beee41d2f0eb2d12433b59d244338d4596b89153dc4e73964150831",
+  "imageName": "df93c1f4-1072-4197-a729-fb596737f55e/Dusty.jpeg",
+  "region": "WEST"
+}

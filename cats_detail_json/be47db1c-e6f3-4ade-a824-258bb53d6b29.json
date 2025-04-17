@@ -1,0 +1,14 @@
+{
+  "name": "Shy boi",
+  "sex": "Male",
+  "personality": "Weary of humans but curious and very gentle.",
+  "likes": "Sleeping on blanket, eating.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1684572631304,
+  "dateModified": 1684572631304,
+  "catId": "be47db1c-e6f3-4ade-a824-258bb53d6b29",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/be47db1c-e6f3-4ade-a824-258bb53d6b29/20230520_164940.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064602Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=62c5afe70ecefdb38521179ae909178912587ba651bee59251db163128da5a7bf89ddacc70eb7b8afcda11dfe90050da9bd9a0f9daeb5687eff804371329ba51834dce4f6c1708449560f9724f6dafc0360e1a14f1899a485bdfce51b59c07cd02cbe208d9fb8d42cc7a3cea38f1fba33319dd6ff5d3e29c8f9baa50059a9a1774f39a493c184dda6fe52e5ba31207ed875c3626ef6b17d63d855b125a3c59513e2923804cf58f4dd5687c643904edd0f0291748f519a34000519b9a23557817bb83c1cb173d68d3624697e57abef6b43738f12d118eba641507e0cb10651f2cd96c9bdf7d249a8daf977c780937060865b1128aaf495c4b75af259fd92da541",
+  "imageName": "be47db1c-e6f3-4ade-a824-258bb53d6b29/20230520_164940.jpg",
+  "region": "NORTH"
+}

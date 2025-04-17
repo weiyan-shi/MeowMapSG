@@ -1,0 +1,14 @@
+{
+  "name": "Panda",
+  "catId": "10ced2cc-5db4-44b2-9542-748b1d5aabcd",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673970862966,
+  "dateModified": 1673970862966,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/10ced2cc-5db4-44b2-9542-748b1d5aabcd/Panda.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131047Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2868d48145095b4fe755d01874f0682306c8244e27064cad734da05cae171f4746a4d0d6865f5d10080e01679489ab042855bec49d16e48cd5aa30fbcbe9c6c2935c34a72c2f9cfae84618b570d553c37b9d85ccc161eea2bc05f15501297f39647172510436e0074a3168a333ff73e8bea4d696cd82125c966a7589c4477df119bb43fae9327c56dfc52a8a43499a7a0b5442c5026b2c6482990a836b72142486e835ffc88f3a792e6ee4c0845d1730364e6e59c5eb739cf7a9d0feffc259aef225b057c898f185b762bfa73633afbf5a517b7b8ebee12cb0766fe9c92c0ce96f641eeb13bb03a0bd85ecb9677aeb73ec9f2eb3d2073b9cbe4333044066c8d1",
+  "imageName": "10ced2cc-5db4-44b2-9542-748b1d5aabcd/Panda.jpeg",
+  "region": "EAST"
+}

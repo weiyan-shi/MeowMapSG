@@ -1,0 +1,14 @@
+{
+  "name": "Cleopatra",
+  "catId": "d88f5782-0b44-4261-907d-2a4d99717eca",
+  "sex": "Unknown",
+  "personality": "Super friendly cat who meows loudly and headbutts people's hands",
+  "likes": "Everyone",
+  "dislikes": "?",
+  "other": null,
+  "dateCreated": 1673923350423,
+  "dateModified": 1673923350423,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d88f5782-0b44-4261-907d-2a4d99717eca/Cleopatra.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154539Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8de6a09de4f9712c061018eeaf85cebaeb19a5a98af89f7f1edeba4e79293f054336b2cf7c5e73c9788b05828c4696de6e0a625b879f18cf6c9c8527aa5af922afbd10eecd7f5805982ad165e8ee891eea601d5227e6f3f7a2b2c6b20d9341937df80dfee332ba908459a70f6b5e6b78c598077cdae3d4b7c66e82c77c5ce55b1e412a676dd8cc5e55181de6ce384b995a22af9c848e82d65e27e9cbe85a22190408c0832a3367bd4931f2fd5c57298d95a95a53038770b79c8c3b413b8f4f78e21d079d83672643136cadca8ea6e819058f371f7a44be3f259a10ce435cc804e9034bf7d9357ca7a530155b51a1692e1a340f625acb7a74af89a2d1acf963ad",
+  "imageName": "d88f5782-0b44-4261-907d-2a4d99717eca/Cleopatra.jpg",
+  "region": "NORTH"
+}

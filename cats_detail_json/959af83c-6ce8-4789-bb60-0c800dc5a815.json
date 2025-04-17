@@ -1,0 +1,14 @@
+{
+  "name": "Whiskey",
+  "sex": "Unknown",
+  "personality": "fun hehe",
+  "likes": "people, sleeping, hiding",
+  "dislikes": "the other cat in our neighborhood \ud83d\ude1e",
+  "other": null,
+  "dateCreated": 1697771650639,
+  "dateModified": 1697771650639,
+  "catId": "959af83c-6ce8-4789-bb60-0c800dc5a815",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/959af83c-6ce8-4789-bb60-0c800dc5a815/Whiskey_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154436Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=519aaf5a54b091cfc958aef0186df877ad14a5783c503067a5b5487d52a7895b4a3c23ec5f0142e79303f71aae32ce4afd80da2dca0594e6f3b084e045be126fc95fe13d4c7ff3b53d6778cb50fe3090ea7626c9019e0fad65c35aeca5d8ba9b8cb510d806fbb26b7b944686a2d9591a8513c97c1b701bebc0d00d55e9b55f8050e9672182ea2da09aa9c8e3a2b38682e51635407094a900bf63ec1ca321a4c8cf8069523fdd9cc761d7ac01841558578df7597857701f34a6892ae4a718275b7be000184cd589cf2874d393c7a66cdd2cd37af6f25cd46cd58976002917a44753964cf78226564138b0d261ef02198bd983a460e3f4666ece98c348b6ce103c",
+  "imageName": "959af83c-6ce8-4789-bb60-0c800dc5a815/Whiskey_cropped.jpg",
+  "region": "NORTH"
+}

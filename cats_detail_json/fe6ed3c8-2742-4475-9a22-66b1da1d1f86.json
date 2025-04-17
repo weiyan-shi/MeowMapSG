@@ -1,0 +1,14 @@
+{
+  "name": "Sweetie",
+  "catId": "fe6ed3c8-2742-4475-9a22-66b1da1d1f86",
+  "sex": "Female",
+  "personality": "Sweet and friendly\r\nMeows for attention",
+  "likes": "Tuna\r\nFlopping\r\nScratches on the head and near the tail",
+  "dislikes": "Cars driving nearby\r\nSudden movements",
+  "other": null,
+  "dateCreated": 1673952877500,
+  "dateModified": 1673952877500,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fe6ed3c8-2742-4475-9a22-66b1da1d1f86/Sweety_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131430Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=58f847a5d1f84a45426375489eb0d1ff01f6a36807a70814973a17142b62b425e491a7bf984c64dc658ce3983586b0273404aed0a7c3d69e2831609961085b2e08d7442c1983f8382632340235af6af72d1b4a8717ac2a70f87f335712ae1cff8197cf94443a8496516dba26a66038c3edddc51ef4ccbdfd2e29db30a9857366cb9d8b591a7d61d164e09bba0dc0bf9b201bc12642cc9176ac1382b1347795ebdc40f04a153c07b02d5dc53bf720a9864ac770b484f0ff49c3be28e02b29e20b75089033de86dbc086d2425f05936499e253a63bc82ae584d336588318faa8b7269e7ed76e3a67a4f91d83263db199da4c7b466d33d1f0f4199372d7d7ec5512",
+  "imageName": "fe6ed3c8-2742-4475-9a22-66b1da1d1f86/Sweety_noexif.jpeg",
+  "region": "NORTH-EAST"
+}

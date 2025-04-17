@@ -1,0 +1,14 @@
+{
+  "name": "Boss",
+  "sex": "Female",
+  "personality": "Slightly aggressive when she knows you are gonna feed her, avoid walking close to her or she will chomp/swat your shin. Very street smart, takes lifts and climbs stairs.",
+  "likes": "Likes dry food and head scratches",
+  "dislikes": "Wet food by itself. Add some dry food with the wet :) Rarely drinks water so add some water to her food too.",
+  "other": null,
+  "dateCreated": 1736427609731,
+  "dateModified": 1736427609731,
+  "catId": "ce43bdb0-778d-4792-9c50-01efd0182a69",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ce43bdb0-778d-4792-9c50-01efd0182a69/boss_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T145424Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=623f9b99bd3f4ef1ff35bb06413b6446e3fc4c827037c5cf65fee70bb0e5c5ca367d1a6cb2ecf037541b07149d264a75fb0b180fddcece076a63bd31715852bcb676f7bc778443f6a61163adb34861305329be1c40bfc26910c54b9e29d1b316417af20b02b057848cd0e8dae6dae37e946dc7a652f971662fe302101ebb5874ed4e8f1e113339c461d0dc79cab1d091a57e6772b193ad032d06d13e233fca44a7b4b7bd3ee9bfaa3ff52acdffd70a09b95ed50ef2f1f93ccde3f18a5a3d0b5476307ab280fe2603122f2185d9d9143e86222e6ec5ae3b2434f5320e90f73d7ec93d743b71933d661ff91dd53fc3e3ed5f444fb466b1acdc42a223cb63a3e59b",
+  "imageName": "ce43bdb0-778d-4792-9c50-01efd0182a69/boss_noexif.jpeg",
+  "region": "NORTH"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Mimi",
+  "catId": "2ba22cbe-9222-418b-9ceb-506ef8ba5216",
+  "sex": "Female",
+  "personality": "Very manja",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673960589967,
+  "dateModified": 1673960589967,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2ba22cbe-9222-418b-9ceb-506ef8ba5216/43A2B14C-1F2F-4526-BE55-03524C02C61A.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T185748Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=08f5b2cafea39c21a026730782d07827748afe97ad09d7deffdf7dd6c532623eed76241467d17d1efdddd4520e3ebb3cfa118fffbc50eeaa1c1a4e9bbe904c861f1599bba5093518dc21e99e801cf0ebf120d3faaf1f1ec9c864e8b6c2bfd90f08c0b71cde787623884f67703a3d12eb48248bb49e483d934048cfbb0ab0e7476bd336cf5e6a88d34c5f3c730518ec8b4eaabe8d6144257711898cf15f54a6f91b0af7e429080464db8bc3d0b3f3f794ad25eee377b7b32cef1092b840f3a80f9bf2f521e96da6703f0d1899acd0a61407a5408479b2338e4fe69f8aada2e888af580615690b25ad4b6b722af5a62e9fc18bbd40ca512acbe9fa53e553ecc1f1",
+  "imageName": "2ba22cbe-9222-418b-9ceb-506ef8ba5216/43A2B14C-1F2F-4526-BE55-03524C02C61A.jpeg",
+  "region": "NORTH"
+}

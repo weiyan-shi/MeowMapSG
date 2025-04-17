@@ -1,0 +1,14 @@
+{
+  "name": "Kiwi",
+  "sex": "Unknown",
+  "personality": "Vocal\r\nClingy",
+  "likes": "To roll on grass\r\nPets everywhere\r\nFollow you after you pet it",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1692598384071,
+  "dateModified": 1692598384071,
+  "catId": "73a7d958-d9d7-41a3-967e-b5c23c1e77c7",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/73a7d958-d9d7-41a3-967e-b5c23c1e77c7/IMG_9469.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131548Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4d546c64cf39b8ceb0eb12791ce5fbbbf243c13d80864feb85fc0aac5dcf37739e576b491c784f1cfb78095f8c37fac0ccc7495c118794305a27cf06b7298035c64374be54b689c990d06564b39c383ce5a1d1d65da3b388e332f143f6807633d70658212a2ff9cb00fa87c9b27ba870dd3ae7cf0d3c1c90a8c099af1be1105ced10439e2bfaf3465c76fdf856dbc57bef0cec6595d8f93f95875ca0ddec18cf013101d179930bd88df41a2c58cd25aeb18615bd3776560ce09bbdea47be6225f975c6f13d2d1b68bcc9fbc64c8430d73e42a9a9ed7f1a607b527afeb43f49a8ef8ba52138ff8bcba5a353fbab995462e93331de6dff087e1572c28a6de1df8c",
+  "imageName": "73a7d958-d9d7-41a3-967e-b5c23c1e77c7/IMG_9469.jpeg",
+  "region": "WEST"
+}

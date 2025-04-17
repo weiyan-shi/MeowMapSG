@@ -1,0 +1,14 @@
+{
+  "name": "Miao Miao",
+  "catId": "6eb99e1c-e739-4d4c-bd55-4f7fbbb09a5b",
+  "sex": "Female",
+  "personality": "Friendly, calm and laid back",
+  "likes": "To be 'sayang-ed'",
+  "dislikes": "Sudden loud noises, dogs",
+  "other": null,
+  "dateCreated": 1673274455092,
+  "dateModified": 1673274455092,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6eb99e1c-e739-4d4c-bd55-4f7fbbb09a5b/inbound8734787684777103842.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131254Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=164155e1883444cd96a99851aeab0aeb1b220d029187300a81e45ce89212bb3d6a68d478e22e503978e99b09cbadf6fcc68a6574308e4cffed091ab67f68e26e568f9a6c7f6f8ecb3b0f7c14d9bba08f2f738df21aeedbd82b3fca1bd4ed70b61ecdd4ba79b33378bcfd94c215bf99842ce21105e7ada95d17d82b27e265b83e938d63da98a8632be176a70f732d83129e434dc8ca9aa494e59fbfea804bef6406670cb984476ca6ec771ca1cceedda77bf9e9532d1502158512ab9ed9518523074c9beabb9f2e4dbb4985943f39eb59f66be9cc390aa1a1109815e62aed7ab9d41603c2d5da07725fcbc7102010a0fd4aa6fe87f0f729474e81266d129dbe8e",
+  "imageName": "6eb99e1c-e739-4d4c-bd55-4f7fbbb09a5b/inbound8734787684777103842.jpg",
+  "region": "CENTRAL"
+}

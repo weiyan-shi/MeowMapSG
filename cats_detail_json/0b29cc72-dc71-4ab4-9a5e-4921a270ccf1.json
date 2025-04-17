@@ -1,0 +1,14 @@
+{
+  "name": "Chonky",
+  "sex": "Male",
+  "personality": "Docile cat that is friendly to petting, doesn't act aggressive usually",
+  "likes": "FOOD! Because chonkz is life",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1701870623985,
+  "dateModified": 1701870623985,
+  "catId": "0b29cc72-dc71-4ab4-9a5e-4921a270ccf1",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0b29cc72-dc71-4ab4-9a5e-4921a270ccf1/Chonky_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T061216Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=310cde81852b41ee1d36a5aca6d5cdcbf51b006df7b9e81a4ccb8cec2a5e79c15baa51f8067c75a932af94d41dd9a6830fea294ef016cbc539fb2f5df45fea8c3a8b45f3a2bf9b7d7b05c69a384f1f6e11c995c20c03c9b6ada34f13086e2e6552533737905cf84c84225cec4542fb12f6d14f2c84e14eefd253838d1627255c6c6a60265f5e6c8fc9ba84f7b644de1e491d37c2cc8eb47fb599c157873bc402e934ed8f0a63a9aeb558552bf02ecb139de11581b3d7d1582a27ad09dc16459a5ca50e6dc68b393e3a8a1815a506af5ac722a25ad707517356085f334e574e90322f7c942b5117528693843abe74ae4f1875207b43934c2b80d630ba9d1991c4",
+  "imageName": "0b29cc72-dc71-4ab4-9a5e-4921a270ccf1/Chonky_cropped.jpeg",
+  "region": "NORTH-EAST"
+}

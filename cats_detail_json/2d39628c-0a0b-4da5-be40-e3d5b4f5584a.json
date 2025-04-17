@@ -1,0 +1,14 @@
+{
+  "name": "Oyen",
+  "catId": "2d39628c-0a0b-4da5-be40-e3d5b4f5584a",
+  "sex": "Male",
+  "personality": "Loud, vocal",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673873471321,
+  "dateModified": 1673873471321,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2d39628c-0a0b-4da5-be40-e3d5b4f5584a/20221026_175852.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130801Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6371a0807177eb6260df42d8b06201d6c4810367ecaf645227e2c79fa6f05079bf1987ef5c922660cc3f70524a84b15dcb9435b656498a2b1c3d92b743b7b33661286d31c73a11b639eecb3bdbdff235a5cce46855833ec55ab824cda1688bf664e51c7544d224cb3df8892656422faf488c4f5668fd705bf8c644151012db4792ae577da85cfc01d2d130248584ac5798b17d807f315e2070bc267eee0bd8cffc9b11ec21a49c6f03d8714779d7a0223bcb2fd61a6bd824f367248a607fac4c50d19a68a4cfe22ea57d0cb2430df227de8b155e0d5594a2b1f89f8c7dfac4032849878ee5e30090771b7aaab5a0559964346ac5b080beaada1f9052f2f07b85",
+  "imageName": "2d39628c-0a0b-4da5-be40-e3d5b4f5584a/20221026_175852.jpg",
+  "region": "EAST"
+}

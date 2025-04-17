@@ -1,0 +1,14 @@
+{
+  "name": "Van cat",
+  "catId": "3a0ffb5a-bd41-4bf2-9c62-321674fca061",
+  "sex": "Male",
+  "personality": "Shy",
+  "likes": "Sitting on top of a different van every night",
+  "dislikes": "Getting down to the floor",
+  "other": "Typically lives in the carpark, will hide under a car if you get too close.",
+  "dateCreated": 1673885350729,
+  "dateModified": 1673885350729,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3a0ffb5a-bd41-4bf2-9c62-321674fca061/vc_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131344Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1a1acad5dc54622b0841bf696a61fddadfaf4550dbda65f35db306ef0e9a46244a40a096c6380811669dc805cdb5de2780ac33125a5c1f187b10d9a0e3223025797566c2413a9e9033b635f341b30d3388630dd74f36ef12c94d529363316251c5c747e9193a5aa9aaa76bfbe7bb0f5a3388a7293c8356840d9aeec0be44c2d37d4b6f7567c694a39ba59814dcb4700b08827e1b6d526362d2cadc3b64e0696f66eed43fb93bfdb30e47399b1f29a351b3b985e54f6b3f65c40f5d05f93e23f75bc286ef139c0b516e52aa9f85ae9d6ecf2355b77ee184f4875273ea82001798279e4e260fb0a9a844720849c0ce1fb03629ec0e2b4fe15da6693274a85823a8",
+  "imageName": "3a0ffb5a-bd41-4bf2-9c62-321674fca061/vc_noexif.jpg",
+  "region": "EAST"
+}

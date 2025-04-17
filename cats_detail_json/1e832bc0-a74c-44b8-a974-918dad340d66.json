@@ -1,0 +1,14 @@
+{
+  "name": "Shy-shy",
+  "catId": "1e832bc0-a74c-44b8-a974-918dad340d66",
+  "sex": "Male",
+  "personality": "Super shy cat,a true scaredy cat\r\nWill follow for food but from hiding places\r\nMeows until he gets food\r\nRolls around and shows belly but too scared for rubs",
+  "likes": "Food",
+  "dislikes": "Humans\r\nAnything spooky",
+  "other": "Brother of Lucky\r\nNo picture as he rarely comes out from hiding spots :(",
+  "dateCreated": 1673922090239,
+  "dateModified": 1673922090239,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/1e832bc0-a74c-44b8-a974-918dad340d66/Shyshy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131400Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=54c8d06064b98e042d7fe1b0ab8197751f6ba788392ff66f7109063d0d8fd5cc716d9f6dd79724a21066b9827cf5f1f5bfeed2a636342cb3cdeb4f1cd8394c3d69c6469e51dbe69168d1fdade6219751723d3288b83c30093b7d17a4a94d0faeb7a4bea446e17715a715fa382740f2399b153a9cccc444784ada55e5ac3bbb2ffaa009e7b6b32dca48604d01290be42dd3bde04d28d14e71e7cd6be0ea0e67fb185dbec09a212b963dc18a59f4ee18680c5f4a8fae2afd1187b1b6c6b7a3819c1e7f345b842b52a9b9c090994b82dd9c2a26413eb199be302623323f5e9939f77f7c9c32ce4f5f11a5783e4a0dae2002cf4493709f08a7b92d1e48ebe3a2af06",
+  "imageName": "1e832bc0-a74c-44b8-a974-918dad340d66/Shyshy.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Charcoal",
+  "catId": "b7698b46-9a89-48f1-a9c7-77b53a17335b",
+  "sex": "Unknown",
+  "personality": "Cautious but curious",
+  "likes": "Zi char",
+  "dislikes": "Motorcycles",
+  "other": null,
+  "dateCreated": 1673893105332,
+  "dateModified": 1673893105332,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b7698b46-9a89-48f1-a9c7-77b53a17335b/Charcoal.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131350Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5dd006c80b638b6de9a73ac55ebaf73aa4bab4bef3283665298fa7244de7e9c71aa90a004255abdb73cd815eeb9e7edc0bffbf420d5e0a8efb1dbb7c88759bdbd66b5fe48fffb46eaf4f8bb92e40bf06347a0d883dd05900ab4206e9ce41293efc6d3f896b51145b38e659b5b193745f505b16dc44f1052f4a5098a814ddb0836304ac683424d7bb39fa1e3439ec5342ee50c8a1febe033c1ef8299f8b1e9f1a2489cbef6c078a8e868d688bb857a5791e2aa909f5ba715dea12d717b289db52ef9ba7f3d7c6ffec8d72c01d53b9aa36d0af6b1796af627a463bd9cedc65c343e469aa3ee86e5a7a0eb062ec334c99e98c2b5403e172df715ff2f42c3f202365",
+  "imageName": "b7698b46-9a89-48f1-a9c7-77b53a17335b/Charcoal.jpeg",
+  "region": "CENTRAL"
+}

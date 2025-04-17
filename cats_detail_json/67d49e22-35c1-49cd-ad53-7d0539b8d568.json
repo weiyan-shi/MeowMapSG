@@ -1,0 +1,14 @@
+{
+  "name": "Catnip",
+  "sex": "Unknown",
+  "personality": "Playful, meows a lot.",
+  "likes": "Sleeping, playing",
+  "dislikes": "Generally being petted at chin and belly areas",
+  "other": "May scratch if annoyed, provoked or touched in sensitive areas.",
+  "dateCreated": 1735364609142,
+  "dateModified": 1735364609142,
+  "catId": "67d49e22-35c1-49cd-ad53-7d0539b8d568",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/67d49e22-35c1-49cd-ad53-7d0539b8d568/catnip_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154554Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=74a00de043387db7c0256674b2fdbf41988e6a363cf1ef5770965ab49dc9a8ad3fafaa9025b29ee27ded9d5e3ee6444b8918ddceed6b3af53cbb17002b3008499535478e144da752905e4e96a59c0268bf1110ce97d43247b5a5f3643c0c888832f0b63607a2c4772871c8fa639e45040ee9d427b7ba0998592c53421cf46f63aac221d764e089e6810b0776f03d0b9b2ea8777f4c4f65ab359a6199b924eb57e9e03b61ab3f4993d54dcb8568aa5247466c94066eb002d580996fba44c061bec81d37a9fd15ea29f8ab5334f7195eff7dfe4c89f4ca9a16949d4ab195acffbaf434e33e3ada935ef003ac1bde90e0845a2da9680d571d8681018d775d955e6a",
+  "imageName": "67d49e22-35c1-49cd-ad53-7d0539b8d568/catnip_noexif.jpeg",
+  "region": "WEST"
+}

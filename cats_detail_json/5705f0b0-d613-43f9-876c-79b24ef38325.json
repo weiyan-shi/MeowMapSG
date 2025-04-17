@@ -1,0 +1,14 @@
+{
+  "name": "Sailormoon",
+  "catId": "5705f0b0-d613-43f9-876c-79b24ef38325",
+  "sex": "Unknown",
+  "personality": "Curious and affectionate.",
+  "likes": "Umbrellas.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673968170549,
+  "dateModified": 1673968170549,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/5705f0b0-d613-43f9-876c-79b24ef38325/Sailormoon_noexif_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131445Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=292a71f32cfab1743c0f27fb4899f43fbf8f578df619941e7b29383a2bab4970a41dbf78624ee511b55e48d301ac9e8437ba3a354e177d056e07baff3939e04a56ae05e214cd3aa7f96525b677a33b64e4e92707aa89a6e29a3d72bfd5b475131e58cf25b7aa799d019064c96f3884987ab88d590bf49431b20c54c5496ce2d4ef6fc482938d3975feecfb141d04eae494ce649aa987d7c1a12cdb7b5da66adf60707111cde36f7697c2290d65db285eeb304bc3071e93cb3d1f8b834c6a4d76c995541ac74647659cd166081fc4b045f9c4d7d7052eddbfa7551b5ba19fd6878aa83b6ec7ab760432b930d100155ca76421f3a518f9cb69ae9d616bfb074092",
+  "imageName": "5705f0b0-d613-43f9-876c-79b24ef38325/Sailormoon_noexif_blur.png",
+  "region": "EAST"
+}

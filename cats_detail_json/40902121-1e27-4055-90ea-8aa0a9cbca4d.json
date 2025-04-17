@@ -1,0 +1,14 @@
+{
+  "name": "Kiko",
+  "catId": "40902121-1e27-4055-90ea-8aa0a9cbca4d",
+  "sex": "Female",
+  "personality": "Friendly\r\nLovable",
+  "likes": "Sleeping\r\nSitting on the BBQ pit",
+  "dislikes": "Tummy rubs",
+  "other": null,
+  "dateCreated": 1673922475988,
+  "dateModified": 1673922475988,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/40902121-1e27-4055-90ea-8aa0a9cbca4d/Kiko.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131401Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6f0f7b1b2ae12a13c4b356411c43ba53738ba38cb17520b29687b4c8c8e3585c27942bee670bb3966c7224452cf378e6b88885461f37f358363eca3ee58c149a7ac9d27a06f935437476967112e5eea1d597e0209ef23a962efc72d5d5bfb079a15574115e2a89ae1d1dd347120ceb28650274c9eab734d330fb1bf9c97b1629921f64b0b0a6959d5ecb5a97f4c56ebb68d713d5002242e7e4d9fa1642bb7438914f4c3244c47b994c5e4d3746d7acd0ccfb0e5212f4b1c4b02bd17b9dab1f0db7aaf2b0797831d46e623d44967e89f115c42b61cef7815b3afcf561fd493ae30786d1a3bf7664166b5cdcf41fe2c49a3104df383ff669a4022a141954d934bd",
+  "imageName": "40902121-1e27-4055-90ea-8aa0a9cbca4d/Kiko.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "playstation portable",
+  "sex": "Male",
+  "personality": "Very friendly and affectionate, not very active because he hides under cars to sleep.",
+  "likes": "Food, sleeping, head pets",
+  "dislikes": "Being picked up, other cats in the area",
+  "other": null,
+  "dateCreated": 1726639638418,
+  "dateModified": 1726639638418,
+  "catId": "7a1e6ae7-1d4b-4797-a9bf-609fa64c99dc",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7a1e6ae7-1d4b-4797-a9bf-609fa64c99dc/Playstation_portable.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T065159Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=85eeb940a0ac883883383f1a51c95550abbce34fadc0db772395787e5590269cadc06a5693a0a07545ea8b8d3bbcfd4c69affed60c8b26603559532129cd30c2de8d172763bcebc84edf65f016fd6d102d2730133c6c5b7be6f3e5a38dc327de9e1134865bacb2110b740a7cb7fb7fc6036cd6c65522d3cfefa352910f5417f7ed0a700020c522361db7a50c924a185cace2c91cd482b86ed0932a9fb7df4f93d970caf6e48dcaeed5be846db164c226c7177871fb23d121c080f3161b0f5aec4a1f3edbd8be1dfe3deb1270de438123e02ff486f990e47bc754c8ce3d51ded54d4b27f919b8a1d0eb3efe5fa10d7bde0bd16b6fa9b53ce4c580b060f170cc6d",
+  "imageName": "7a1e6ae7-1d4b-4797-a9bf-609fa64c99dc/Playstation_portable.jpg",
+  "region": "WEST"
+}

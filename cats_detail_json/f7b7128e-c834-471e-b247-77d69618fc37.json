@@ -1,0 +1,14 @@
+{
+  "name": "Rusty",
+  "catId": "f7b7128e-c834-471e-b247-77d69618fc37",
+  "sex": "Female",
+  "personality": "Playful",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674065161319,
+  "dateModified": 1674065161319,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f7b7128e-c834-471e-b247-77d69618fc37/Rusty.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T004211Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=130735c14315d0a6a582367fc4e42df867faf3d7be667a6135b0fd83f821266c8a60208c11b438e0815f485c324efc54f93593dce5b13e72639649a94730faf01cca37e9d8979f8828d4a6a084cd6a124b822fad2c5dc835f4799ff10e9e70909e1ddba9dda5d44e7a87d7b23b3d06424a3272af2c3ba1a804e4abc7bcdc95a9de8681d07c8b2ed2c96ca946730ab0d7df567ec98bfc50e31f09bc4602aae3693c140ce2106ea3ef05823cff41ad9dae34a76b70fa53e8c95255a81b27ce798c7ec28f2205faab30594e6582cd4c5115236da4026b9f6b8e8b3ca18a56f4df11a658752854ab8859d35aec193f64dd7d90bf64fa25719008cea2233be250688b",
+  "imageName": "f7b7128e-c834-471e-b247-77d69618fc37/Rusty.jpeg",
+  "region": "CENTRAL"
+}

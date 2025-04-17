@@ -1,0 +1,14 @@
+{
+  "name": "sayang",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1681870402586,
+  "dateModified": 1681870402586,
+  "catId": "02a8fd8c-d75b-4f36-9c21-0bfc544400f0",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/02a8fd8c-d75b-4f36-9c21-0bfc544400f0/Screenshot_2023-03-21_at_1.46.09_PM.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T085429Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1fbc86db6c564f58f67886030ed16fe7a43a713973e2673e1086e59ae1ef46440131efb94a167bee45bba159ad2d06ff3a92ceaca32d40373988b74866ab1a0f1d049d2c5b11afaf57185d05f1a6c816bba06f1edec38f6519c2eb300d50bba7bbd01eee38bd79a166bdd7339c8d71ca87dcadfb9235dcaa221196e27c3cf07ab514031e45ff5131faeb30a4e46c44cf020a156cadb9f3629778302c81933cecea85e9c73c7ec397cdea7c8192769f8422c8866d7e0aabbb9db1f279d1d30fe821848a18904eeafb6b7d8272b104e7c1f5956c3adf4ac405ec9a5b633b018d711556112a000d8816f53d7c2fd507eec521520bc1e23450d99769f66471533e02",
+  "imageName": "02a8fd8c-d75b-4f36-9c21-0bfc544400f0/Screenshot_2023-03-21_at_1.46.09_PM.png",
+  "region": "NORTH-EAST"
+}

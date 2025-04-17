@@ -1,0 +1,14 @@
+{
+  "name": "Nala",
+  "catId": "eec7632f-9a38-47ee-a45b-e34b4ad7c997",
+  "sex": "Female",
+  "personality": "Chic but open to belly rubs on rare occasions.",
+  "likes": "Sitting on the grass and judging people.",
+  "dislikes": "Overly touchy people.",
+  "other": null,
+  "dateCreated": 1673881545983,
+  "dateModified": 1673881545983,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/eec7632f-9a38-47ee-a45b-e34b4ad7c997/20221222_175730.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131323Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=859ac78ea4fd602b1d2772c41400d53fea7b3371938d93b2e54e81ce842fb2ad587c421ad5b6e20e4a32aae81388dba01010a59850b406a606be8d317e1cac82b5ad415340ff315e2a247f6b948c59bdd8d9303a89e211fe55e755dcf8938a47e8f4c3d8656b9c7a3c761a42c96e726b2407bfd8f2f1857a6abea7022ad58370ef586281ab2e926a7dc5bfa724efb05e5f1d9b3ffdc3760b060c0426a1b4a77b1f1f2b168b10a4644d1634a9ee9091d754283a0281e72ca536b4caab04b5ae91bb900b099b45fee2b4d4bc0533cb75beff6beaf2f4ce89aef1cde3fdcb1a17f697fd48af38c5f563ded17e20a98146510a6ab91fcb6a58634e6f9630c853c96a",
+  "imageName": "eec7632f-9a38-47ee-a45b-e34b4ad7c997/20221222_175730.jpg",
+  "region": "EAST"
+}

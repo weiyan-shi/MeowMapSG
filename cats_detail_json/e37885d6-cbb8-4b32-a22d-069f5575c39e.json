@@ -1,0 +1,14 @@
+{
+  "name": "Bee cow",
+  "catId": "e37885d6-cbb8-4b32-a22d-069f5575c39e",
+  "sex": "Male",
+  "personality": "Friendly and a huge love bug, loves interacting with people",
+  "likes": "Likes humans and pets",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674033858924,
+  "dateModified": 1674033858924,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e37885d6-cbb8-4b32-a22d-069f5575c39e/BeeCow_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131503Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=20041436f41894a099f941f5ee66a669a836cd2d6db196da05d5140c738cd12d6963ec0d01b942eb356e387629ba8e1390c80b482052fbf50fd112004b0807c22888593d1e0d23ed6830eda853deed6f58efa4e301cb1031c6f014ab4c10403cfa1c9b7ab2cd01f0f7f5296ba067cfd38b5482d98dae0bfb23da1d96f06c39a4039c83a91291f1eeb8f4491c46b0bf94597bcd96361d296021e7c45dc4749e3fd31bb2cc4d599909b40dbf75c783b66f2cf7122a3f1ed5c7bf16e7ffa57d9b2a0991d58dff894e9cc4f86a8e3810212bb1428fec66a0d02cb00169b8ea694171a7925d1ece9bc76b398dbc0ea66bbfca21f26d7129473e49d88026a55ea1c1ae",
+  "imageName": "e37885d6-cbb8-4b32-a22d-069f5575c39e/BeeCow_blur.png",
+  "region": "CENTRAL"
+}

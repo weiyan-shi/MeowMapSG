@@ -1,0 +1,14 @@
+{
+  "name": "Tabby",
+  "catId": "c4b4b777-732b-4050-9eee-94c37f36c85c",
+  "sex": "Female",
+  "personality": "Friendly meower",
+  "likes": null,
+  "dislikes": null,
+  "other": "Dark marbled orange cat. Skinny despite eating a lot",
+  "dateCreated": 1673876240176,
+  "dateModified": 1673876240176,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c4b4b777-732b-4050-9eee-94c37f36c85c/Tabby.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131316Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=27091c87eb863766e79b445c6a2af39da269bedcacb2958bd901aa2d131106e2f1faaadfbfcc3dc674b3e6a6813113411c22cd56add81a7c7c39c9772f187cd9ddb3d3d8d716fa8c9ff96473c5c2e27a5019accaf360bb548fc6c5590a9c61e6a1f00c0900f1229d78a3eb580d757e80e141a0850de35759ae4624b197290c1dd7749e44f31d4e887c73c78b910b7c18b06690de93d1f4ccf635b0460017a9ea6a457adb2dfbdcfb8f9bf1fec8a48f63d799a2fe0cab37140ca5460cae73eca59cd57b32be241c3de6c60548aa9dead127449592143494ac73967c31d7b3790990dbfc2062e9d8278029eb35ce2d243a42837db84b564ec6cf759d2e65b9ef57",
+  "imageName": "c4b4b777-732b-4050-9eee-94c37f36c85c/Tabby.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Cato",
+  "sex": "Male",
+  "personality": "Very friendly and trusting, will befriend you and sit on your lap!",
+  "likes": "Crow-watching, Napping in the shade, Sitting on laps, Treats",
+  "dislikes": "Dogs, Belly rubs, Attacks from children",
+  "other": null,
+  "dateCreated": 1674735100404,
+  "dateModified": 1674735100404,
+  "catId": "0f79e3f8-217b-4096-8f41-2610bf1fbec2",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0f79e3f8-217b-4096-8f41-2610bf1fbec2/cato_blurred_new.PNG?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T022527Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=09a3b48de9046caf7dc9e4a3544a925bae4a96224adaf710236187a2d28312e4dc996bfd62ee9bda554ab6fc4be3f49eece8b8f3cf63d078937fb18936b491e2d289fa5de9b16014319935bc518ed0375af339680bd10f0e55912a3ccfc0f99e7c6eda05e7db9d5974e16c59986ec42195ff65d378e5ed74236dbd04c1a1e947e349c9a951ef7f4af316883322d7a8be11046447e6ca3b20db41f39986dff47a2e7ed42e7f1896be90562f09cb939e3a6ff7faa76ce1c13e9d36bf7670b0d2ab85d19269ecd285e8cbf597850395a122567f28752ef601851d795f3958b4608effb4209ad711ebf4dc942e4012e4d669f87c5ef6e6174f85e9a66c966eb07bab",
+  "imageName": "0f79e3f8-217b-4096-8f41-2610bf1fbec2/cato_blurred_new.PNG",
+  "region": "CENTRAL"
+}

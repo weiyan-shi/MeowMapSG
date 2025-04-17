@@ -1,0 +1,14 @@
+{
+  "name": "Pearl",
+  "sex": "Female",
+  "personality": "Very shy",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1675592747396,
+  "dateModified": 1675592747396,
+  "catId": "a94425b6-e414-4d77-889f-3e3251c37910",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/a94425b6-e414-4d77-889f-3e3251c37910/Pearl.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130808Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7fdb6008f6101ef5e52132baf32108e11277236cf2da61575ac154eb2c49fe10c3d995d76a666346e913c8679bb96e8b4beb07e971a46205e02b79e21bb52dd0803aa84433d94a00f8becf8d0d5a3ef3bb94c88bbb16dceab6f881912e13a03434bf1c24d56d5a58687014278c797230736b22f76cd75264f7d7e2b742bef9f8408c7f59952387c6161956b593b51709e49d98c5875a584415498702cc9eae2dea1bf117bed2df9d6512df87dfcaece71e738edb18dcc0f5c53c305186ae06d5004459709d7eab6a2ef23338448edce7432dba3ce7b49dd050a44830470f2230977da6c607db2adfe3589dd3c12e4637d7bc077945086b1590874d02a4d710fe",
+  "imageName": "a94425b6-e414-4d77-889f-3e3251c37910/Pearl.jpeg",
+  "region": "EAST"
+}

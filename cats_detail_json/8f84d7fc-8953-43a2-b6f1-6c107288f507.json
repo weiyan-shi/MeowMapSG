@@ -1,0 +1,14 @@
+{
+  "name": "Mia",
+  "sex": "Female",
+  "personality": "Very picky over people and can change how she acts very quickly",
+  "likes": "Gentle pats and food",
+  "dislikes": "When u pet her when she's sleeping or when u touch her neck (or places she can't see)\r\nDon't touch her belly.",
+  "other": "Sometimes is found there and other times is not",
+  "dateCreated": 1734140792714,
+  "dateModified": 1734140792714,
+  "catId": "8f84d7fc-8953-43a2-b6f1-6c107288f507",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/8f84d7fc-8953-43a2-b6f1-6c107288f507/20241108_144303.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T065341Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=39a5f4c8bb71bf3fcf5c19d91025b047f1650b41bacd0dcec1c18c3e29da20848770feb1b5457255a19a3e08c12a50ae0dd2a75746da50e0ebc6343c5e05345108623d7f371d6cf9bf943a9811478ed1c710ac733cba4c6f1d97f8f6dbba11a351416957271a5ad63e22194e70f77a8bd1a84114e6ea91d371bea5d3847bd410bab47859f176eae03de0597dfa6fcd812a9d5fdece9cf9023f4349cf24180888df1dfca43bc23d7fb5cf8c7be2f93193e04a0787b4f33f760861d156475b55cca3ba8d109eba5b150d985efc9b6d96145f1843e7a2fe92e5a37fbabd959f29cfc9fda478c155d85cd4c222f14cda8ee1441c1072937d69a94c41db3f464a4e4f",
+  "imageName": "8f84d7fc-8953-43a2-b6f1-6c107288f507/20241108_144303.jpg",
+  "region": "CENTRAL"
+}

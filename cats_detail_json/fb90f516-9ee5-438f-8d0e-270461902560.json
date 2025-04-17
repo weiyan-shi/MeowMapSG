@@ -1,0 +1,14 @@
+{
+  "name": "Sesame",
+  "catId": "fb90f516-9ee5-438f-8d0e-270461902560",
+  "sex": "Unknown",
+  "personality": "Bored",
+  "likes": "Food",
+  "dislikes": "Everyone except the cat feeder",
+  "other": null,
+  "dateCreated": 1674001112090,
+  "dateModified": 1674001112091,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fb90f516-9ee5-438f-8d0e-270461902560/Sesame-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131455Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7e4329cc70a60158a80f646b63c4f99febc08957b931a26e2549d52683e954b2a75d4a0bf6e45f54ae5c86671d3cb5f07e8633f7e09be03b6e9101b649afc4e6ebdaad5cfead47080ec41b612acb0deea37fd19aa24f2ac2acf13aeb462a5fa189cfe065ecfdd5493611d86145a15c9ca3d53b937f436941ce6b0a2ebfec859889a6df9b2204b2efd9a2cfb691b23223efd81d4730cc68c5ea8e21e8fdab193bb8ae417bc5fedf521ccd9f8910ceecce2895fc9be133acf56754afa5868008ed3487799869676376e19de0ced8d85392ffc14c3b7474a511354af4956687b343693eeede8a019f538509ede53c058af50fefa39d40f9e4a4f35dbeafe7ab7516",
+  "imageName": "fb90f516-9ee5-438f-8d0e-270461902560/Sesame-blur.png",
+  "region": "WEST"
+}

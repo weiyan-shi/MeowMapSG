@@ -1,0 +1,14 @@
+{
+  "name": "Lady Cinnamon",
+  "catId": "6397f1d1-2008-4323-ac65-66a6c59e59b0",
+  "sex": "Female",
+  "personality": "Quiet, chill and mild",
+  "likes": null,
+  "dislikes": "Bathing",
+  "other": null,
+  "dateCreated": 1673328003348,
+  "dateModified": 1673328003348,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6397f1d1-2008-4323-ac65-66a6c59e59b0/Cinnamon.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T011318Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=656e17d584aff48a70b3c957c7a023dfa26b5b23e680fb1dac1cd59a010417f123444c32eb2a5538f5bb63faaaae88fbfb62e84c728730cc874e5f12cab6bd4d391201ebb200ae0e98a48531b98d7ad350d73f794c035b2a5f0cb7d33b8271820257934136d2075e780a27cd99fec5e4e15cf21caa59a7d1a4642d1fdea95d46826646f0c6b4b57e3fc19bc87d6288dc5d251d72076a04b0dc269bd5282a67b16cc28696b26bee9ec33f8b9d402dd437227887401821c4d139359fa0f3c8ea3fed05d8cb096caf83ed2554aae7aba3c5edb43560047cacbcccde1485838d53f5ebc34fbefae7a84f12c8c0f84040dda01eaea8235e56c2a270842664d7480b76",
+  "imageName": "6397f1d1-2008-4323-ac65-66a6c59e59b0/Cinnamon.png",
+  "region": "NORTH"
+}

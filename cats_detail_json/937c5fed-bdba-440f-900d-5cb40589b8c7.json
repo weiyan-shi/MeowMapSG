@@ -1,0 +1,14 @@
+{
+  "name": "Milo",
+  "sex": "Unknown",
+  "personality": "shy, mysterious-ish",
+  "likes": "food, hiding",
+  "dislikes": "getting touched, socializing, the other cat around the block \ud83d\ude1e",
+  "other": "it bites.",
+  "dateCreated": 1697771458518,
+  "dateModified": 1697771458518,
+  "catId": "937c5fed-bdba-440f-900d-5cb40589b8c7",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/937c5fed-bdba-440f-900d-5cb40589b8c7/milo_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131552Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7e94cf1a0cffecf6f2eebbe0b8c37eb34851e7566ccd162499d5016515c453d6de21c79f41ef86ad77e339f41d9d7815bd34c69fa6ee9f45557a6aba7a7b80faa35da769c112df2160d519159104e3484b513a3c7ac3a612d10cc95d4ffb85a7af641eb60e0e62a7e9fc39f6812dcd36be1641b5751354a17b261c1d494a96734b9af3e0b30a13cb694e62744d2d8d2c312ac034dd6f803c697488cf915af46da9f4a95e99a648c3a5243589234c45b19858f3768b4170240c0d4cb120153c90c5bc19b3902c052098ef582bd6cb5fbba087b589f89be631b09a1f37ef6681254deca07c3e6ba241b8a5ee470259cee0bcd04e76d556874311af69bfdb62baf8",
+  "imageName": "937c5fed-bdba-440f-900d-5cb40589b8c7/milo_cropped.jpg",
+  "region": "NORTH"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Chubs",
+  "catId": "8a223ef5-53ae-4067-8dff-443cdf88b1f4",
+  "sex": "Unknown",
+  "personality": "Sleeps all the time",
+  "likes": "Sleeping",
+  "dislikes": "Dogs",
+  "other": null,
+  "dateCreated": 1674000951154,
+  "dateModified": 1674000951154,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/8a223ef5-53ae-4067-8dff-443cdf88b1f4/Chubs-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131454Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=876b86b27e66bc405389aa84eb5baf9a32b0e254bb2e980a7140b65c0794b7485e3290875e90cca50f8bbd9316c05a227b37f216a92d4404379e3fa13b35abc72d788b529ce9d83b6ba0b857309a1d5af356fb0734cf9886040c76b9bf3093e7c5546b2c947318fbdee8b72a3cfaacef90fd83d462a58e4f73ca7f8d19b54a86e39b25964fec6113a1a61d006ad7c16c140f314a92c4977e94548f46b15491c718292edc9d22d9ab497657d5560767df4c1b23b8858f42b0ebc1f55a94ffe49abdc6edc04555f7e38745751c76c35181da2a2d69c92d9f76a3b8322df6fb5bf14174841b80325efa5f01b9802aee01798f00216dbba97b75ebb584db3ea44e27",
+  "imageName": "8a223ef5-53ae-4067-8dff-443cdf88b1f4/Chubs-blur.png",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Carrot",
+  "catId": "050e3c5d-29fa-4479-8442-186cf34762d4",
+  "sex": "Female",
+  "personality": "impersonal in the day and very friendly at night",
+  "likes": "butt pats, chin scritches",
+  "dislikes": "belly rubs",
+  "other": null,
+  "dateCreated": 1673929996174,
+  "dateModified": 1673929996174,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/050e3c5d-29fa-4479-8442-186cf34762d4/Carrot.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131409Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=79e5f45b3d2926c6449cc63a51cb974d35cb67d2e9a94eea4591762dff00e6f8f15884b4fa66fddf8e66839d0a6a0e118b8add0da40ee8a724af3a8a7bd36874675fe2d209a4fabbe07abb6969ec49439223a0c5727544f18555b649f24b7e0163fe37ae2f72a65cf7a5dc9336ada24b1e045f01394549fdfe770c4e6d1834e5a1d26a973c3f08fe898a18b492fa707a0dffcc57f89076ce516401d23dacea0c5d02a2191b5321feadd8716658c8c3f795a5eebbcb1e11c5ea9c728062bae6420ef5820659acc58521573915127331c89a5de9841fed6854449e4ad81a20f2c7a6985101c9d475b8b17693f110d7f9500ff221c6009521c89b991bf16dcc8d08",
+  "imageName": "050e3c5d-29fa-4479-8442-186cf34762d4/Carrot.jpeg",
+  "region": "NORTH-EAST"
+}

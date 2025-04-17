@@ -1,0 +1,14 @@
+{
+  "name": "Pretty",
+  "catId": "cc837678-399d-4ff8-8e8c-eba1d9fc1c94",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673948225084,
+  "dateModified": 1673948225084,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cc837678-399d-4ff8-8e8c-eba1d9fc1c94/Pretty.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131417Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=553fc788bec97e1c33ce4941b4d5c4f9fb6a1bcf9a282b9253bc0d3d847f4d034bbdc24d897c5f8d34232568939e697746cd85cc08cadff398193c403628fa2913abe78268ac173197fa0fcf050d8b56ee232b552da11033f399314d0eb67bb823f4f303f4a186746db08f17193f49357b007c85fdf1b3d5ecfe130bbb35a054b8d22038e1fccc762163719217590ede9746439dd7278082c932475141b833c93f6792e450fbbaa0faa3ca426348695ccae7e9cae2b236bc39f33436bc4dbf5ee65dd08f9b15d8868b8aa19bd972ce76515b2193ac5fff3d00ab5e06dd11ab89b8ad4a24ef2cde90ebdd137b9ae091b4adb35e83f63fca46bd08fc8ea05d22e1",
+  "imageName": "cc837678-399d-4ff8-8e8c-eba1d9fc1c94/Pretty.jpeg",
+  "region": "NORTH-EAST"
+}

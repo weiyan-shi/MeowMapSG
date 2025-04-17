@@ -1,0 +1,14 @@
+{
+  "name": "Boi Boi",
+  "sex": "Female",
+  "personality": "Friendly, often walks to you when you call",
+  "likes": "Pats and humans",
+  "dislikes": null,
+  "other": "Has a boy name but is a girl. Walked into holy ground one day and decided to call it home",
+  "dateCreated": 1708953758648,
+  "dateModified": 1708953758648,
+  "catId": "f5bbaf2d-2e6f-4d0d-97d0-2c7e8967ddae",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f5bbaf2d-2e6f-4d0d-97d0-2c7e8967ddae/boiboi_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131557Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6ffa3f2b32bc521f2e016e7da99ef176a71788c62cc32844cf0ccce32c2864c1a7abd5ef203ea4589efa44d69656d73d094f48c948da53c136466d923daf3deaabb6f441c5cac025405a0595cde71018d2ba65fb53941487e280bd76171a81245085bf6d4346f44b283500fb74bbe3003f05406902b71fc5d3d75f41ba879a22f36901b9e30cf9477ed3e5d9f1cb9baf6144cb7149dcdeef9f2b2c0ec230429c4988b2a6a9822e6c635a63c5319c7717c1631a08c555029454c894b2ce496e28d02777370d3a34c4ae252a878fc0bb46f03f495dc3fbd22ad2bc065662b4da079889714ced1e89175759cf372e14e934e843366a1b8429ae84b31048e7d503b7",
+  "imageName": "f5bbaf2d-2e6f-4d0d-97d0-2c7e8967ddae/boiboi_noexif.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Lao Za Mao",
+  "catId": "82dff4a0-277e-46b3-bfec-f79232d26b95",
+  "sex": "Female",
+  "personality": "Very friendly and cool cat\r\nAllows ppl to carry and rub its belly",
+  "likes": "Likes a chin scratch",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674059931580,
+  "dateModified": 1674059931580,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/82dff4a0-277e-46b3-bfec-f79232d26b95/20221119_160632.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T152017Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8408c52c8e71066aaf652fa06cfe4fbe9ec2b2730905a9bb4bb4f9d8438db1364575a004d20e15ca1a10065cf61348bf637958571a653f5922ac3a1355c4e866ca99a92c58870d3cc1583fbaa1c270b72574f0aefb2d3c26d80d23592193ddc2cd8b4795e56e03a5a6a167c17a18a3721e874424ce577a3d3eac7caec2b9e9f379f1d1ea5fb675f134da13838ad505599baf97d34d71b63c33816717183017aea728e1f0322e14b70e5fa04507283b06b37c0293787b408fc813cca636f915507ada78902fea7611e36ecf72baa80d2ebcd5fa45ad6be9c852917b4dec377e9e6ada2f930f6443b9b6b4eaf4162b364303127dd6278dc2c1b7303155424bc316",
+  "imageName": "82dff4a0-277e-46b3-bfec-f79232d26b95/20221119_160632.jpg",
+  "region": "NORTH"
+}

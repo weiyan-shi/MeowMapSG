@@ -1,0 +1,14 @@
+{
+  "name": "MrCat",
+  "catId": "41c16e67-caee-4060-b8e4-dabf49b0209c",
+  "sex": "Unknown",
+  "personality": "Friendly cat that waits for people that will give it food.\n\nIt will also come up to you for a sniff and chill session if you show your fingers to it.",
+  "likes": "Wet food, treats with mild smell.\r\nLikes human company and scratches.",
+  "dislikes": "Children, often will avoid places with children.\r\n\r\nDogs larger than itself.",
+  "other": null,
+  "dateCreated": 1673916411055,
+  "dateModified": 1673916411055,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/41c16e67-caee-4060-b8e4-dabf49b0209c/Mr_Cat.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131354Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=86456c3231ee36ccbca189da0c4e3a529e2fb3fca6a50665c6dc0939b3ca06abea4f8aaaa48f3aa9536aacb2abd6bb66a710207a980bb1ddc2cb4c39b773df1bbd95fdd26148ec7f1ec25aff5c596927709bc0268e39b2185e641132e1bee931d923e06f4e15be43955c9fecc34a3587463a94963b4cf5e4ebc7884f22dec28c046a06e1c3eb4fc43da8b8e72ee8c72e85be5a64f6b565195689ed0ac9a6a22421447b3da7121b74f87bd233293af5822cc00eb445379b66ccc705b8140afa9a574264ca032b6b6cc4889f2ada2f23eb277b6f4e4bdb8eb05efe7757e3048258e7e253942bf483563b0eb97406e5318e6f083ca245a64f1e492912f70bd73f52",
+  "imageName": "41c16e67-caee-4060-b8e4-dabf49b0209c/Mr_Cat.jpg",
+  "region": "WEST"
+}

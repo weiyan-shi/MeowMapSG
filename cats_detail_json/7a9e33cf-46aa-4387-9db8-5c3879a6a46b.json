@@ -1,0 +1,14 @@
+{
+  "name": "Ah Bui",
+  "sex": "Unknown",
+  "personality": "Very food-motivated",
+  "likes": "Food",
+  "dislikes": "Dieting",
+  "other": "Responds to his name",
+  "dateCreated": 1702852556367,
+  "dateModified": 1702852556367,
+  "catId": "7a9e33cf-46aa-4387-9db8-5c3879a6a46b",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7a9e33cf-46aa-4387-9db8-5c3879a6a46b/AhBui_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064556Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6c5e4ad65b4d31aace170e94cd52f1e6eaa23079f2e576db433d0a8101521559f229bb1375f765b39d99891f18ad97d367ee2d5042e1c9e5f617c921c0e8bbd6699a8d2b46aaf5b3317ba6c8e06e88ce4d61e770d485291e67bad6b61d05ca90e6950ae5e3eb4fb43899bcd83be3e65daa42fce748722c862f20ecfde21c577d543b1cbab7d0dc25ec5f82d8fd225db1f0951529027e2c5a730ab55adae693385a9eb46bb032ef559dcd7f07c207cdbb8111c8b71f2e8ef8bba5a363062388d35e9a87a8e61ff85b9143ba07f9be09eea8bb54cf062dfb10d1a7fe0cd0d6316176e942cd288fed87c1e7ae73c8bc025fb805c73f1d5d2e53b04b27371e4adb2a",
+  "imageName": "7a9e33cf-46aa-4387-9db8-5c3879a6a46b/AhBui_noexif.jpeg",
+  "region": "CENTRAL"
+}

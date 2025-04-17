@@ -1,0 +1,14 @@
+{
+  "name": "Chonker",
+  "sex": "Unknown",
+  "personality": "Lazy, friendly and a bit curious",
+  "likes": "Getting pet, turning into a loaf",
+  "dislikes": null,
+  "other": "Very chonky",
+  "dateCreated": 1691203754640,
+  "dateModified": 1691203754640,
+  "catId": "053c0dec-4ee3-4b1d-adf0-59575991e1ef",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/053c0dec-4ee3-4b1d-adf0-59575991e1ef/20230629_101450.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131547Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7bf760807d9d779de858162536dae338435f50bf30f9dad3f5134182f1be6cc61da1fc000221e6e4b355f4e7509857a530cd1538eaf58762bf37fbb95569efb27f0b0dd2a8d0f1bef31cddcd7ff34ee6c3bbd23b5218f05157d3438ff687872fba24cb3a8608aeb7d31bf8ee9cea200b44b8e64e16e205eac101e8a558d5ca7b0e5085dfb099ad0975298625ee8a1cff60ea25c02ad2bc7deff2eec0c57631495645a1576d1ff85463b42ee3c76c2319ba54bc41379b02b0a0811a1b10951911e6c6981d6cd8cf8a165e4207a8e8c74d4006163be19d0d6d29d2dbd91d6f1c38f9020a3ea60a71746a21f910a0b8036631898907b4a1a0f8f17c68404836daed",
+  "imageName": "053c0dec-4ee3-4b1d-adf0-59575991e1ef/20230629_101450.jpg",
+  "region": "CENTRAL"
+}

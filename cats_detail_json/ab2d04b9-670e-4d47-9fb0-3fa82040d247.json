@@ -1,0 +1,14 @@
+{
+  "name": "Motorcycle Cat",
+  "catId": "ab2d04b9-670e-4d47-9fb0-3fa82040d247",
+  "sex": "Female",
+  "personality": "Like a dog.",
+  "likes": "Loves butt pats and would flop over like a parkour runner.",
+  "dislikes": "Sudden touches.",
+  "other": "Bad at running away when it rains so will often end up terribly wet",
+  "dateCreated": 1673951809247,
+  "dateModified": 1673951809247,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ab2d04b9-670e-4d47-9fb0-3fa82040d247/motorcycledog_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131424Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7f04ba6ed2150eb2dda540d302cf9d7497b8b4794e23bc418ec6b18d33ae059d9dd2b4d493a6123e029e8971468b2fd636d31e215a12d112c412e9b3ed2ecd2ac79a8ba3f92178b661fd1b7f94ed831c81ed0de163ba99e152c37b39245f6ca9da68d0f4b8099e7f932ff1173b2a50a533a846680763327e6c5929c996b2fd35941bd26b71cc8bdf297b773b5ac5c68cd3f8ad6c10b1a75dac73c3d39dfa7a95a2e672840815e9d9343cca3711ef177a7058c58e459a8a9d17beb99f9846f2be38ba58f981eb913f783a033c13af3a936149cab4566ff244aa5afe8fe5a3523933b90e819c0a1aea615e35b9417d10f19f77e2b869fea5b1b96ac50c3fd227a9",
+  "imageName": "ab2d04b9-670e-4d47-9fb0-3fa82040d247/motorcycledog_noexif.jpg",
+  "region": "EAST"
+}

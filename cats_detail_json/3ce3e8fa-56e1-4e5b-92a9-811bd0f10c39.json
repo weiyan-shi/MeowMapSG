@@ -1,0 +1,14 @@
+{
+  "name": "Spooky",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1682510491401,
+  "dateModified": 1682510491401,
+  "catId": "3ce3e8fa-56e1-4e5b-92a9-811bd0f10c39",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3ce3e8fa-56e1-4e5b-92a9-811bd0f10c39/spooky_noexif_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151816Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=69f03464678aa1c17e7ac6baf32f517a2db219fc73e8df20409c2177a96cd7b61efdbb92b9a3bec1b7263c54488f01572e8b6e3854e36245ab44021458139dd851aa74da76034b7adc1ac098aa5fe689a20ba7b51da4cadc229a420469eb5565ff22f35b06601702f85e2c637f8be4fb8f46c8ed25fe5ab6296b2f4e4b87e8c9fcbadf2b43c3f66f907a93fbafbd723a5e71d472ce5f127c7414f3fac3f734e5b1440cedd4682cd6e5d5f1d8df16f4574ec3d276d743fd1d3111c63e36bb0e32f37bb5fca59e28b185d6f14e299b4708906452f55d3013bee205fb181f719d9e670b16f5efa72792abfeaf18a9c1fb5358aa61a4c3bd4589d9ed733be2f4e6f6",
+  "imageName": "3ce3e8fa-56e1-4e5b-92a9-811bd0f10c39/spooky_noexif_cropped.jpg",
+  "region": "NORTH-EAST"
+}

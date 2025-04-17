@@ -1,0 +1,14 @@
+{
+  "name": "Balku",
+  "catId": "7e7b2925-0990-4adf-9f94-1d59f4040c74",
+  "sex": "Unknown",
+  "personality": "Friendly",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1672904286186,
+  "dateModified": 1672904286186,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7e7b2925-0990-4adf-9f94-1d59f4040c74/Balku.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151802Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7a7b3c34169a2f447eed3bf7857c99d6dece8c4c632f8747922f2576f15a6a4b4f40ad2430b63a69f0a15bc12ac4ff5aadf5d2bb6b39077debecb81bb244245eb71d86c9bf1dd5d90a6721bf44dc0bb4f0dd1ce0ed6414fe175fef03a390186df823afde18804cebecd0c83d5eea9771fea648b948cfb7629a5e8c15655db1d3a3f637ca2b46a8b3c62d518f68a776be73c165e0b53b9a72339ed7e39495887bd8072f41dfa0187f021bc9d448609d42d2fd2a5300280fe7465905e4f7946805d4883e7cb4a78838ff7188a6e072cd6b4c347a2dc171425584cef4ec03f71eb122ba1d5cafcea63ce455d6ac11ea3bf1a24d041f0f1a732f3c208e035c6da89b",
+  "imageName": "7e7b2925-0990-4adf-9f94-1d59f4040c74/Balku.jpeg",
+  "region": "CENTRAL"
+}

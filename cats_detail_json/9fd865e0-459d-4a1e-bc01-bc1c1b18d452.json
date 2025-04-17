@@ -1,0 +1,14 @@
+{
+  "name": "Almond",
+  "catId": "9fd865e0-459d-4a1e-bc01-bc1c1b18d452",
+  "sex": "Unknown",
+  "personality": "Queen behaviour",
+  "likes": null,
+  "dislikes": null,
+  "other": "\"bullies\" this cat by making sure the cat doesn't sit on the sofa, even if almond isn't sitting on it",
+  "dateCreated": 1673873207460,
+  "dateModified": 1673873207460,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9fd865e0-459d-4a1e-bc01-bc1c1b18d452/3C944C47-C753-4EA8-8D1B-89A76228212A.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T011340Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=13b05f051e68b47b368e9994f516f8cd30a4811680d6706ec5de3434e538b972e379e732c9acc82012ddfa6c2230e105ec3ac3919ef8daaa58b176cb7c6cdc632a089b7223c7dfa3d0ff6f601db4f605165214b086d67f703d22b98522fdabeb1c54de518c730ce98c6aedfa88ed8080eef8e09c941af69d8d56799ef57be221f5f1a58f0d854eeeb6e461f3e215a7b76e7872e470aeda448348edb9893f0eedaecbdc19f713f267a6327449206bfc3d97723d3fc1be373370bd5a08147cca58645e49060c4b9c717b1141ba287aef4a8b569c7c69a2b63ece10c8e4a929d0439dbb81699254199bdeb14c2653faf2829465ddb587239efa64b8d31917f16830",
+  "imageName": "9fd865e0-459d-4a1e-bc01-bc1c1b18d452/3C944C47-C753-4EA8-8D1B-89A76228212A.jpeg",
+  "region": "NORTH"
+}

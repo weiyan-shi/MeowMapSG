@@ -1,0 +1,14 @@
+{
+  "name": "Mittens",
+  "catId": "deced9cf-f3b5-4e28-8465-7670a22f2621",
+  "sex": "Female",
+  "personality": "Aloof and quiet. Very tolerant towards being held. Never seen her bite or scratch someone, even when a child was mishandling her.",
+  "likes": "High quality cat food and treats. Laps, if available and she like you!",
+  "dislikes": "Dry kibbles.",
+  "other": null,
+  "dateCreated": 1673878375282,
+  "dateModified": 1673878375282,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/deced9cf-f3b5-4e28-8465-7670a22f2621/Mittens_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154404Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=75227e8faedfee4de898ef685acb2a0fc22604e93354eac13b9a10d2ed161041689be779bbc6a3b649f118ab4387e8a51803750aaac6c30b35442072f1b680c609aaa00652f05afeae98421bc3be205cfd8105d001dd468004c11b96ddb9f956d9955588e6328ec942746e60cb220d7291b2eaae7218eb48e8f2c967c6e9456308f6ad814d22cb9a80fd9632da03bc65f6f96b8b0effd2c086f846a8b4a26721ccc7057b7ed27d1fb2520026ad6837f9af44c2eb7331c58d88feb97b324e591b54af3690b3a48253ac7afae623ccefd54a6e5abaacd22945de060cdde080d5e5acea756e70519397d5bc44d240fe929ee2980e703434717f7b16723dec503107",
+  "imageName": "deced9cf-f3b5-4e28-8465-7670a22f2621/Mittens_blurred.png",
+  "region": "NORTH"
+}

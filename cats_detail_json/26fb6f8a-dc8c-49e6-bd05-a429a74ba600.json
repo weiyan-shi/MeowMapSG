@@ -1,0 +1,14 @@
+{
+  "name": "Mudpie",
+  "sex": "Male",
+  "personality": "Timid",
+  "likes": "Sitting under cars, food",
+  "dislikes": "Being chased",
+  "other": "He has one eye, but I have no idea how he became half blind.",
+  "dateCreated": 1691204335890,
+  "dateModified": 1691204335890,
+  "catId": "26fb6f8a-dc8c-49e6-bd05-a429a74ba600",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/26fb6f8a-dc8c-49e6-bd05-a429a74ba600/20230407_130542.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T004209Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=78b2861ed7b02516cf353fe40739211dc27f27064e41cc12072372eddd3f0a73d8ad6fc3a72e0ee17fc390e179c9f83539333aa4ba7d6ac53249a3109e90150af70944c37af635930f98421792cb1ec54bb7bd9b3032d92edde02fb5e4ef49b11488d3db9491c13b259fbce1a9c4415b3a5519f603a15e28676f4c246c6b3572356e7b683bbbb316bfc0cdce496a87a1d1acaad84878a57134c75c0eb3994045f428bac4f52af96f4fddc142650b5df3e7847d3f8390550d85359d5f626a22225cd752fb4bb2f7101fcf11724577ea5e27ad41995fd3620049c5ae08a418db301cfa3f4e48940d39f698589683c1df3732a421131f5a13d80625b19a95fda722",
+  "imageName": "26fb6f8a-dc8c-49e6-bd05-a429a74ba600/20230407_130542.jpg",
+  "region": "CENTRAL"
+}

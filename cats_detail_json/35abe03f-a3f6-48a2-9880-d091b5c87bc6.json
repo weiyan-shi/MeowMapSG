@@ -1,0 +1,14 @@
+{
+  "name": "Kronk",
+  "sex": "Unknown",
+  "personality": "Tired and docile",
+  "likes": "Sleeping and being patted",
+  "dislikes": "Rain",
+  "other": "Has a house!",
+  "dateCreated": 1681479290907,
+  "dateModified": 1681479290907,
+  "catId": "35abe03f-a3f6-48a2-9880-d091b5c87bc6",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/35abe03f-a3f6-48a2-9880-d091b5c87bc6/27E74CA4-5981-48C7-891E-1060C4C85F45.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T080456Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2447eb3edb3b1eb5569ef55b039c94d51d4db89c88ad5134126ba8fc743c1b2da57b3c2d3707abac8f986256baa2063d4158d6b841a2470db893e4cf656921c45e9d4da46d776f9a94c9a3a5618372944999ae85970b9bc4537339421cdd5a33742971f3534eb3e6e4dba06ec55d2dbe0591eb27fa27f6b5a0e3a8e09150af6c7202d4460a2e2fb25827f9a12a57dd63e7cfd7e4688bd5a92bf1c4b8dcd831726e1eae7a9a8575e6ad30b30d52d391501b3a25815c270e0b9b7db8fb3cf06265e168c01a22e5cfbb251ab32cb2468f4f5e55917351e4169896b4f1685279a0eb8f5fc7c2895e7d639aa79624e422e0d278e7cfdd7cb4adbdf33bf60f8f1ea4fe",
+  "imageName": "35abe03f-a3f6-48a2-9880-d091b5c87bc6/27E74CA4-5981-48C7-891E-1060C4C85F45.jpeg",
+  "region": "WEST"
+}

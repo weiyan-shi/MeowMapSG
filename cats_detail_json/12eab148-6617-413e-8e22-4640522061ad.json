@@ -1,0 +1,14 @@
+{
+  "name": "Camillia",
+  "sex": "Male",
+  "personality": "Friendly and cute",
+  "likes": "Rolling around",
+  "dislikes": "Other cats invading it\u2019s territory",
+  "other": "Hates sardine",
+  "dateCreated": 1679030671560,
+  "dateModified": 1679030671560,
+  "catId": "12eab148-6617-413e-8e22-4640522061ad",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/12eab148-6617-413e-8e22-4640522061ad/7BBF84C9-B738-4EE3-B5CC-D1DC80CDBA8F.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131535Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0f203c9ce7f5cdd269c3d7425a8b1db8eaf8aa72115554d2a0c9da0acc04d67d1bb1bc0c52248e4d76f71224382c33c73ddd76c8808c81c2c2194e47c2c53e39f1c52ebd71dcc407ceb6f4cc73aa37886594ea996de6bd25ec18b246d6b3a690927e4159f1c518b79e530a808e40389a7d4e8d8c13a0a893d33337906eaac9252872fccee5e80da6e4ce67aba848038e3dd888b616f2537345866b4aaca6bbd267614512acc23e4a9d07bfb129a0741e4cb4d8839d8e1ac29d78fbc2687042b194c2f82f39948b64f9c369617a1d44c9da0870b85f43784bb51b0a1dd38812f4ba7d18c118d0823ce7424b76a20e23e91cc6fee68c079922d5f3d09723d14d82",
+  "imageName": "12eab148-6617-413e-8e22-4640522061ad/7BBF84C9-B738-4EE3-B5CC-D1DC80CDBA8F.jpeg",
+  "region": "WEST"
+}

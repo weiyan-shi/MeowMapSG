@@ -1,0 +1,14 @@
+{
+  "name": "Bridgette",
+  "catId": "55915c88-449d-4ca8-bf49-386546d6dfda",
+  "sex": "Female",
+  "personality": null,
+  "likes": "Sleeping on a scooter and hanging out near an overhead bridge",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673884379565,
+  "dateModified": 1673884379565,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/55915c88-449d-4ca8-bf49-386546d6dfda/Bridgette.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131340Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8bc111113ed3a048f1efb5119785a7b1d272185f57a9b365d3de6a45b62a2b0e945c18400aba154c42fecdba9c67f03af0a7a8fd7a913d2c6328e43ac21f7306d6470e8bb2286e097df460005fa9fbf62cd4f712aead59033e251ff2954bf424b26ced002578aa7c93f8ac69c0a156bee885b5d1959af9f69677db79b0c0ab1bbb14681c80df887d3aa95e304dda6b0fa54d7871f3b99d855d7ae16bfd19df58f65b181ede233da9cce056a847500cc803b91ef57d86cca6e10326e8254e8f06bbf6f04c830062ec04d55ecac779a6366a2a70cf9ec8853323a7109bb227190276f99c424f5f531035a3ac7e64bc99b5c26d2f64d5f5e030f21b403a459a947e",
+  "imageName": "55915c88-449d-4ca8-bf49-386546d6dfda/Bridgette.jpeg",
+  "region": "WEST"
+}

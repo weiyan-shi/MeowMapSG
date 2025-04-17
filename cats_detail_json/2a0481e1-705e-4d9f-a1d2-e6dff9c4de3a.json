@@ -1,0 +1,14 @@
+{
+  "name": "Jaguar",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1683452514941,
+  "dateModified": 1683452514941,
+  "catId": "2a0481e1-705e-4d9f-a1d2-e6dff9c4de3a",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2a0481e1-705e-4d9f-a1d2-e6dff9c4de3a/jaguar.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131540Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=81ebb3b28b4a8d304a63e583b5cc8ad3a9a72cf7cb0b518e350b08e7f847637be4288dde21ccb7ab58fbd4e8034cc1294d13bdd39a81d2bc4c4bd1d313425c411e957854963430c8f1a8aa31609ef2d8eb10e341531d90be5645c63044e410af056883a91ea6e2b368b8083fce4612dddef118bf0cc2f12c7157a7166ad0021ca77432d44aa1af486860ce1fa05a7c0ac2dc6b5bedbf05f4b9753236879963ca47a3f8bafa2ba1e7803e30975b9ad9a828542fbaa196baa76c0030aaf355947fffda778082f4c4a57f7d53f478fc8eb880730c1688f63d2e33cc43dae0a1be83e0379add97ae0637179e3810fd8395cce2500e3a99671d017099ba349848dc47",
+  "imageName": "2a0481e1-705e-4d9f-a1d2-e6dff9c4de3a/jaguar.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Bidoof",
+  "catId": "052a23c8-0f3b-46ca-aa7b-c382be89c9b5",
+  "sex": "Female",
+  "personality": null,
+  "likes": "Pats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673875423860,
+  "dateModified": 1673875423860,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/052a23c8-0f3b-46ca-aa7b-c382be89c9b5/IMG_20230116_212326.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151838Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3aaf0ee4e0dd3aea9816e8ce16e880296ff65b2f1e7d54a68fa3468c9083a44698268bb13dded500a57fafda94c3f77cec5893f1726b571e5f01470cad47933a5ceef89d319f50eb7f539cca98148c7442b20f0c0f1abe9a03c031e05ffef51413cf4c8aec9ef603c8bf8d734805c47a95fda8a68e6de9f59814d19559244df6c5abd6b6dbb16c7b5588694cc72ae210daa76c0762a5928732dda52e1127002f2e8ad5752f330aee53139b2aeef66300d00d35e0f7c088ecd384a418b4e4e13a4dfea907393f7516fb9dfb02cc74c86cf2ca65081c3da6d50a1d30544f070177619e620d7196e6f9bb5fd56537748864dc48867a72f36c7b6a558233c80a7b35",
+  "imageName": "052a23c8-0f3b-46ca-aa7b-c382be89c9b5/IMG_20230116_212326.jpg",
+  "region": "NORTH-EAST"
+}

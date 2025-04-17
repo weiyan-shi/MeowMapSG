@@ -1,0 +1,14 @@
+{
+  "name": "Garfield",
+  "catId": "6e09ad72-8cb6-4646-a8c6-dc02c04be766",
+  "sex": "Male",
+  "personality": "Arrogant and bossy",
+  "likes": "Taking lift to different levels, strolling around",
+  "dislikes": "Constant petting, butt pats",
+  "other": "Friendly once you\u2019re close with him",
+  "dateCreated": 1674038079361,
+  "dateModified": 1674038079361,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6e09ad72-8cb6-4646-a8c6-dc02c04be766/Garfield_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154507Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=88258cacdeaec8aa033edaf56777f1fd1d24b76223cb7b0761b1c8261a20459820c941293ae1d7e8527edc2a8ef84f772b313cd055cb6e2cc76971f9dcf2e8e67bbb38f7a4642ab4c697061d89ea48e7d14d4fafa6ec5cf70de21c239f8461194abd48630f9dfaa41ad262418e5adf1d62b2ad5ddc8a26263e8b0354f85f7a22bf8194ec7f1ced5edb1a77b66590b3a50f772d7d25475e27661bed3c59533150cb3de0d565902e5c11481021716cba23f725d5da4a3267d6f1abdf3766b7822014e92c2189d2b35eaaff0c3facce66f248e839ca411601ab0182630d9b76d95d3600504d598c54771b70a5b8dee39869028d36ceb84f43b5f22b3f2a6b150b7f",
+  "imageName": "6e09ad72-8cb6-4646-a8c6-dc02c04be766/Garfield_2.jpeg",
+  "region": "NORTH"
+}

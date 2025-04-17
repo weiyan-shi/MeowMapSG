@@ -1,0 +1,14 @@
+{
+  "name": "Shameless",
+  "catId": "f0d54cd1-8a0b-4747-90c0-4558e9df2317",
+  "sex": "Male",
+  "personality": "very shameless",
+  "likes": "sausage and hotdogs",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673933690456,
+  "dateModified": 1673933690456,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f0d54cd1-8a0b-4747-90c0-4558e9df2317/Shameless-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154533Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=815d9d24113dcd4bca1ad74f7a03a8261d5b952bc8033e7a71e8076921abbf0383ed01ce6ed3b43d0dcac2e4f7162c18e0983460075fd0ba1c1c6af5d9823bbadc6626807dc5727bff1d607341a6d033f63631db60d89341a06cb05e83d6ffee24005feb7a6c2ec6723003f2fc78cdf6480433c2a13be8ae812fc2715f90601598e9064b1a27a198f242afc5c39e9cc45c43511f0b052d400c47eedc48dde0fa6b66b9b0069c02f3aa1806263584416327dd23c52c242bc5c047af5e685cc2dd14e3a2e825cf5d14c80b470d0a83cec95b79dfedfae711d259166cc0ffc0af3513856acbb4e4e77e59e7c44d6c18f3ff445e659bd63319a436202096e9c7e237",
+  "imageName": "f0d54cd1-8a0b-4747-90c0-4558e9df2317/Shameless-blur.png",
+  "region": "NORTH"
+}

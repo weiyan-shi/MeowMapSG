@@ -1,0 +1,14 @@
+{
+  "name": "Orangy",
+  "sex": "Unknown",
+  "personality": "Calm and cool deep meow also doesn\u2019t bother about pets or affection can ignore you for the whole day",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1728998627987,
+  "dateModified": 1728998627987,
+  "catId": "63c61a01-084d-4e7c-b5be-72a9ee7b557c",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/63c61a01-084d-4e7c-b5be-72a9ee7b557c/IMG_5643.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131612Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2fbd7fa11f2d51caab2e3ce105f4b52dc759e602bb04fd99852f9689c20fb17b9e9bec66cb532d2f0049ba54b2731f54d06ee687e8f2e6556ea6b8e55d35c0537a694144b4eb791239f3a80beeb41e660454da0a190feff0fe0cf43720a1dab64c21be2ec4893a86cbe0d18db8054b5ac818ad820636d8bcc06a86f1c3d12413c32afe9d093a6c2d6dd564eb04b1458d87afa3bda66127d2dcd22b45fb18cbd48785e9b9ed0d9040f780fe6c1bb238556d2120ba8115be1ce0e4356b4d121626816f6f51cf079b6e9b3284cab9829c3d19c61bd61ea1761e455e3dfe3ebac79007382e30bbf1d33869cb0e3d8f28d4afd6e5f745b0b28b2c102df55948d33967",
+  "imageName": "63c61a01-084d-4e7c-b5be-72a9ee7b557c/IMG_5643.jpeg",
+  "region": "NORTH-EAST"
+}

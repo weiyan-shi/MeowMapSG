@@ -1,0 +1,14 @@
+{
+  "name": "Greedy",
+  "catId": "741a982b-b853-432e-b522-6d76e60b14e9",
+  "sex": "Male",
+  "personality": "Friendly and food-motivated",
+  "likes": "Pats",
+  "dislikes": "Loud noises, unknown people",
+  "other": null,
+  "dateCreated": 1673922310489,
+  "dateModified": 1673922310489,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/741a982b-b853-432e-b522-6d76e60b14e9/Greedy-blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T183532Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=16621f6266b40d8aa07aaed919c431b1de7e62d943995cd06bec89e4aa0d69f71d64118a612b0ec97e2af658c7d569c144586cc3306a703fd8bc4092a67274dc69ffc14fcfaa75382cbb65b1da1eb74953113407760258fd80e459dce2749b10137bd95484404f336b4bcef6783b8570a56ead2a8826818313f33bf7e86b76bb4a67cb2533a9d239556eaa7411f24edacb2348466abb92fa75f5fbae7cecde40c1821e7969ffcb4c0bcdf13f9a8285b3010870ff9f77a76489a8d10e471ad3bb1bf0a545a6ecb2fc7317ddc6e797cd4699b5b0c98020c3c0fd8b2d226708e62fd21df011b63b4954150f91577845037ca079259cca5f5706116794d2bc8ab3c7",
+  "imageName": "741a982b-b853-432e-b522-6d76e60b14e9/Greedy-blurred.png",
+  "region": "NORTH-EAST"
+}

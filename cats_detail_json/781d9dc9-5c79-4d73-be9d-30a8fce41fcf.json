@@ -1,0 +1,14 @@
+{
+  "name": "Cookie",
+  "catId": "781d9dc9-5c79-4d73-be9d-30a8fce41fcf",
+  "sex": "Male",
+  "personality": "Sleepy",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673867832798,
+  "dateModified": 1673867832798,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/781d9dc9-5c79-4d73-be9d-30a8fce41fcf/Cookie.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131258Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4b17b552692c46d28d6e44dbe57c4759abd074cccc7d9afcac271ae7ed4cfc1544603e892506d595f055e79fcba2098b50577c417f103bf57823f10df9c6a56d123a6b92c249049a25f1b5d99e1ca094e05e787be7d15dbb7c3f59898ecbf893b229850b20de36b7df7e49ddf3f4672e54e3fcd5227e38b7920e9a0e3cc11b25aa8bb206b476553347f1d11947647a8775e1ce6bb0eda1233d0a21b379e9ad54037c6ad151188bb04ab9c0d53396f5b76bd6de27a425e0cb9c980cd3c37cde3624ac7967113819ac50e328359ee4a08f70d86cdc16e74ee49562eae755bf4409e5ead822735bca74ccd577fac212b01711631388377a6eb2b3a49f8a68375bf6",
+  "imageName": "781d9dc9-5c79-4d73-be9d-30a8fce41fcf/Cookie.jpeg",
+  "region": "NORTH-EAST"
+}

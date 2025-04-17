@@ -1,0 +1,14 @@
+{
+  "name": "community cat",
+  "sex": "Unknown",
+  "personality": "Super talkative and loves meowing. Arrives in the morning and evening",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1728998144289,
+  "dateModified": 1728998144289,
+  "catId": "0f66bd51-d3fd-43ad-84b4-8736aa6dcee6",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0f66bd51-d3fd-43ad-84b4-8736aa6dcee6/913e43f3-6367-424d-9c27-646297c1c68b.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T183548Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=726c49e93a1f6fb2c91bc5513af9ee34e0045c2846623d707336837d365dff3ef567b45481ec09be4da38231ab75ab8ef48d6e12b331ebe19b53edd8e3300c4594853ec549430b89cb8b392e9fd31c03c35d3d55a5c47d103409790eaed84e4b0860cfa41a569c9aef9653f3377de5f9aefa9b2bdef5ce36906cc3cb641f87e13487766876609e33503867d078a7186263665f9e0bbff1638013f2160f6aaf3ec67acf197586a96226d9d4c8aa55b0ac6f24e026730b844866df0d98ed6f5e3be86ae9f04c807d87d4a9e071ea76e4d4f597738b8e622bbbb36b88422e55600880d84af48039011a783d94e4cf8869523f3b4c121ee549c03721ed0be514879d",
+  "imageName": "0f66bd51-d3fd-43ad-84b4-8736aa6dcee6/913e43f3-6367-424d-9c27-646297c1c68b.jpeg",
+  "region": "NORTH-EAST"
+}

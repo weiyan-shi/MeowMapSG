@@ -1,0 +1,14 @@
+{
+  "name": "Stormy",
+  "sex": "Unknown",
+  "personality": "Very affectionate, playful & hungry, likes to lie down & ask for pets",
+  "likes": "Pets, eating & light (playful) biting. Also likes playing w/ teasers",
+  "dislikes": null,
+  "other": "Fat",
+  "dateCreated": 1690173788904,
+  "dateModified": 1690173788904,
+  "catId": "e5407789-4372-44ef-8441-7d1924f52026",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e5407789-4372-44ef-8441-7d1924f52026/IMG_3467.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154544Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=61c8b473df57f6b730ea41848312ebfa9753ce56884bcf28c2c618a8e6b5ab7188caa2c5766d94a636f626d7adabab24dacf9e1d881739aecd089dd7716a738d47b4ad7c96c9f7c577dfd1ee5e2a48f7f7cc4f54ab8e762612f6805844679922773dbe80f25875a12a72c89f9b54756d63f369aa4eeb7d161f871b6f1e4f7029f91d2d308b5e1ecbed7575d82c6718eefd75f82139af7869dad958f37f4b0f488090cc10ca4793a82d0cce318481cac9c0d75c1a12efe2cbbe86d99fbc3173717fd7ed46976c4f8c5b0cb67480ff4749758414dbaa91d0d31f4412cf18f58c8745e868cf65642e94da9dc0b9b5da9b2de5d52873185522dbd0738f2dc0fe7d44",
+  "imageName": "e5407789-4372-44ef-8441-7d1924f52026/IMG_3467.jpeg",
+  "region": "CENTRAL"
+}

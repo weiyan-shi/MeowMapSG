@@ -1,0 +1,14 @@
+{
+  "name": "Truffle",
+  "catId": "dad522ea-b2da-4707-9113-fe4029b68eb4",
+  "sex": "Female",
+  "personality": "Friendly",
+  "likes": null,
+  "dislikes": null,
+  "other": "Blind in one eye",
+  "dateCreated": 1673957431826,
+  "dateModified": 1673957431826,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/dad522ea-b2da-4707-9113-fe4029b68eb4/59AD0845-C176-4F1A-A912-708979F43870.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131437Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=00d6a1f8f4c12771ef60084243c528d6e79f22049b6b4ddf6722199f2556a24c146a767b1d34eb0c224faa5ea24ece244a44c902c3917ee67caf0b1dd88143ee86832f080abe4586a4d7847638fecf8a7c5c5af3df992f42841d3d9d821e720b31cede08ff27dab83de97057d93f5148dae378a6be34d9a388d5642b5094851c5d22a678d03c7b8a0cfe2a00a0523d7dbe7aa3d93fc01963c7f2196bbcea4ac57586695b9a9ae0969f5d881be916a59c3233916b44c5950d88e45a058b8e167798279aef46fb8740468afe65fd4d964753410e1237f929dea1eab091644d6917961444121fb8057a489bcf5afae2a9017b2a5af144e8e75fdf1882ca7a7274ac",
+  "imageName": "dad522ea-b2da-4707-9113-fe4029b68eb4/59AD0845-C176-4F1A-A912-708979F43870.jpeg",
+  "region": "NORTH"
+}

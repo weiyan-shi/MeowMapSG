@@ -1,0 +1,14 @@
+{
+  "name": "Vitamin C",
+  "catId": "babe180a-fd27-42e9-b86f-64aab24ec2f3",
+  "sex": "Male",
+  "personality": "Will start scratching when it receives too much pats",
+  "likes": null,
+  "dislikes": null,
+  "other": "Front left and back right paws are white socks. Rest are orange",
+  "dateCreated": 1673925862026,
+  "dateModified": 1673925862026,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/babe180a-fd27-42e9-b86f-64aab24ec2f3/VitaminC-new.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T061138Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=82237fc759f0854162c586d98b8d4d2230b93a98286f49012499575b327cd680554d82547741bfcf2d3aaeb6ee6e64fe6289a44bdc8f51e30dd3c4f725b00db26b27d4ca06b15dcd4854b29c632bdf836e5a10b8b42e42ef1ff17bda0c61aecd7fea37a5b5ff5049b05118e34acb5441a9b20e56f7dc549ebdd2eb73a926079e0297bf72536890cebccc383315470fe295d789be6285477791644aed4f47e14d24fd2b71666038acad14604d039b3ed2432df98349aae7855c44812e4af21235d8b205c4570930237cc233aed933a10d4a0836715cd68e18baf470c0946c8c4653db896654576e90379716cd3134b0bddddc2ffc74ac5bd65724f35dd1ee044f",
+  "imageName": "babe180a-fd27-42e9-b86f-64aab24ec2f3/VitaminC-new.jpeg",
+  "region": "NORTH-EAST"
+}

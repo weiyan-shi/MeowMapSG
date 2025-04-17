@@ -1,0 +1,14 @@
+{
+  "name": "Joey / Fat Cat",
+  "catId": "1803a766-c0b1-4a50-afe7-53c63d329fdf",
+  "sex": "Female",
+  "personality": "Indifferent",
+  "likes": "Sitting in a box, even when better options are made available.",
+  "dislikes": "Moving around",
+  "other": "Sleeps a lot, in a variety of goofy poses. Despite her chonky size, she can run really fast!",
+  "dateCreated": 1673885695508,
+  "dateModified": 1673885695508,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/1803a766-c0b1-4a50-afe7-53c63d329fdf/fc_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130847Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3d140e150e24c5fec939880ee4dce1da8326fc03a15a93352bca97a55bd8216525eec6b457b32771ea029a3817ade119eb685f2f481523f746e1974cc672a5a07807342ed2dfa8a62217709cae2b9194e69bc2b715638f2d665565664aa60a50ff01ebc4362bb80290f8f379a4a1b3235d653c6ae1eb4c039788bb497ed5c222c9b9ad503ac273e6cadedd7251065e1087f55c51174e0e23d841a24c68f491ebe28680abf2cd280392475d3b60368a2facbaa4b413d7aeddbd946879677460b3a580257358c0f652a185af7651bd1ae553fe2c715937e5946d37e67c5ecfdf740244745b57e80fabc41aa41027989bc3abf842f7286fe4bf50a1f76924032f58",
+  "imageName": "1803a766-c0b1-4a50-afe7-53c63d329fdf/fc_noexif.jpg",
+  "region": "EAST"
+}

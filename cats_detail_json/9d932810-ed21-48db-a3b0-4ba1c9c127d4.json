@@ -1,0 +1,14 @@
+{
+  "name": "Emi/Xiao Hui",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1705733855323,
+  "dateModified": 1705733855323,
+  "catId": "9d932810-ed21-48db-a3b0-4ba1c9c127d4",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9d932810-ed21-48db-a3b0-4ba1c9c127d4/emi_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131556Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7d5297227e445343de40016da7662ee94dfb135e33f4774dc3fb90909c355ef27f6a7fa15fc57705da87ec49b20f02ecbae97a5725fb11d76f3e4f97325c84d6afddcea465dc79e6998000baadcde2cce5819b873eb059d49304c1a909eef899faf250d0be7d4463af48b7cdf5912ca3bf464488fa1ae77fd2c2a2ce9b4c774598d0dde0cfdb37913b151d0a678e40cc6b4540127b2d17cd945e8ffc041ca69ef2c176187534f5022c919347f5c7c929b5e1afa9861e83c3c9ecf94cc49d26548b712d9a7e24da4b303e5a083ef5a489d42b66c0c9196cfd02fdad5551986a1bc59fa6ad717ac245369965d8d443cbd70cd2547b06fddefcfa091b68e748b3bc",
+  "imageName": "9d932810-ed21-48db-a3b0-4ba1c9c127d4/emi_noexif.jpg",
+  "region": "CENTRAL"
+}

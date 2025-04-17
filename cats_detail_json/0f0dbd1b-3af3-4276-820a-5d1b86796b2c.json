@@ -1,0 +1,14 @@
+{
+  "name": "Scaredy",
+  "catId": "0f0dbd1b-3af3-4276-820a-5d1b86796b2c",
+  "sex": "Female",
+  "personality": "Curious but fearful",
+  "likes": "Chilling at void deck",
+  "dislikes": "Human touch",
+  "other": null,
+  "dateCreated": 1673882122433,
+  "dateModified": 1673882122433,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0f0dbd1b-3af3-4276-820a-5d1b86796b2c/Scaredy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130948Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3c6e683ddaca9eaced8f63c0e71098bde3d70d61f10b954d071354196eb0910dfd64ba8c1fc8d8a0234042000b368e666e1ff98cbe8fc8b600db31ac9b2e423e2ab5f8ad94fe4347d336831e0842386ad0d67182db970fd3608614f03493974fba288f84adb3b996dc8016054d56fff0b672dab0b41f5ab8cae64026b341bdfe2134465e374d533eaf391e24a5b5be69e58a8e0750a7b5c7d4386462d1c7e071e1a8c8368dcfc54ed99946e40e79d351524c2aa1e479ebf9ba9609bef06a1fa39d3e8d534493511a0908dea22f206faa39fe03437700b3154379c656e514f2f52f7ba27b50b2f3d5605ea54f3b25097be5b7507df9f3c9cf76497981781cd402",
+  "imageName": "0f0dbd1b-3af3-4276-820a-5d1b86796b2c/Scaredy.jpeg",
+  "region": "EAST"
+}

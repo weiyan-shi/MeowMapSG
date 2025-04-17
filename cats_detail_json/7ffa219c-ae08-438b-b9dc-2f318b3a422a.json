@@ -1,0 +1,14 @@
+{
+  "name": "Elizabeth",
+  "catId": "7ffa219c-ae08-438b-b9dc-2f318b3a422a",
+  "sex": "Unknown",
+  "personality": "Likes meowing back at humans who meows at it back",
+  "likes": "The occasional pets, going under cars",
+  "dislikes": null,
+  "other": "Constantly invade other cat territory, trying it\u2019s best to make friends with Camilla with no avail",
+  "dateCreated": 1673955794984,
+  "dateModified": 1673955794984,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7ffa219c-ae08-438b-b9dc-2f318b3a422a/Elizabeth.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131436Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=76578e65432a0d28f42fa5dd35090f2b441d713c6bbccced8a8b5e0a9de8feb9eb58e2d3182270674101de7a209693408ad1606024be28965c0aadd7f4dbf8a61a68b4293b79ab716c8afb7f220da3a9db8c250802e0bd9c63ad85ddc9bf86f2aa3fcf1ba382e4edb4251ae9bff8e6e2f7668cc198f286daefbd198cb825db38ac1198f5b9b69e114140fde8e9d50860f13abbe4aa3c1d687248b411fa4cf032aa48f5d4c0023f93e47b969e5deb0dc198c01d606b01af97044aa9cf955f30922f0180b4a12871473392554c7e44539cd4c6e45ea1c4013d9fc1cc18ed9f4eb8b5fbb80970f14879f16b3b99030e31b63b96caef85d2df142604a9299c555a64",
+  "imageName": "7ffa219c-ae08-438b-b9dc-2f318b3a422a/Elizabeth.jpeg",
+  "region": "WEST"
+}

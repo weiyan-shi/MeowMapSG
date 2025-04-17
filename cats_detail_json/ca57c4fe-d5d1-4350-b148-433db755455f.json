@@ -1,0 +1,14 @@
+{
+  "name": "Mina",
+  "catId": "ca57c4fe-d5d1-4350-b148-433db755455f",
+  "sex": "Female",
+  "personality": "Feisty, no-nonsense cat, no pats unless you have an attractive offer (i.e. yummy food)",
+  "likes": "Cat treats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673916944600,
+  "dateModified": 1673916944600,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ca57c4fe-d5d1-4350-b148-433db755455f/IMG_20230117_085220_680~2.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T152100Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=229dd78519c6b7deecbf8f41f4002cfbf8656c8a6947f3015f06bc6df6804977a742eff991346168cbb1018ae0c075cb437771694d645fdc65fda7db6df905019614b163b9c1f01c417faff4c8f76ab273365a051255b95d6ec34a9ccccb127bc5d4001514307060ac1768e2ad36fc6267061b222cba8b15f5c22443f22a04fe8d800e9cac704db4551a694995724d149642436efcf34479280331566a51c1da14bab7acd72806e9741e9e98e4243d2175783b8d3f848e10aaee592a4cebb143633e85fe5abe93024217fcd966a472cc82a632f08aca092bfdb627b32d3251f3732e478a819001b0e352c27780df4e07eec6a845d00852f0260a0ebd8eee1013",
+  "imageName": "ca57c4fe-d5d1-4350-b148-433db755455f/IMG_20230117_085220_680~2.jpg",
+  "region": "NORTH"
+}

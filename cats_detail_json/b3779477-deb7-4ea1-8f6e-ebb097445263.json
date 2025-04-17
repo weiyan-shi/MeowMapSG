@@ -1,0 +1,14 @@
+{
+  "name": "sister",
+  "sex": "Female",
+  "personality": "very enduring. doesn\u2019t mind being carried and held. scared of other cats but not of humans.",
+  "likes": "food and sleeping.",
+  "dislikes": null,
+  "other": "fat and lazy.",
+  "dateCreated": 1712090127386,
+  "dateModified": 1712090127386,
+  "catId": "b3779477-deb7-4ea1-8f6e-ebb097445263",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b3779477-deb7-4ea1-8f6e-ebb097445263/sister_noexif_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130826Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=50fae3b6f863c5053cfdf43377377ea27d69c31529bcf9a1e327121c3b359a85012d3566c44a71f6d7273bda6e9490137b9b9418d8b79434c32cc7df3815ca4bd17db011c80b220961653fbae60e00496d7948b8aba45ef9f8a6d988d94c2ddf1bbdfeb7a7b28c9081f41cfd61d7d8fe19f06f3199d292e3187b1d7593822f01a5fffcc3b21b42729c8b5804777c480beeb8b5d4e45d7b27b14cb6178ca3ebe44fdea795ceff363d00221d2bf66ffb7c7380261d42a5b1d005781854a4ac2f09d38c29eb47e707bddc5aeb4d679d21fa35984ad01ac333e76def8596dc824ed5572997b8817333eb2ae5799c2290e82ec4deade75c13adf11df9c98baa2fff88",
+  "imageName": "b3779477-deb7-4ea1-8f6e-ebb097445263/sister_noexif_cropped.jpeg",
+  "region": "EAST"
+}

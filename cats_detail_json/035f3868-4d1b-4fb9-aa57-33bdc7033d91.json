@@ -1,0 +1,14 @@
+{
+  "name": "Plum",
+  "catId": "035f3868-4d1b-4fb9-aa57-33bdc7033d91",
+  "sex": "Female",
+  "personality": "sweet and lovely",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673057787209,
+  "dateModified": 1673057787209,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/035f3868-4d1b-4fb9-aa57-33bdc7033d91/859D458E-C799-442F-A5B4-728CF1AA3F20.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131249Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=70861db974e306769a3b8ba7b77a48313ca405b055a51ea2e5674a266176c410f8aa8a1e59b9aa6d0f209a01b3542c4752eea2c22329828941c63c478cbfd151a6fec85375a3c20f7cca272767f724425d426a11ed570f5989977dcbb68bdde17a5f464da6e7d607031b9bf1ab7bf3edb5f2991dac7f93f992ba2f3e5e7f5106c0039ddba2eaf60caa1ca67b0f07254348f1655cff5736a66ad3e02954b195cb228583ae6b4c76d222c80395b89712a828080a4daa51698a3edceff4089144131430dc1fdd5676ed317c8bc2978fd2bcef18a87ce5783f5626958dbd435bb80776dfdfc59087545f2fbeaaf7a07f22fa753b5679603a8f962130431182be15f6",
+  "imageName": "035f3868-4d1b-4fb9-aa57-33bdc7033d91/859D458E-C799-442F-A5B4-728CF1AA3F20.jpeg",
+  "region": "WEST"
+}

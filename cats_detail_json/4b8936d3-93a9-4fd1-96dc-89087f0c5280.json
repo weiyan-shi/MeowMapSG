@@ -1,0 +1,14 @@
+{
+  "name": "Xiao hei",
+  "catId": "4b8936d3-93a9-4fd1-96dc-89087f0c5280",
+  "sex": "Female",
+  "personality": "Grumpy cat that likes to rub on your leg",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673954553259,
+  "dateModified": 1673954553259,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4b8936d3-93a9-4fd1-96dc-89087f0c5280/xiao_hei_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131435Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=42fe41200f3b8b2d897420b7d14a1af94f55c7850c6971cc6d7fb8a875e545f64b5533738de0898877b43acebc8ad450f09f7ab37fa08aa71c63c8b409aa2641942e78350b64b64b927821c8b0d6a44e8ffc25609e1c00b43796322ba85df96b4401be1dd84657f8414193a2a4aa7a67705b8df40d302abc12e999db3957cc9381355c1e785502b3eeececc7325379b459fe400c5cf7d4e9afdf8eb3c8d43d4ddac276ac1e2fc45af25872283e01b48f5e2b96331b865204e6e37fafa35357b642908e3ccbf50f5702ca038f6b4e10e53e46fd1844357b6bf784ef58ae0abcb98cc3e563ada7388a350711008019682931f273a9d67db4860f04e98e64d94f44",
+  "imageName": "4b8936d3-93a9-4fd1-96dc-89087f0c5280/xiao_hei_noexif.jpg",
+  "region": "CENTRAL"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "labu",
+  "catId": "453a872d-53f9-4e20-8b1e-3df7129c7cad",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673956074072,
+  "dateModified": 1673956074072,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/453a872d-53f9-4e20-8b1e-3df7129c7cad/Labu_crop.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130818Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8321a7ff59bc8fcea59d21dcbfc1759c6c53582cdfbaa3cc98b221d843ffca83ea68e37cc28dd07d983c7b67ac616d209a79e5da73e7250c59aee2fba1757090be45c33afb9968f8bb5c374579cf9d3283719008569765a96cc1bc5c8b7089a00a309ee75e76000427cb7b09f723d87ed5b4a59751f347d2dbfe1e8be872a2724192272d7257b680f96303f3d72c2ae904b26c03a1debff0ad9e67eaaca0960735cedb4528ce34341edff582cf1ca03dbabd8dfb398e51fe02a529b79f7343a2dea7afa463dcc9413293ead606b32823337ff0f2440670ced995d2d337aff9e20b4e42857e4b90408db4c82d5ee04dc6dbcfa3f65f68ef9dc0cec54eb7e891cd",
+  "imageName": "453a872d-53f9-4e20-8b1e-3df7129c7cad/Labu_crop.jpeg",
+  "region": "EAST"
+}

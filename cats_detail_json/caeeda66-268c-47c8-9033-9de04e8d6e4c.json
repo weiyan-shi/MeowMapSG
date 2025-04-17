@@ -1,0 +1,14 @@
+{
+  "name": "Caramel",
+  "sex": "Female",
+  "personality": "Scared and skittish",
+  "likes": null,
+  "dislikes": null,
+  "other": "She has kittens",
+  "dateCreated": 1718806207810,
+  "dateModified": 1718806207810,
+  "catId": "caeeda66-268c-47c8-9033-9de04e8d6e4c",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/caeeda66-268c-47c8-9033-9de04e8d6e4c/caramel_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131605Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3066b33fcd48ecb7f55f5945ad36322e47d68c97281f8bb92cc3ecf9c8d76cd413471a62e838c1250a1f7beb4943ac836b7c81b89340c6fdeac89ba079fe1dc832a3adc8150f1fa60e2819c138eb1651b20e974a9be2aaf8e35f8f71d515b8bdf571c0aa6461539c3c1fa7e580283a8d644c35fa3971a2e306657ce6475d7c6faa9c7f02e8ad5775d24f1c7f03091b147bb4bfdf593458a8982362f5289c330624bb7dee067ecf82f471392d615de5324e6ba5138d0f92c026c1a982d21716869d9a5d399ef16d8a688c51378a1c89fd1c5b5c8d3e49176d1e2a24e32ad757039067edd963ff383ee083d92fee3716e95ad0765a154ae01a6423862a0d9084cf",
+  "imageName": "caeeda66-268c-47c8-9033-9de04e8d6e4c/caramel_cropped.jpeg",
+  "region": "WEST"
+}

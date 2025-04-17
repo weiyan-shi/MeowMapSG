@@ -1,0 +1,14 @@
+{
+  "name": "Olling",
+  "sex": "Female",
+  "personality": "Friendly, quiet, does not meow a lot, only meow when she wants you to feed her more",
+  "likes": "Likes to rub against your legs to show her affection to you",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1734568494002,
+  "dateModified": 1734568494002,
+  "catId": "b3f1adf8-ab39-425b-af17-82b0cb0b0f55",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b3f1adf8-ab39-425b-af17-82b0cb0b0f55/Olling_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T011521Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2f01d98bb221c818026fe8ae95c735b0f79be3006babdb501e7afe60096cccc11b9a2a37719801644853a41c863e6d8fae77f88cbb0e4602d8e64ed739632cbe160ba4b88b15cf9e3c58079a4a84aff5de02d6f88f27930158391fa356c7c6323b6880042a8d102bcfac304fbe82c6f8fd192c40ef690f5c5438ff766b3896d0bf89be2888114e11a09b7b50077f6c3c7c00b7cd24dcff93306173cbad462beb2d7e4b4e67e495db399f8bfa2f7fd248da4d0d5d4c003780517607c0fdbc816e0cd58b633093c7819fdcb182d12aa56b0770843c4d49cc9aed212a0f1dcfa59caf58ee599a2c83affe560e279df882640c783900f68fba78c75ce96bdb400ec8",
+  "imageName": "b3f1adf8-ab39-425b-af17-82b0cb0b0f55/Olling_cropped.jpeg",
+  "region": "NORTH"
+}

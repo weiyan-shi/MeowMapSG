@@ -1,0 +1,14 @@
+{
+  "name": "Mummy cat",
+  "sex": "Female",
+  "personality": "Very very manjah, will meow at you as you walk by",
+  "likes": "Head rubs and butt pats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1740012930408,
+  "dateModified": 1740012930408,
+  "catId": "26c6b782-2237-4b72-8ca9-a7408c899e74",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/26c6b782-2237-4b72-8ca9-a7408c899e74/IMG_0944.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131620Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4b461dad9f9f7238a63c2965aea23d126e3bd72bb5e60b7e0a74ecf7e3ec93048c6b052c40ea7d6bb7d7e3a18a9971ce84ebd7cd2ab28d8b7deaf87ee4110fa77faad3d413cdc2032dfb97d8c520297465033a88d35867ec3a7e7dc5273188d28a29e2596c9f34529386b5de71e6348d0e4ffb0e8beef98ad0c040c3a14c3e3b7bbdfbbd7d1632d70e16de56c569ba2b080037656e084c84eb087e5b2d1f2ee8608cd30211576a0a817bd2e9dc25dd17904fb8587dc624e0fae4d7c9aafb79ab3b31346c07aaaa70b11ebbb8a4dc1dc4d6083700538ef409fd00ba09a376ddddd7f556995f3c9fcb8ea00fa020bd24f9cc104f840d9509cfde2673c6d5078c9d",
+  "imageName": "26c6b782-2237-4b72-8ca9-a7408c899e74/IMG_0944.jpeg",
+  "region": "WEST"
+}

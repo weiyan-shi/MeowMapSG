@@ -1,0 +1,14 @@
+{
+  "name": "Ngoo",
+  "catId": "e743fc4a-46bc-46dd-beda-b6db93cbaa3b",
+  "sex": "Male",
+  "personality": "Like to seduce passengers to get some food",
+  "likes": "Catfood",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673947114465,
+  "dateModified": 1673947114465,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e743fc4a-46bc-46dd-beda-b6db93cbaa3b/Ngoo_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131415Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0bf53401a7b3288bf01f2439adf7fb73b6f14dd50ab0e76ab0f2f1f81be382aea61cd993769bb6894bf52e979576feae00a819ce0a0b3fd672fd43b34da9210cf2f3ece41baa8afec04bfc45687e19257f99f0b6343ccc136ca6ddf632378974b579d55375624b20947482d6fbd05a2b12c0676fab7b962a5c17d0532e0a5ed40a4af1a0aad1dfa2f11f85e6e376503637c343fe9a007cc0e3f2a49f39f64bf6630acb492f64ffd8ea1dba2d408a55ebd41fadb37040efda809a128b32db879b76f404d7f8d331b901adb45971cde1f05c82638b0a8e9483627c5c35b17cde096192f8e88b05b10c2981b4d477bfc82fe405f495ecee6070da2276d275d1e2e0",
+  "imageName": "e743fc4a-46bc-46dd-beda-b6db93cbaa3b/Ngoo_blur.png",
+  "region": "NORTH"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Pluto",
+  "catId": "60ee8d75-57e7-47e8-a81a-76e55cf0b40b",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673882482129,
+  "dateModified": 1673882482129,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/60ee8d75-57e7-47e8-a81a-76e55cf0b40b/Pluto.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131331Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1954deb03df89770a89b22bdcabfbe14d5f23218d1faeb736c4879d4f54d8e36f58f64a8b0e5e6a6f344f788662287a3d62056e1ce0fded40192d59e195f396ee1a833429a85e0f42816ed217dd024f9f7141067c00bb90fcb1a94de5d750931718e0f1d849695e02d225bb1e94ba84db0f6453122a7244bb2305421d754a603031019e774d303c5348f507336b7903987707a34e66f25b33c58ee151c53dd0a29dd7dc0bafc6d39cc9d70c9258c5e28694d02455738ff6a80fe62f64aff8eea40432a0bb3966df5c4e3045d19f6d466aa753056d1710f9eff5f37c22bed7faede262307f40c7648a506a4c6ce75a7aa082b3e34afe359433b665b07568b934e",
+  "imageName": "60ee8d75-57e7-47e8-a81a-76e55cf0b40b/Pluto.jpeg",
+  "region": "WEST"
+}

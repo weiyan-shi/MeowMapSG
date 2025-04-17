@@ -1,0 +1,14 @@
+{
+  "name": "Loud Cat",
+  "catId": "993ee773-fc42-404d-a73d-f709fa7ac534",
+  "sex": "Unknown",
+  "personality": "Very adorable and clingy cat, will meow at you for petting and greeting you.",
+  "likes": "Meowing very loudly so often. Following you into lift.",
+  "dislikes": null,
+  "other": "Not sure if actually owned by someone.",
+  "dateCreated": 1673999003840,
+  "dateModified": 1673999003840,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/993ee773-fc42-404d-a73d-f709fa7ac534/20230118_074015.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131453Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4e0f4f2adfbafb1af4b892cbc5320dda82c138c70104e7f499c2a053414d93ca0a149d381210d7326fbe991cd0f5dcf6f362bd81b0ffc6277a94231c00331d6d076984f8fad77dc6f6ee1f91cbb4adabb9212204b9346173236b9bb29243f42cb85facd29d3d5d151f482cc238f0bdc4c57ed8fed1de749f3349b0a8de6d0f25cfba1f41822348fe3a1972cdd22c5096e84b636f2f8b57636a7c8b36512db6a8e64e5a684567197e750fbb48c457b92e2cf9227e73e93314048dfd9b73e2efbd2bb3c3f21bfd97791f4dfbd4f2e0bef77f341804b841186a21520c51f5137bd053a00eb4c618415258d24e228a2c2dc123fd07b147c5120e8e6e1651198c0384",
+  "imageName": "993ee773-fc42-404d-a73d-f709fa7ac534/20230118_074015.jpg",
+  "region": "NORTH"
+}

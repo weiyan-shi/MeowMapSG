@@ -1,0 +1,14 @@
+{
+  "name": "Barber(bubble)",
+  "sex": "Female",
+  "personality": "Damn close to ppl",
+  "likes": "Food&pats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1714651767758,
+  "dateModified": 1714651767758,
+  "catId": "9e213dab-ca34-4712-86a8-d2335ca89033",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9e213dab-ca34-4712-86a8-d2335ca89033/barber_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131601Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8ced9645cb57917a0c0d054b6e2877c4bc9a40453e9b030fe3a274848d69f40dbb5e00c82667b5decee6b00b4aba5fb2dfd6f13d5d40ba67faa0d08d1f0c3c4e5bd90f04c550f3e189ca9a501eea2bc0d1bce0e2412424ab450bff8b159517f8d39fb343be431b5f7ba01e4b78bbd8d5c8d6f6a7a347b56c877fa28d7947664fe7b8214b4fd4522fe720dd80695aa80cac1169024485c0d4c724438d05c325b9931737e362fc0328f78bfb0caca4fb81214ab21ac04e748b50703bd681d18626c0e9f67012e0dc1bb9e48141ffbd625eec290270d72e0ce9f899cce6e99bae8a78d8e4c3b3caef9f3e67c48716908407158791a26300e7e5e2f75695b1b8a2e4",
+  "imageName": "9e213dab-ca34-4712-86a8-d2335ca89033/barber_noexif.jpeg",
+  "region": "WEST"
+}

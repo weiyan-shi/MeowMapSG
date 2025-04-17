@@ -1,0 +1,14 @@
+{
+  "name": "Kitty",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1676946624824,
+  "dateModified": 1676946624824,
+  "catId": "cb1c4216-efcf-4f0b-94dd-e9ede11be138",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cb1c4216-efcf-4f0b-94dd-e9ede11be138/Kitty_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130730Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6b16f941618175d3e3b8b149f2319a2a22a3c8aa2a78656ea4f306494456dae6c7d95c17a1eb702312779021e84ca08abecb7b822678183487ca666dd580caed3bd50eab47cddf4d544c49708c546506c97128b626d21a48f37720079b61510fc8352d3baa5ef3061b5a1d2ff71f46f6f3ea74754ff468b545d9066095f1370e1f85505bec6b1d38431368829e02078ff473200a9e11c5ee124275edc51604f57981eb4b405692fab2ebe8fb96c162b476bb72f84dcda457e8533665b13be2f796b4359378d86b63dc49dd83b48844af8ce2577cebc3274fc0c47add827b4f1d2c6162379bb83e5255267bee6ec5997bc28f4690aefee4b83bb3a5f9bc5bdc91",
+  "imageName": "cb1c4216-efcf-4f0b-94dd-e9ede11be138/Kitty_blurred.png",
+  "region": "EAST"
+}

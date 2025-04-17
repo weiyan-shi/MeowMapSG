@@ -1,0 +1,14 @@
+{
+  "name": "Greg",
+  "catId": "03f9b503-e0f1-4e8f-a924-191da5c0223b",
+  "sex": "Male",
+  "personality": "Very affectionate with a mournful meow",
+  "likes": "Big pats on his butt and loads of food",
+  "dislikes": "Being rubbed near his neck",
+  "other": "Rather large in size, has a weathered bear-ish face, and limps",
+  "dateCreated": 1674051312214,
+  "dateModified": 1674051312214,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/03f9b503-e0f1-4e8f-a924-191da5c0223b/Greg.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130800Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1f1c1db78104a99c84bb3289ba5bdfd80b970f3918eb8d17d12319dc76613957f747b3afe2ffc3485433fbcbaa76d1b649feed2ee0f1fec8b15231dfc2fff7ac022badf37037695b8335a9ebd3ba6bd50b062875f69fc5ef26aa26f5ca51c67f219be7eb305872e6a932bd8c4320551c0e547cb70ea67c3183b2516881745168547fff1a34d49be2c921e60eefedf3b8bf8e1044ee48283f01c54928ce6e94cf45b8a8e5f8f883bf009c740b5c87eb623ad9153788a19c3d4374831fb8509689364b32df50f0d8fafbe1ee5c3a0018635ac150e000004edb924d5730f73c0d11237e9c8f4c91d5c762b7290639e78e7180c5ff0f71bf92f7759aa4c4d98652f2",
+  "imageName": "03f9b503-e0f1-4e8f-a924-191da5c0223b/Greg.png",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Marbles",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Marbles is a placeholder name. If you know the cat's actual name, please contact us!",
+  "dateCreated": 1674617616517,
+  "dateModified": 1674617616517,
+  "catId": "795c6b05-339b-4ea0-9c49-1ce6150f2c7b",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/795c6b05-339b-4ea0-9c49-1ce6150f2c7b/cat1.JPG?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131516Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=500870b979c1e89b998510b42a20b13087a6d117f78db148ef76d947292f445cf7b9b878b9b8522d0660fc68bab4b72914b5160b391b58c2a65d0c9af9e157ac2ae3e443b9cb568c6cb8431488e524138ca632881cfbe3f0dc6252cd20a361b985595a6d66ff352d4d520774b94df9c061f16ffde9264e00d0f4fe92722fc12f411ce7a962ca2def415a1de04982554d4705ffdbaada8c8677b91af2285e468843def2fa36887004814c49954add33fe657a67ceeeb09e9aab108b5c5057939d938c7683f1c8f35d981377ab50f9177a2457b151401b350bf04b8c9e0bfe9b22c5b49a69100bb95e20974e9bfbe28eb940e7641cf2956b86559e7cd177b87ece",
+  "imageName": "795c6b05-339b-4ea0-9c49-1ce6150f2c7b/cat1.JPG",
+  "region": "WEST"
+}

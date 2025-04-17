@@ -1,0 +1,14 @@
+{
+  "name": "Tortie",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1676049612635,
+  "dateModified": 1676049612635,
+  "catId": "fcf44297-a686-4cf5-9a73-3af665829d90",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fcf44297-a686-4cf5-9a73-3af665829d90/20230211_011555.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131531Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4a1ed14c0b7266f090713d17a0bbec6d49f662e348f1fc6884e3a6a8f95807556a70f429a74115a3291b639b3b639b079f3fd60e324911348ffeaabd7030afdf5dcbad43bf60a77817c5d0fedb5b78cc23fb2c9ce40feae2583a5be0ad5a44f2c130849e1c661180f8bcb93f42b30f869377d1abcfa84e83a49b7e0c2e2a60dc9c460c99db23d4d46cbb65c3db41554967ef807cdf897e786f1004e2ab2ac10f19ca5adc593a3b1b4be1a9189c5ce037d3d5427b86b631786413727a69772456a2cd7c9a66f8d6b1175722b328241a056df344f082e045710588bfcec8152cdc8da6e397db532b39354ef960cee9124b0e16b556008e395836c0055e3d51dd4c",
+  "imageName": "fcf44297-a686-4cf5-9a73-3af665829d90/20230211_011555.jpg",
+  "region": "NORTH"
+}

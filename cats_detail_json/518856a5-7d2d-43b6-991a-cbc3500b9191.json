@@ -1,0 +1,14 @@
+{
+  "name": "Toto",
+  "sex": "Female",
+  "personality": "Very friendly cat :)",
+  "likes": "likes petting",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1717331994294,
+  "dateModified": 1717331994294,
+  "catId": "518856a5-7d2d-43b6-991a-cbc3500b9191",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/518856a5-7d2d-43b6-991a-cbc3500b9191/panther_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131603Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=019ed2b59dac191346edc9e77aa008a7c72fc24ef16d1f1dfb38c5f133dd540ac7cf24fa2c8dc31dab499e7af5ccfbe3ee91ea366bfd64afb000f4fb7ab59ded6a216f55bfffbd4c29c12ade53a456a69b8349c786a6c748eef0e8625d8efe6eb2ff39eb97d05e383324ca6403c1eeee7c5fc7967b6c9cd1987801d22423c753164a34096f97133a1a5bd267d1aef9cf897a43560e8c71310c26d7df344e9b0c4d603231e92a28abb1fc962e37e26199cc76ca2f182165d085f44021800816b05f1ebce69acb59767ea4b7dbd5deb81b57e6b6617f7466370cfbc1bf1dd5952b7a5564a82ac90499e8db2bf7e6af1f6b1f9c5a6ef0f2a265d45b08b58128979c",
+  "imageName": "518856a5-7d2d-43b6-991a-cbc3500b9191/panther_cropped.jpeg",
+  "region": "EAST"
+}

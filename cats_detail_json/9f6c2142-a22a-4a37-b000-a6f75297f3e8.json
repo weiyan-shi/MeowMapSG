@@ -1,0 +1,14 @@
+{
+  "name": "BOSS XU",
+  "sex": "Female",
+  "personality": "Cold on the outside, hot on the inside",
+  "likes": "Human, chairs, tickling",
+  "dislikes": "People touch her feet",
+  "other": null,
+  "dateCreated": 1742279078602,
+  "dateModified": 1742279078602,
+  "catId": "9f6c2142-a22a-4a37-b000-a6f75297f3e8",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9f6c2142-a22a-4a37-b000-a6f75297f3e8/boss_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131621Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=512fbfdf202cfaa12b323a7d531cce789294acfbd108706089e417ca41221288d146356ac5e28a27e1c3e919fee1656843273e44724299460c947fea51e4c0322c30db35c1be4d3dbf765f7a2fbca79c6d25c16344e77e2032e525cfdc94506c1dd5fbc055c72a463a838d6e4725e45b8cb8d0044dda99e1e2d7f003b1a559f49d0dcb632e929db7ad18177ec340f2d9918e214ca4becc5f79d1ceccb94e7ad7e3c6cf13aa104f208caf3123e84345007c65dadf80463bdcc98ae43560a649dfd7126e63c104b78da8e3fc05cc55a79692c26d4ede7a303ae7fd5ddcf02b23d61a9882db17a721ae4a0dbd440c28b033f457ab463682fd36ee8af53b95cc27e5",
+  "imageName": "9f6c2142-a22a-4a37-b000-a6f75297f3e8/boss_cropped.jpg",
+  "region": "WEST"
+}

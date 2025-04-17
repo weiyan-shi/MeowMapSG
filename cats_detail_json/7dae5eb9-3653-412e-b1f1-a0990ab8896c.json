@@ -1,0 +1,14 @@
+{
+  "name": "Gilberta",
+  "catId": "7dae5eb9-3653-412e-b1f1-a0990ab8896c",
+  "sex": "Female",
+  "personality": "friendly chonk & very chill, would accompany you for hours",
+  "likes": "food",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673885508977,
+  "dateModified": 1673885508977,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7dae5eb9-3653-412e-b1f1-a0990ab8896c/2D30991D-8E05-4693-A53F-0AB30BB5E5AC.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131345Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5bcd19da725fc9ae6b5a5ea24e14292319b9aeb6e04b2603ea1701aa55b9f0856cd2deb61f17bae07ffc6c2e7147757a813b0217a851f23e854eddee9e87d64ac0b66200a778bbdf38a8d8ad2463d050fe41270a713fa3a6541e2ae6052584d97bb16c8a144e317b7795eac46155b1a85b6c251b829f47fc51e03f0577ee6a893cb742de36007a45469c4d259ef55172ec1a267526d969502e7a0f678267c087220189cab4a7945b9be0aeb01990cce8a5d1cd2f92399d5571eab73e53aac967f83c827d764b8bea6823e9ad0c6e6516e08c5c6489af787acaf56065828ae55347800b6ad7cb368ff1b013183f703e2ae947450ef0fea4ce30d66f8ab6411f4f",
+  "imageName": "7dae5eb9-3653-412e-b1f1-a0990ab8896c/2D30991D-8E05-4693-A53F-0AB30BB5E5AC.jpeg",
+  "region": "CENTRAL"
+}

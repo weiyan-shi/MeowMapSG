@@ -1,0 +1,14 @@
+{
+  "name": "Choo",
+  "catId": "0c0a7722-f162-4773-a0ca-2d4e75a6a9c5",
+  "sex": "Male",
+  "personality": "Friendly",
+  "likes": "Food",
+  "dislikes": null,
+  "other": "Always roaming about the neighbourhood",
+  "dateCreated": 1673881857719,
+  "dateModified": 1673881857719,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0c0a7722-f162-4773-a0ca-2d4e75a6a9c5/78E3CA4B-AB78-48D0-AC1D-F68592C1D0DB.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130833Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8d00cd4db2183415a016a9b3bd1736d952b5f08440bfcc0e576e6b477911e3b572a708738d9afb4c66d1aa59a0568ac3990c1ec104623c8f7f00097d6d182d3c450635fcd0e76ae31fe6f25969a9aa9f0bd7c0db5c8ec401a3e2670ded676c3a8be430e7d88960bf5c5653f5b73ac875aa1f02ae3f9251c3f777417365a4d4e99c8f75cef54c7557cd6ed88db7088a42e87ed8eb8b05f38289c2bb9869db16ff49993a8cf54a698192a6edb9b5aebb4e3907066a88b754b68de791aabfce9c401ae2fd0161aede07129493518503f4a251f008baf9f806c6ba6f0a4489e12c736417e2f8c5fa2e24f3ae9dd092231c15644a2e0cdd975e5c1ab2eccf84da576b",
+  "imageName": "0c0a7722-f162-4773-a0ca-2d4e75a6a9c5/78E3CA4B-AB78-48D0-AC1D-F68592C1D0DB.jpeg",
+  "region": "CENTRAL"
+}

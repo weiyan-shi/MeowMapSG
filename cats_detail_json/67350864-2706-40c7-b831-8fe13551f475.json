@@ -1,0 +1,14 @@
+{
+  "name": "Tang Yuan",
+  "catId": "67350864-2706-40c7-b831-8fe13551f475",
+  "sex": "Female",
+  "personality": "manja, friendly and outgoing",
+  "likes": "being pet, kibble, attention",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674019806847,
+  "dateModified": 1674019806847,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/67350864-2706-40c7-b831-8fe13551f475/Tang_Yuan.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151602Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=072ae2b711055b9896efd59c809371e3d2b83f60780925cd06de704697c9867119ae6a5434e26d59f490719760ca5aec31239dbbbf2906b2e98aba4b6c6eec2d66060aff3bfa6428dfedf451bee72feefacf82f50f6a5d20d89e696fd615e45a1ee86b7f12f602c6854d151f2181591e4f47999dc489c9a4108e5b7600c63f4c94ef83ada263388ffe244bfe461b1d8eb5e121b7700f27a37ef503004a3719bb6c1946ae8338333a263e4f3825d61daf337b3e17fbe7ed0bd60ed2b9912e9833a591691f090ed0b9263c49c4affdd2f3ab58612b44e26a2d281b05a255768aa439acde7a7117ae2af67a022aceebe574eb991ca9a3752fa4d673a83614853279",
+  "imageName": "67350864-2706-40c7-b831-8fe13551f475/Tang_Yuan.jpeg",
+  "region": "EAST"
+}

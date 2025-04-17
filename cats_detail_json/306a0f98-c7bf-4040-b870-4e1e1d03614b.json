@@ -1,0 +1,14 @@
+{
+  "name": "Carpark mao",
+  "catId": "306a0f98-c7bf-4040-b870-4e1e1d03614b",
+  "sex": "Male",
+  "personality": "Lazy",
+  "likes": "Motorcycle seats",
+  "dislikes": "Exercise",
+  "other": "Meows loudly",
+  "dateCreated": 1674040997461,
+  "dateModified": 1674040997461,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/306a0f98-c7bf-4040-b870-4e1e1d03614b/Carpark_Mao.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154618Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5cc1f0508391d751b28e176e7114518e1d0c76b2469352a75a636b5bf5eca727c76e58155abdf09d93951765b042c1a088fa403a04abac8be3245dc7838d430fa716bfdeadbe5d7c71c576b8c29f3409a4c9de48154e294fb6f7c738980e8d8b42343c2227879b7c05ea4cf74fc3212e7e36444b7078d2c5bd81382e8127332c296904ea9ea41a5264ecaf9582e01c69106c180de5c4d77630c6255e4fbc70cfc3087f7c43c99f4acb4fcb2ac86fc1ad6d4b2203aacbc4a88c2191fd158ff12724110a7839b0ce4d59f883e2bd0450e4dd56e903fc10624c9c7dd57a27c77fab4e7af52109bb0abfca3070b46f20c8fefa04d07721d34f489dee77ffa2b716f2",
+  "imageName": "306a0f98-c7bf-4040-b870-4e1e1d03614b/Carpark_Mao.jpeg",
+  "region": "CENTRAL"
+}

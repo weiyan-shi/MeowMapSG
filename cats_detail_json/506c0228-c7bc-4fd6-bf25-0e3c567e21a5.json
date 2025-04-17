@@ -1,0 +1,14 @@
+{
+  "name": "Sea Cucumber",
+  "catId": "506c0228-c7bc-4fd6-bf25-0e3c567e21a5",
+  "sex": "Male",
+  "personality": "Quick to warm up to feeders",
+  "likes": "PDA",
+  "dislikes": "Being approached from behind",
+  "other": null,
+  "dateCreated": 1673923175864,
+  "dateModified": 1673923175864,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/506c0228-c7bc-4fd6-bf25-0e3c567e21a5/SeaCucumber_noexif_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131402Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=50ee6961f1ae82cfca446642c63cc901b35b5132152f60a5e49d560f85ac87cb5b5e8560520fc8d87a84379bf7ecdc7de6286033a0f5353973afb47f232116e2f533d500e1f6bccb917e032bc32c4e9dcae3e6af52bccaff1c6ec122b0c28c70b95a3f5541854ea6ea2bfda71f8f2a47d4bd1e775f113569d7011f031da9ca87e2ce83a5920b5adc9367b9579832645bd8f01f80e62e27188422196bd1ea4f3405d23ce284212bbe30d86befda235a6452bda2dc254caa1aa644faa78ef1daddd42e923b50b2f5352baa8ada08b9e4b711260e33e1b8e73853409386ffbcbd12f6a43812d57f0f6bca34480f96ba1afe4a0b49bff80e2335f8896a6a623088e9",
+  "imageName": "506c0228-c7bc-4fd6-bf25-0e3c567e21a5/SeaCucumber_noexif_blur.png",
+  "region": "NORTH-EAST"
+}

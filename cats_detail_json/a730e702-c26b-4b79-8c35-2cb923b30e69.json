@@ -1,0 +1,14 @@
+{
+  "name": "Queen",
+  "catId": "a730e702-c26b-4b79-8c35-2cb923b30e69",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673937161860,
+  "dateModified": 1673937161860,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/a730e702-c26b-4b79-8c35-2cb923b30e69/Queen2.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131413Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0be30e75886396ecbd4c4142958421dbeb24c10e18c6e3f26f8e76ca7bfd1b551d65f5bb7248a0d3a30802276ad6f657eb2001f58ef839fe033aaa1d1467d452c276ebb407e2c1fd413f5f52f4da60c03e9c9817aaa44f35189d8e52617bf537601517a9989de84b383a88462bab5d99c60d2d68f123248f9e65c16750a5b0d2d6108bc48391ec33c9d4f13d0a75ba7916ab6e399066d8628e3d4355b11b221bedf2b39cb2d9ab09f7517c8839c548ccec476907c167808014eb5a1abeef22b6ccdb7518df8d164679c5026370ac9b1b8569ebae6f01be49a42db739a013c06b84eed26da2b0b6e889fd6637552b883a5bd4bab1319ea37667e0ca749adb0f85",
+  "imageName": "a730e702-c26b-4b79-8c35-2cb923b30e69/Queen2.png",
+  "region": "EAST"
+}

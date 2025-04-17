@@ -1,0 +1,14 @@
+{
+  "name": "cornelius",
+  "sex": "Male",
+  "personality": "chunky cat",
+  "likes": "being grumpy",
+  "dislikes": "other cats",
+  "other": null,
+  "dateCreated": 1674601572323,
+  "dateModified": 1674601572323,
+  "catId": "595689ec-7391-40d7-aaa4-8c24ec9603fc",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/595689ec-7391-40d7-aaa4-8c24ec9603fc/Cornellius.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131515Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=66fca8408c002457e37e8c306c6e559c918513e70a46aa114ae3d6d68306599740e80828c52b65e6f68ad5fc5c582a8556e5511724134f38b39292f02878d6d135410d2cc51a2ff1f3d89fd56332aeb76f9f3739f407ac2d0855d5bd00eb36b977ec2ca85464864c2b65c0fe3de41f041c13fe6021bc6bb88777ad5fa0c7c7c5b8428736e6247b1de412a3c44124022f79cfe6c91e86cdbd0282cc3c0b422f9647c3a3590c7e4cb4b081b04cdfacf4145d91ada44c5a7d403c64725d09f1f013d377f1e1fdfd0b2bb585ccf217ee773854099716420f81e8261712f31d807a6ac4da29635cf6becc8116c8c9a70e1b86c980d6fff34348c57a2789b0d8bb352f",
+  "imageName": "595689ec-7391-40d7-aaa4-8c24ec9603fc/Cornellius.jpeg",
+  "region": "NORTH-EAST"
+}

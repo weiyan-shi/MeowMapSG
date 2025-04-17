@@ -1,0 +1,14 @@
+{
+  "name": "Taco",
+  "catId": "87bddc28-820f-4013-be8f-43d196ae33cb",
+  "sex": "Female",
+  "personality": "Extremely social and outgoing",
+  "likes": "Lots of pets and head scratches",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673876128545,
+  "dateModified": 1673876128545,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/87bddc28-820f-4013-be8f-43d196ae33cb/3AC2E071-730D-410C-BE4F-ECF4774648B4.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131314Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=701b7f3dbc47c2564471f89f9f51d92809dcc01c4ea3887597384e1db38e57987b87112b4c0621a20b8ec3826a11be3c409f7c85b69e56e06b9fc7048b990f3552e7ec36286f67c562577e886234e87f4ae4c89b2817c5de2a0639e8bf9b243d1b3e6a7859ec8737c09df191126080652c340d3e3d3cccadef3b6a21162a94e86832f33f7983adba063d54b8e89ddf9f701af050594b783d32fcefe3044c9cc83089315c3dc696fa2dee0f9bc7e46e4d17d4a13fe23693b919583a0b371b1f9f390cd1639c0b4e181c3e4f12e2f64eea12dafa69f3d321dda5bb3b6f3488bfcf0a40742bdbc23272ba059d3c7bd29d2a4ad109dabac908dc3b54d8294fc4ad23",
+  "imageName": "87bddc28-820f-4013-be8f-43d196ae33cb/3AC2E071-730D-410C-BE4F-ECF4774648B4.jpeg",
+  "region": "WEST"
+}

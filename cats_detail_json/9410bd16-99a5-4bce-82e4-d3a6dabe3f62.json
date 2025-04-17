@@ -1,0 +1,14 @@
+{
+  "name": "Gangster",
+  "sex": "Male",
+  "personality": "Even though he has the li kua simi face, he is actually very manja. Has his own little house. Kids love to pet him",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1676509324731,
+  "dateModified": 1676509324731,
+  "catId": "9410bd16-99a5-4bce-82e4-d3a6dabe3f62",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9410bd16-99a5-4bce-82e4-d3a6dabe3f62/IMG_20210616_183238_068.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T145422Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2961930eae9c9ecd8d9a164022dbcc5ac0fdeddd658525b19248e90c9535bfdbaa201723fbcb26c6092688415dcc4eb35f480991256201990cdfd3360e953dd2b0a63e681c86e2470e7dd548d05d49215d3e07727e99470820c7494e29d9236bfb121d864e22134f8b98ed443c1f825379fc381654396d521b3a31b0917480629b02d074f21ae754ccc3b8bedc3df208347e649110acd22efa7fb45c2242666eeda7c447815936597c8c1708e6abbd2ed2a1f5c82272ff3b5772a9d7b2ab55cc259dd793f38ec453f7aad40a2cb1326b254fe2641f2d18f2388d89789c2507ab00d15aa6b538b86302e00453cfa986ef5cb94b25c9bb68459e0d0acac03f15e7",
+  "imageName": "9410bd16-99a5-4bce-82e4-d3a6dabe3f62/IMG_20210616_183238_068.jpg",
+  "region": "EAST"
+}

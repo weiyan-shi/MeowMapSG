@@ -1,0 +1,14 @@
+{
+  "name": "Oreo",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "It might run away it is very timid",
+  "dateCreated": 1694506355915,
+  "dateModified": 1694506355915,
+  "catId": "c63a5f1e-1e50-43a8-8c0b-14a58c1c91dc",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c63a5f1e-1e50-43a8-8c0b-14a58c1c91dc/Oreo_4_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131549Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1ca77c898c7ebec50f1479abdabae28e5adbcb02f4ac67480f5e0ae415486a144add86ed3dba995c70462a31e192cc5fcc3b63170cef5da83a4848315502d865467a1b1ebdb7c2ab662f1454f07b70af1895fd6b0fe3d6d7e62a15c7d566727ec0e2ce07a11c2c8d349719424a327851105c4a4fc5cbed9cde61a23f7c737cbae4ac8100ce2025a8a7a683f38c2f3db384a1367b66e6848d96b7c07c68fa49d271159eeedd05c0e45ddd8dd80cc17559df2365f9c0a48dfde8d2d04c7a6ef49d116f95d25f0339750a51a4efe9260d0b2fc88f576239c44c2535406628b933c5eb665c57869e85d7c02c7ad50b1b27548b24b80c913d3e8ddd795947156d386e",
+  "imageName": "c63a5f1e-1e50-43a8-8c0b-14a58c1c91dc/Oreo_4_cropped.jpeg",
+  "region": "WEST"
+}

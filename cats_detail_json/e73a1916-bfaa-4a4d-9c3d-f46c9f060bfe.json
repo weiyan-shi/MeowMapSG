@@ -1,0 +1,14 @@
+{
+  "name": "Big Papa",
+  "catId": "e73a1916-bfaa-4a4d-9c3d-f46c9f060bfe",
+  "sex": "Male",
+  "personality": "Very friendly! Meows for pets and rubs himself against your legs",
+  "likes": null,
+  "dislikes": null,
+  "other": "Big chunky ginger",
+  "dateCreated": 1673879382364,
+  "dateModified": 1673879382364,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e73a1916-bfaa-4a4d-9c3d-f46c9f060bfe/Big_Papa_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131318Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=02634e3080b975c19c609de1f83de686117ccdc6e6dc340deac2c74c741bbf641cb3f4ec44de8bbb130a53d760c429c2203d2098a91cd76eda527de2017ac413dabd0b7b1a9735e1fb4e520925cb505f7d7680e6a7e90a70ad4bacc505999d4c2c8cc3e2f29cba49443d04b573bbd74ae488405a16f759002c18f9d9f3b43171bcdbd7d1eafb24a6c3e2d1ca458a0ae944c478acdd5386fce48c63c39d9b6174ac4f7024057a18692fc28a3c4369c141363741fa4584bf49e9049d8417c6567804be6aafcc5958c584580dc09577f5c5772ff1269f11c4d312c56e6c253dfdce0e2cdbb5243989e02a64797bca93544104d1ad5d888e4b14f7716bfcc71e1105",
+  "imageName": "e73a1916-bfaa-4a4d-9c3d-f46c9f060bfe/Big_Papa_cropped.jpeg",
+  "region": "WEST"
+}

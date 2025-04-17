@@ -1,0 +1,14 @@
+{
+  "name": "Belle",
+  "catId": "865c5427-8441-40b2-a5c9-a5afdedde338",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Belle is a placeholder name. If you know the cat's actual name, please contact us!",
+  "dateCreated": 1673882561952,
+  "dateModified": 1673882561952,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/865c5427-8441-40b2-a5c9-a5afdedde338/Belle-blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131331Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2882979faf42efdb12d2d4dfaf67ab4bc5fec0185a1a7d6da657c5c5a5d8d812446ce080345af01ffa63ccdf1a4148b363dd21cf5f1d5d4bef79133eb26184ac9cfaf0ab348b7239b42b8491389fe0d18c9d53bc9818097bd8ed58411a0e42979114404aada48bbacf8790bab189aa1ac99f0fc9dc45aedf989683aa7065c613e7a3b5096b2e9af2e320e25e7b80ec256953c0c1cc8cba9556f9c776e31da6e1ed0a485be45f1c68cc454255b603f20c819e6ce9bd945c027540451c5ec6cdc5999fa7e009a0c8b9299d632fcc5dbdd4918b71207127ef7542b4940b338cb22aeb111c9ea7804069d278c526953a79a0feb61218d2cb4a37e1d703c728e57c01",
+  "imageName": "865c5427-8441-40b2-a5c9-a5afdedde338/Belle-blurred.png",
+  "region": "WEST"
+}

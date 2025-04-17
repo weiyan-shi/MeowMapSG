@@ -1,0 +1,14 @@
+{
+  "name": "Bob",
+  "catId": "86183310-3a4b-4298-bad9-d007f3704ab6",
+  "sex": "Unknown",
+  "personality": "A little playful",
+  "likes": "Coffeeshops",
+  "dislikes": "When people don\u2019t bring food",
+  "other": null,
+  "dateCreated": 1674001315510,
+  "dateModified": 1674001315510,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/86183310-3a4b-4298-bad9-d007f3704ab6/Bob-Blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131455Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0bbde8790096647faaf06632a23fde4a9f7d79510eab0ec69c4447413be8db0fa23b24c939bf6959af2691e5f46f0869777e3e41450f2def2dd74ccf00a02fab45629d1a44bc0627b779b61160d8f7e75888ea64178168de76e9e9ad76ceaf606c2253ea1eaf8fc4a79e05d0534bd55ae8c94dacc0df17710ca7bb0197e63636c235b3ed1985f53bdb6b791f01f67c09f853f4c32bee6a5ccb048e30f326d32fb11d2e71fefaf62d330fcbe948d08b203af57357aeece7343a557da6bdf526cedc65007c0aa00f3173774bc2aa05ce15008b00ec299045f5ec910967eecba37a17fb41146cc9ef026be92c989c56d5053f815327cca8e21b7248a093c0077388",
+  "imageName": "86183310-3a4b-4298-bad9-d007f3704ab6/Bob-Blur.png",
+  "region": "WEST"
+}

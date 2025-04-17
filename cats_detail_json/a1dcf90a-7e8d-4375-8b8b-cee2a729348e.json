@@ -1,0 +1,14 @@
+{
+  "name": "Dot Cat / Snowy",
+  "catId": "a1dcf90a-7e8d-4375-8b8b-cee2a729348e",
+  "sex": "Male",
+  "personality": null,
+  "likes": "Sitting on ur feet",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673874562867,
+  "dateModified": 1673874562867,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/a1dcf90a-7e8d-4375-8b8b-cee2a729348e/Dotcat.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131310Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=29302b1d2990286074b163255019fddf72b182723b1474329701b225be6adc59bc2ecafa05b1b077e9c1e26905559651d3edd5c0397cdea2017a616f7f63b1275fb1872c88c7439d55a910d9eac9cbf557777720246c02e8fcb12bcc4ebe266315e21217cc2d3460390d383ef61fce33bd6f13cfe0e77998319cc56f38b9fd4f2f50ca78accd443ebcddddd995efb3765d2c238d1e4d4f83612e9740987c9a399e76632c619083bafd6f2450b5cf6752d5ffd7d08eb5a497b66c3a334c0e32ab3caf335dbe367baa74ea6102fd22e7ab7644df4396b9ea4bda74e063f1b98b13af418b010e9b8d17b9845906fc43a433322486dc16465128fb4b6863dc36356a",
+  "imageName": "a1dcf90a-7e8d-4375-8b8b-cee2a729348e/Dotcat.jpeg",
+  "region": "WEST"
+}

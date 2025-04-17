@@ -1,0 +1,14 @@
+{
+  "name": "CP",
+  "catId": "eb4822de-a056-4d2c-8e54-e7205c2b4e36",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673880806734,
+  "dateModified": 1673880806734,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/eb4822de-a056-4d2c-8e54-e7205c2b4e36/CP.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131341Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0d5d42f4a73afb092ab7ce495ef437d0bbab32919dc19560e047ec13b5286fce6237f2926820ece3ec7064e2fdd88580137042d2540ddbe8632a6a9471f0ec9b80d51b2f3ce01d8b4b031c381a735aac13db28eac68a8d9d279a7ebf8a5672bf0185883f44d4127c7516907a0646f98b6fb27720738746fb7e1fd6181f831ab1e112cc22e2d79105f4cb1d86c2223892e8604943fe40577582c858181b5a92bb80081ac9b6086fd69208f2cff2de36a388a0c099cc1e5fae75975e2d6c4c7992dce1688ace1b61d8ad42ecb958a53e00d36feac4baa66c17d09a1ce7c56a2b4d9d3f40976f10e3cebee47fcce085ae70f8bb9bccf6c78b0c006307da4ef1346c",
+  "imageName": "eb4822de-a056-4d2c-8e54-e7205c2b4e36/CP.jpeg",
+  "region": "WEST"
+}

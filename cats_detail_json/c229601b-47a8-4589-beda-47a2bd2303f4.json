@@ -1,0 +1,14 @@
+{
+  "name": "Big Papa",
+  "catId": "c229601b-47a8-4589-beda-47a2bd2303f4",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Very fat",
+  "dateCreated": 1673879669456,
+  "dateModified": 1673879669456,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c229601b-47a8-4589-beda-47a2bd2303f4/Big_papa.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131319Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7852ef233e1c7b8729a8e101f86906b9032edbf6c7b716733ef3550f8753da5d85e75f175196a2d8ec78827598a08c9d463f49b394a5f89acb90697c15edbfe8d1c7972c52f859788ba4502002970e6032acccb9ae2d4afbdb3ea05be3bd76aacd1617b6ac44d07ee4611d4eef01bf8c9cd1df2c68e504659280c20b70259efba28be10c59b8c0b72396103fca490ba8b9dedc6a106508fee19dcab17ac43494fe72b3008596648a9c04cb2f78355b5363e02fdb5b9f9f3491fca1839bcd2d0ce7f8617571725e3d514d8b7de302a4aea8671e5eeed27724e18265423c2ca0ab193e4f31d18f709e2d0edbe03dd4e50e19d86c00553c0e8afa88a89fa5efb370",
+  "imageName": "c229601b-47a8-4589-beda-47a2bd2303f4/Big_papa.jpeg",
+  "region": "WEST"
+}

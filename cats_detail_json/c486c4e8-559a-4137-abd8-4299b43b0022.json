@@ -1,0 +1,14 @@
+{
+  "name": "Court Cat",
+  "sex": "Unknown",
+  "personality": "Very sweet bb",
+  "likes": "Food",
+  "dislikes": "Rain",
+  "other": null,
+  "dateCreated": 1733196007229,
+  "dateModified": 1733196007229,
+  "catId": "c486c4e8-559a-4137-abd8-4299b43b0022",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c486c4e8-559a-4137-abd8-4299b43b0022/IMG-20241013-WA0000.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130803Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3088ef08790b19a48c9b5c0ed26d8be8fac2723a5d3881431a6025eae16a2bfb23fc9e06174b7a64f10aa26ab7bce0a56db2732bc1f49187e50726b444f671dfeced24fc050e7d4e5e3aa2ab22928a3c6140afcb389283ff03eb03e5aa9681d892dbd8385b94707f09da3606be5ee52e7a5af1a04603bb77b01c05f54c040ca8a47c98e0496a7d7f844094930baedc85f220ddb2e9ccb5d41b631b0fff9a3e05d7186c09d51ff7a41adfb0e90cc8b050ab5f603de8ef4f6a1039c52f0696ec905c64a2744607795df6bfa65278fac184f83f40da73cb2ac3a6d6e0757bc63d7b0b62cf587d78b8bf10b414ab214ae72cc193e7d53ca81a276d19025a7b48b8ab",
+  "imageName": "c486c4e8-559a-4137-abd8-4299b43b0022/IMG-20241013-WA0000.jpg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ah Bui",
+  "sex": "Female",
+  "personality": "Little on the chubby end, but really cute and manja likes to walk the extra mile for you.",
+  "likes": "Food, but she should stop eating so much.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1686030989555,
+  "dateModified": 1686030989555,
+  "catId": "3bac4f7b-3b66-4416-ac8b-b6d5f7f1c1f6",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3bac4f7b-3b66-4416-ac8b-b6d5f7f1c1f6/ah_bui.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131544Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2403b56bc3888738c036aefe93010a8297e2f588f45e56aac5f5e3ebe5f0b5c5eb58e43cee586d089a49f391b5e3b4a6676969c19851c13748ed72e1dc818c869e4f59614227d2975d493fa8e7e9185a0f342a26535ec32925df5b64ad096be2cc4abd40a9ddecc45a7d6260b71b1e466f7704ecc053129cffdca40889259d77c6c0e89bc37e1116a6ca7f1ce9d4e349bb397b9d59dcc05f0ceeb09b3c2614c6a9ace275e9e6c701511ff4e5d42c93365f408cf18352bfac128b33eddee30e9bb759c9395914406b4b91e46a69eda11020d3d6960f3938378ee7eea0e731eae81932fd1d878de1e00bb9317c8970bac0362fdd9d0c5f1ba62de1fd85420cb091",
+  "imageName": "3bac4f7b-3b66-4416-ac8b-b6d5f7f1c1f6/ah_bui.jpeg",
+  "region": "EAST"
+}

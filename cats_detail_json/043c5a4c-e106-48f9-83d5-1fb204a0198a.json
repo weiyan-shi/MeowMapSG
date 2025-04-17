@@ -1,0 +1,14 @@
+{
+  "name": "Alien Cat",
+  "catId": "043c5a4c-e106-48f9-83d5-1fb204a0198a",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "personal space.",
+  "dislikes": "Insignificant beings.",
+  "other": "Looks like the main character from Queen's Gambit. Able to jump very high - highly athletic and sporty. Slightly eccentric and unpredictable but overall, beautiful.",
+  "dateCreated": 1673953302949,
+  "dateModified": 1673953302949,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/043c5a4c-e106-48f9-83d5-1fb204a0198a/alien_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131011Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=712644beba1dc010532a8ed6b3252b1ed877d952ffbbab46ab2e62e2f8b86766ab560efd914f7b45be5bee9895cbd8caa6cda4dd5c31c85fd880cc55bcb511f1e02cc56143fa40eba8919a528587ef74a05429cf461b062c23fb09974134c792875c8370fc22e8b8255f3fed3203aac01c61b011dc4db79491f6e7629d669ef99e2af6bd9cf44fe225e765657cc43ecb275251ca4ddcd999ea5d636e409b65ed6bcef4b8b138e32b28b1f99d352e489a5bb153c03f4e13777a9558a812307a20247fd340c71bc70c84fe814443b85ecd6c56adfdb5f66449711f9b6b99f2aa1577884840d03b77a802881fbc2cad36cdc134a61c7919fd37a70994fb2a1865c8",
+  "imageName": "043c5a4c-e106-48f9-83d5-1fb204a0198a/alien_noexif.jpg",
+  "region": "EAST"
+}

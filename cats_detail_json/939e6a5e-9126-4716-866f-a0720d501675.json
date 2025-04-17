@@ -1,0 +1,14 @@
+{
+  "name": "Charles",
+  "sex": "Male",
+  "personality": "Calm cat that is very fat. Will not bite or scratch. Very friendly and vocal. Likes to great people with a meow.",
+  "likes": "- To hang around with Cheryl.\r\n- To be petted at back area.",
+  "dislikes": "- Loud noises\n- Getting chased",
+  "other": "Has a girlfriend Cheryl",
+  "dateCreated": 1685864223698,
+  "dateModified": 1685864223698,
+  "catId": "939e6a5e-9126-4716-866f-a0720d501675",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/939e6a5e-9126-4716-866f-a0720d501675/IMG_2201.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131543Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1b0972bba6301f48343ed9690ecc5b4a732fbfc5639cf8b05d7dda26bc95b686790ff7cbbd0a6f8a1f6a8cd4e1b8f1f2814a31bfbf6d8d497669d34957089d9fca7a13f3a1db9441ac23687ae6a1f9fd815f7041d9be739dcd96f24b19e4d290f772a50313d498ad09e9df341a6bf6906f5ac1337d0ff80e8b5a33d5d245f3634c89665b79adbbfee8f82b08a4eb4f2f152e105f532d6a64245eff7d6e82c47c102cd83843e3889c6bee399bd8198ccad7425fff33448e023ae8b61b3d20ccedce96457efd0fb5d39bb80cae03e2fc2e7bf8d4b9127495289085f2acab96db9d2379d24b297662f035ef86bb10ef0ce9a0076240250f34847963aae86c573f83",
+  "imageName": "939e6a5e-9126-4716-866f-a0720d501675/IMG_2201.jpeg",
+  "region": "WEST"
+}

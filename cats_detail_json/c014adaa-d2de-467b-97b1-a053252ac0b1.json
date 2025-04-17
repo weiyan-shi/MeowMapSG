@@ -1,0 +1,14 @@
+{
+  "name": "Yuen Yong",
+  "sex": "Unknown",
+  "personality": "Easily freightened but curious enough to hang around to see your next move",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1718633795500,
+  "dateModified": 1718633795500,
+  "catId": "c014adaa-d2de-467b-97b1-a053252ac0b1",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c014adaa-d2de-467b-97b1-a053252ac0b1/yuen_yong_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131605Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=00f6345555e027f00a01b002b33863a4bbc6b72e2fe79511e398c80dc7242f60ed2767cfa13f93c4ef4eaff10134b0ff3aaa7f8bc57d8a639eb7ccd94d86b81e438cd9d9d915df232f95d32898bae9fee98e142d149584c6deef1146018d7d97d859f8d1a15a868c176753b844f932dc0ba4cc427b1ce81b774fff9af768dbb879bc9a9cfe3cc69cf7d161e3c322ecadd041d913a3562fbf1de8e7f1bf660b53c4c116a38afa15633a8f885b780f0a3aaf18bd431e2cd8bcebb94d9b94247329e63de715fe526bd81c198033c6a9a0b92fe0bae6b29239b728a62ef1a582967a79e2ac60aef6fd38cb7e4a5e477b06ce72271cee1ce4d64300db2ab5d7db37c0",
+  "imageName": "c014adaa-d2de-467b-97b1-a053252ac0b1/yuen_yong_cropped.jpg",
+  "region": "EAST"
+}

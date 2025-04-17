@@ -1,0 +1,14 @@
+{
+  "name": "Toast",
+  "catId": "90bd61d2-80b6-447d-b6d2-9717f6778af8",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673882768364,
+  "dateModified": 1673882768364,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/90bd61d2-80b6-447d-b6d2-9717f6778af8/Toast.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131334Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7cbf5a71c69ee1b89d3d28ce40061dc8beb8878aae086cd7a75e664b88628049f6b50a3a3f268db2582370fee5197ac3589824853b325e4abc006b79f63893fb62836899d50d9128c03aebff7b589250136be031ed0a691f2c01f2edcaadeeba114bea0b4ca145c7006b3f3f7d1f367e166ce5233608aa4523f2532160114985c23c51c6a4a54675b40b6641ef4a216563fa1037ab9e592075cbd93da9a6c8d09832b7f4e5a32772d423d5b2ce09312f0f8a08643adda8f7829c5f613590dfab02cfe40d3522d2038245f97fa376f1c4794b5d8e983357ddaa294f2d68fe431b76cc590730d7a03cabbb82310c0d718b1591133c5bb5f77177a16bea3489ab65",
+  "imageName": "90bd61d2-80b6-447d-b6d2-9717f6778af8/Toast.jpeg",
+  "region": "WEST"
+}

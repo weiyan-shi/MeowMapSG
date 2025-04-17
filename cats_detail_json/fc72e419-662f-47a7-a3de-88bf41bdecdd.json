@@ -1,0 +1,14 @@
+{
+  "name": "Tortie/Brownie",
+  "catId": "fc72e419-662f-47a7-a3de-88bf41bdecdd",
+  "sex": "Female",
+  "personality": "Somewhat friendly. Loving bites.",
+  "likes": "Lazer pointers",
+  "dislikes": "Extensive physical contact",
+  "other": null,
+  "dateCreated": 1673876487870,
+  "dateModified": 1673876487870,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fc72e419-662f-47a7-a3de-88bf41bdecdd/Tortie.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131317Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=771fe9dad0d454908ab60450d0c283ffa5463cfdce084ebb5958c45dd7121b9abde79980b26d5a8356d842583551b81d0761c343ec5fd9c488e7929f1c2cdfa0feb6d442c3b78d655d57d84806f76580d3258933150eb36b1531850cb36770487643425574e484257c6cf38ed8138964b658b93df0b51579a543a881842c25d8b6434167f51f3b9eea18cbe1bedebabc8abb0265ca6fc834f1a8773c58feb784bfb1cfc57443e553dcf51177b77ce12419ffc3562cc8d95c3101552f26c72fa6c43141dad2360ad603cea22426b446617b71f114c2cc419362e5869fa9a2dd5b2384ccb5a9a567c6d7096c725c420bd44d762fc74cef7006f31d9d2133305c8b",
+  "imageName": "fc72e419-662f-47a7-a3de-88bf41bdecdd/Tortie.jpeg",
+  "region": "CENTRAL"
+}

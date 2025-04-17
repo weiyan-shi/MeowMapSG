@@ -1,0 +1,14 @@
+{
+  "name": "Serious Face",
+  "catId": "63f67f6a-aa77-4e0a-9375-414259135ffd",
+  "sex": "Unknown",
+  "personality": "Has a very serious face.",
+  "likes": null,
+  "dislikes": null,
+  "other": "Will flop if in the mood for affection.",
+  "dateCreated": 1673967726398,
+  "dateModified": 1673967726398,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/63f67f6a-aa77-4e0a-9375-414259135ffd/seriousface_blurred_cropped.JPG?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T190133Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=47df340e93b7a515f1a07efe62c313b04d5565131e977871be8dc10e54cdbaf82c9f915231499365787f204d70e10432ca2add2e625275f3c1d849db6c3606df7f414b3bc894bb1b48b8789dfb52df5fad3b7ae23479f353ffd85e55b4048067916db68c202c436a8ff2ea27581232c193bf9a1ec4252fd6e7d638060dfd63151981937a8460ebccb89b92e10711d3583e0dda50f9d3cf61a91b504f31b4505b9599b92695ed7ef8ca88cd9b7275de6491cbd4bb6821768959815a54d7c9b1c6ed72bd2ad0d9f52141a6df8103b36a9247c3f888e5883e425f00760bca58929b2c689989bfbae5e3c599784f2fc2ea4e982a3e9c43e779a1928c9861fa612a59",
+  "imageName": "63f67f6a-aa77-4e0a-9375-414259135ffd/seriousface_blurred_cropped.JPG",
+  "region": "EAST"
+}

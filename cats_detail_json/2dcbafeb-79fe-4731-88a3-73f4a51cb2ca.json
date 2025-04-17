@@ -1,0 +1,14 @@
+{
+  "name": "Mr Meow",
+  "catId": "2dcbafeb-79fe-4731-88a3-73f4a51cb2ca",
+  "sex": "Male",
+  "personality": "People-friendly but a lil derpy",
+  "likes": "Pats near the butt\r\nChasing after bugs",
+  "dislikes": "Anything touching his face",
+  "other": null,
+  "dateCreated": 1673893604472,
+  "dateModified": 1673893604472,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2dcbafeb-79fe-4731-88a3-73f4a51cb2ca/7906122e-1a6e-48c4-915c-23b864d24533.jfif?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131350Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7701e195f0e721145670f9f43cab36ef2803815e1f37dccd8ba8b5c9631182ae15b658b42e8ac677fba7281c0ab7ef76379811e4ea3d7705670763afeb6d5c9a751a0fec5abdfbf69d2549d6a9201cb24d9f3d9b75daacb95410a088930e072fb09b9e3a411c216587321c4b029d1cda27534379882472425483ca5ab2c99952b442b3fec68808dfffa75e569c375b4e4a9087954c3655bdf6a60ed4545df854eb6071f7c76e00857c094861c548f56ae43a73a74faf28027262c3242304bdcde83eb4e7eafc30d6c867ead5bff0b469e757df1ff58edbc14f32342f0e285bd96c0408f028d586350101cb70c6e3b3f88715e1838054b49de374cbfed2378474",
+  "imageName": "2dcbafeb-79fe-4731-88a3-73f4a51cb2ca/7906122e-1a6e-48c4-915c-23b864d24533.jfif",
+  "region": "NORTH-EAST"
+}

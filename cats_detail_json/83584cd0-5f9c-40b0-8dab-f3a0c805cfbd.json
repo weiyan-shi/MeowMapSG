@@ -1,0 +1,14 @@
+{
+  "name": "Echo",
+  "sex": "Male",
+  "personality": "Friendly",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1675291622770,
+  "dateModified": 1675291622770,
+  "catId": "83584cd0-5f9c-40b0-8dab-f3a0c805cfbd",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/83584cd0-5f9c-40b0-8dab-f3a0c805cfbd/Echo-Blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T145423Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=13a315801b330a09772a5f5122839f6316449380c9e502cf98bfcae29580ec3c65a28f7c9c15f099b4bac9bdfa3aecfeddbc92fb06178783b02a404ef358aa71e3a25f3e17d5c1dc8a29b6f1027cbf6cc7a17883d6e0d9180350dbe37fdf3f70f8d6a4cd86fbc42d5c0ad539072ebe8cc4503621358148f628bc483d85975a54168600702aa2f742a5c0f49e18ad3716cb7a82d6b13fa667461602343ae1701244b5090ac1783824e7487815a2e82cd1933a243310d8ef077739fc5ef41fcc4d989eeb8209f90c0758cc3303f7e27de070c6ee1b7c7857bc55e247dec84ed1285495fafdca2d9ec8677b947bd9ca3b68e1081b4d7226aa3aa329c28e1fb3e55b",
+  "imageName": "83584cd0-5f9c-40b0-8dab-f3a0c805cfbd/Echo-Blur.png",
+  "region": "NORTH-EAST"
+}

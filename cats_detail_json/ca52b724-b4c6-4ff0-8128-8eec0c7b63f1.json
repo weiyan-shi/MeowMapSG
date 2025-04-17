@@ -1,0 +1,14 @@
+{
+  "name": "Garfield",
+  "catId": "ca52b724-b4c6-4ff0-8128-8eec0c7b63f1",
+  "sex": "Female",
+  "personality": "Really playful, will follow you if it's in a good mood,thumps it's tail on the ground when it's annoyed",
+  "likes": "Eating and Pets",
+  "dislikes": null,
+  "other": "chonky",
+  "dateCreated": 1673949171021,
+  "dateModified": 1673949171021,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ca52b724-b4c6-4ff0-8128-8eec0c7b63f1/Garfield.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T065149Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6e72485b967a841c80c1972c121f1479643a1a598587f5d3d23fcc4191227950d57987e58924178faed09390a94a36e99ee7fd0cc36258cd4489e3c6c05c6469de2a9e7b2a8087ef89ff848bef245822b104eebcb314ed5015772472eb800ff02b0d47d1e757c0a2969a2b60c2225a7c63d41d58d9c0cb293717dc45f5428b0ca05ff1b85f94104fdb5916474c32a7c063b955ae083c5464f554c67c23f37f0430321e4dd06362ceec80eef113426036a7d4cc20364a94452d627f759122efe6039d141a591d432597f2778440ef2bdda606bba3bef5916300cea179fa56d9a54aa45856b8f61a9511fcf6305d1034f204e4759def499a96309ab026ee9b9814",
+  "imageName": "ca52b724-b4c6-4ff0-8128-8eec0c7b63f1/Garfield.jpeg",
+  "region": "WEST"
+}

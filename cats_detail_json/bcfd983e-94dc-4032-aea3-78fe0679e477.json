@@ -1,0 +1,14 @@
+{
+  "name": "peanut",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1685851967529,
+  "dateModified": 1685851967529,
+  "catId": "bcfd983e-94dc-4032-aea3-78fe0679e477",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/bcfd983e-94dc-4032-aea3-78fe0679e477/peanut.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131543Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=85f4912452e78f838573fc8e87ef1c644d982f3316a053d71499c1b8acfb7a45e916e71229e2462a2eb10272910ef713a6b213fa5b77c2ab3f1c6142d8b7c953ce9f19d0141e630475790c28841da23befe21b48528ad3fcb5a7dc9443c34d61a3662dc3b018235369138b195ecfc94237eaa1287ee4cc3e16a3afcf371aaab87a81953daa949adb4079e7155f3513f1c1e987b4ed032fe79cbd1f8be7d316547ab684943e21c481f759e0983a89b0cc39fb1788580c877f1b846c214183b271b79326e98516bec832d56262c0f25b2aec8c056cb29f0ccd8fe5e0540c03a5fcfaf0f74c21e3693baabc9a3028b7c5cbcd17d89f05fe5bc9542fa708457aeea6",
+  "imageName": "bcfd983e-94dc-4032-aea3-78fe0679e477/peanut.jpeg",
+  "region": "WEST"
+}

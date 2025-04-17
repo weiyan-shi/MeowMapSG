@@ -1,0 +1,14 @@
+{
+  "name": "Vader",
+  "catId": "4ec46ea1-98f6-425f-9115-a3f0f8465c7a",
+  "sex": "Male",
+  "personality": "Friendly and shows affection to people he loves by escorting them a short way",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673328329129,
+  "dateModified": 1673328329129,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4ec46ea1-98f6-425f-9115-a3f0f8465c7a/Vader_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T111322Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7ab4ad9f8ba2eb3284ece2b21d0de8a6bf88c2e8bc7c66cd548ee239226187919b2c9ce8b8fed39e828fa80011dd1eac2f18c90b10402ee5dfcbf822c9fda09c0e969e5b0591e89a299c55f9ad9f4317d4ef382ec94ef39b943241467d0849495cbff8186106faa18663c56ec8371535ce5ad2d0053b47df69a143e1195df58d6efd6f3dbeb4a449afe3f1a443c2a5cc346ac4d2b204c5445ed88b1ea724485dd43ef696e811e9e1a17b28099af091849c3d1ce27aeb3e186b073b1ab36a8bd8233c7d4008308221183f70b1931b610e5412d2c73e445d3edf01970dc9669b1525a10476f7417f2c68b81f09bc0b182ce8a42683ba1eef0359f6f57353cf217c",
+  "imageName": "4ec46ea1-98f6-425f-9115-a3f0f8465c7a/Vader_blurred.png",
+  "region": "NORTH"
+}

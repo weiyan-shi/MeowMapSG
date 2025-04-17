@@ -1,0 +1,14 @@
+{
+  "name": "White Tiger",
+  "catId": "715f3331-2672-45af-9768-7ee69443fa92",
+  "sex": "Unknown",
+  "personality": "Gentle and loving but has a mind of its own.",
+  "likes": "Neck scritches, tree-climbing, shoe racks and belly rubs.",
+  "dislikes": null,
+  "other": "Athletic.",
+  "dateCreated": 1673952388405,
+  "dateModified": 1673952388405,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/715f3331-2672-45af-9768-7ee69443fa92/whitetiger_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130834Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3d2405d220d7c3ff4d7688c516171b202bd8b26abb3102101642b733702dc1d29f12a22cc2d74ae339c800552dac26f1efc79e872f4418c9470fcf7b22348ada0a576a50b4765a865d7d5f23ae572f4d0e1febaeb63626137521ee172deebba8a1d01e8067dd24f7088bf75af778848c76d8733815843a3f7468c069cd821c2e6a2e0ed21fa214be30552559fe9226840e211535c1a72d6cbf975885b9bd24e1b1908d34560182fa5dbaf4e74a69f25fb3b362f34c62403c1e6b93767b608e5c2673806528d195310fe18cf5471012f32dc0120f5500e7a221bde216bed46a24283b8a4901068d505fd29d3a5cb1719ccef411b1563ef47b5e23a5fe4994166e",
+  "imageName": "715f3331-2672-45af-9768-7ee69443fa92/whitetiger_noexif.jpg",
+  "region": "EAST"
+}

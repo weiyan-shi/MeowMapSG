@@ -1,0 +1,14 @@
+{
+  "name": "Blackberry",
+  "sex": "Female",
+  "personality": "Lazy, curious and somewhat friendly",
+  "likes": "Sitting on the blue bench, visiting the sewers, getting pet, rubbing herself on anyone who sits on her blue bench",
+  "dislikes": "When you rub her too much",
+  "other": "Sometimes, she wears a collar.",
+  "dateCreated": 1691203567634,
+  "dateModified": 1691203567634,
+  "catId": "45314223-b98e-46cb-9584-0ec159989b4f",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/45314223-b98e-46cb-9584-0ec159989b4f/20230802_161115.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131546Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1364a18dc4b3a87393298d5f34ce6978b1092a1e8fd23cda25cd1f6b02a05b0b6cae4e8f71afddc4684abe512f691a55f662a857c30f80cbcd7d841785ff8d6a53d1815edcfa04b8ae07c06dec26a1b14f44a69c8f9f5e1d870e0a1d4fa5d8e743e02a8a71e83177820839b335ac1bcbc4874714841a0d327720cbd327c2046af6209dac0fb99e9369b286e88ce41c513fe998e645a3649df5e8ef36fa4fc9a4d03c72701b2e7f3561b4d65b6fabb9e8ace470e16e165268205775f2b5f7b584f520a7b6f6ce8e3abe876555ee264ad46cc871420a76b48694a6a56dfcce16902ea87470702860d68e8eae4994eb1614f7f59d2997b3ac345415a190964e77bb",
+  "imageName": "45314223-b98e-46cb-9584-0ec159989b4f/20230802_161115.jpg",
+  "region": "CENTRAL"
+}

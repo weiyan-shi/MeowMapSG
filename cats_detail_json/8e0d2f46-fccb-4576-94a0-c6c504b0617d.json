@@ -1,0 +1,14 @@
+{
+  "name": "Meowsi",
+  "sex": "Male",
+  "personality": "Very friendly cat who likes to rub on his feeders. Always bullied by other cats.",
+  "likes": "He loves the people who feeds him",
+  "dislikes": "He hates other cats and he doesn't like being pet when he is grumpy or he will scratch you.",
+  "other": null,
+  "dateCreated": 1683204466202,
+  "dateModified": 1683204466202,
+  "catId": "8e0d2f46-fccb-4576-94a0-c6c504b0617d",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/8e0d2f46-fccb-4576-94a0-c6c504b0617d/meowsi.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154537Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=10bb0d91a7456a24eda08de54e88c0b069eac881e7e98d5a2a67322d95ce5c60e35b017a5963b1993b7a3f5fd7ec4c753e179da41dfa69f87ac69d63b919b358356f130abcc39b8c2f357a771a15f5d9dcad3bbeec9beb0062d2c7e821346e7e5c09875857b59289170d8769588bd6d00653ed500031b1c3c98d8410d3950414ad29296aae90ffbbe20e855e1ec34a6acde9752e546f816672afa1622f453b49323c82c6e1badeb0c7e65482493eed2c027e288972069ac663c094968f1a7a1a584a7ec7c1fcc8370a6602d4d4305d62288586e5f434c572d2292ced87e01f956aefdc9c0ce102709f81e7df041baa1c3b5514a28a28f5d0d6f585ba808039af",
+  "imageName": "8e0d2f46-fccb-4576-94a0-c6c504b0617d/meowsi.jpeg",
+  "region": "NORTH"
+}

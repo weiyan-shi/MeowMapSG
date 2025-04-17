@@ -1,0 +1,14 @@
+{
+  "name": "Queen on the castle",
+  "catId": "894b91d6-1c35-472e-9002-5e1ff46c2935",
+  "sex": "Female",
+  "personality": null,
+  "likes": "Tuna",
+  "dislikes": "Strangers",
+  "other": "Lives in a well-padded, seemingly custom-made shelter. Very fond of canned Tuna that the locals feed her every evening.",
+  "dateCreated": 1673885491607,
+  "dateModified": 1673885491607,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/894b91d6-1c35-472e-9002-5e1ff46c2935/queen_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130956Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=120178ee3f41950c6063e9181e8eef3f7d59bddd782823f170a496619d4569ee322e98780b2ca6eba2060a58b1f344614ce9a1a26fa3841b327081b37a5e18efdf9fdfeb3c83d5c2222253cc1f198550174d0a97df7564686cc86f6d8b1aaeba3d046be886c34f3c3bb41d455384070007f32dbacece64dfa292aca00be98268f438b8ba0ff3998a306e0ef9499901b00832ad8cd1c67c7036f14a53d24ff4a559ea02ad08c9f38807c17524fee1d3cd139654894b3b22f319ac888b904884643a8ebdd8abbf7f09cde46762f03eeb0ef00e662245e721d50f505eb5d24caf44b1095320d2bb7d74def75111d1c6dc1ee460b449fc3c99313b80ce162736fcad",
+  "imageName": "894b91d6-1c35-472e-9002-5e1ff46c2935/queen_noexif.jpeg",
+  "region": "EAST"
+}

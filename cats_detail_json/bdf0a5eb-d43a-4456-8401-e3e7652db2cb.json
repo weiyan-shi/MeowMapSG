@@ -1,0 +1,14 @@
+{
+  "name": "Socks",
+  "catId": "bdf0a5eb-d43a-4456-8401-e3e7652db2cb",
+  "sex": "Unknown",
+  "personality": "Calm, approachable. Curious.",
+  "likes": null,
+  "dislikes": "Doesn't like kids chasing it. It avoids the area for a couple of days if there was a kids chasing incident.",
+  "other": null,
+  "dateCreated": 1673916566648,
+  "dateModified": 1673916566648,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/bdf0a5eb-d43a-4456-8401-e3e7652db2cb/Socks.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131354Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0246e865e519e5aa4ecb734abdca68fd219363d566bd91bc83209941b1e0e2a77cf702365700719173c6a4fed9e15e3f17e945167f90113930688fd96801b784c70bb2afac894f310b2a52e6f6e75f9c38f39d1217db71bca65b8d4d3ae2723a2d9f9fea36d2beccba636b93efb2324c3c12ef4732ca54f5609ab6c7edcd32af8cc16eea55455bd37d5c5caba5130d7f80aa078213f5e85a34facb121d40d8c5773462eb70ba3bebf2ca2059ba058faea0aae848d3202b452e7209c1174205d83424d0ea5b9992551fc01be6d3215b122910ecb01d863f76b6d948fa57379ea3fc0d638035ec02597a9819c4358e3d35bb1ea97345c76c3d75ebb04d1036e7fc",
+  "imageName": "bdf0a5eb-d43a-4456-8401-e3e7652db2cb/Socks.jpeg",
+  "region": "NORTH"
+}

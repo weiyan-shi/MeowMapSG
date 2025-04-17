@@ -1,0 +1,14 @@
+{
+  "name": "Piper",
+  "catId": "ce81c909-1736-40de-9270-d5694a551c7c",
+  "sex": "Female",
+  "personality": "Chill and cute community cat. Will meow for food but can be indifferent sometimes depending on her mood.",
+  "likes": "Tuna flavoured treats and belly rubs",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673976209076,
+  "dateModified": 1673976209076,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ce81c909-1736-40de-9270-d5694a551c7c/Piper.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130904Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=69c61592c4eab5cfce6dc1a1e1f67dd2ed3c54a9e4c8b341cebbc8982ea49dd1544b442d153559cd8c0f5986282082accbfe7b3dbb841a921bf6c03402c569aeb977ae54e0f42db61cc88593a95fdc6a1cdd614834aaa76a63d8b6626c9d730cf7b2e901acd67881e63f0198a270bd2ef8aef56747612cd619e304934851862e9d425c88a8416e969a0b68d755f8d50938efb75eb261f3047ab70be92eb6cd72b13f63d0a583abe591742f2c5d53367f0e7c569b04c9b86ba0810e86421586f9504d2ea9b90695ec2835fbadad19f5bae0bda8429f8f46dd0a9aa41813b940612947b97d07dd493bab41b7f3986a3571b00b3f5719c28a64bb3c1434d6566795",
+  "imageName": "ce81c909-1736-40de-9270-d5694a551c7c/Piper.jpeg",
+  "region": "EAST"
+}

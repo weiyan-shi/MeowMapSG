@@ -1,0 +1,14 @@
+{
+  "name": "Oldie",
+  "catId": "4cf4bd81-c311-455e-92fc-930fe83e27d8",
+  "sex": "Unknown",
+  "personality": "Chill",
+  "likes": "Food",
+  "dislikes": "Rubbish Buggy",
+  "other": null,
+  "dateCreated": 1673934979677,
+  "dateModified": 1673934979677,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4cf4bd81-c311-455e-92fc-930fe83e27d8/Oldie-NoBG.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T133720Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0eb7b56b11ee251e508a860b2482e74ebb0fa402e7c0d59a55be5b0b9fa47ae0afb77f9c8d23b798d4437e81fa47dc6ab04f958b33df01f2d2de8ffaf41390b0110f8f0ca2df16ec1a7de41c1508693eb5c13179c3baad42c85871cac5efb925159f7160b3c1663875d2e1254475e372ff8cf871f7fff1cd99f611bbc8d5bb8d0cd2116f8f6a45a3a5800e9b5513d03cd993c7773b5947f8baab7759cb102af2c8fbf4bd5ea088c810c464cc4532d39b39bb122c70dc7e27a9bd3e8c090e98773ecc2b13fcba67d9277cd3f374be1b8eb7d8e9644b80fb75b91fad1d19d9b5c246b96b960667f75e874f92b51043201f0bdfc99f0b1703df0405094edac20d30",
+  "imageName": "4cf4bd81-c311-455e-92fc-930fe83e27d8/Oldie-NoBG.png",
+  "region": "EAST"
+}

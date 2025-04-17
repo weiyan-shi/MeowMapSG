@@ -1,0 +1,14 @@
+{
+  "name": "Ginger",
+  "sex": "Male",
+  "personality": "Close to humans",
+  "likes": "Pats&catching mouse",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1714306802184,
+  "dateModified": 1714306802184,
+  "catId": "453c0fcf-6f19-4a64-ba70-a64e272c45ee",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/453c0fcf-6f19-4a64-ba70-a64e272c45ee/ginger_noexif_rotated.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T013418Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=56072227071dd09dc50f12bf2a0ad6156c8c4db0b8e2f7f7fb99a5d23ff5202d0a263f145631bc5fd94c2c303960e94884aa428023805491f0887b9e05a8411d698121f4fb0a0c42fc4f704aed555e740c51333d8f239f0bfddcece917fde5f2898abb4dd3a7bc8140ff3648e31b74d96afe4d018144d116692ad7caca5d63b729685c4d8f422bb2caf21f876507ada00ceb4feaff12c839b54acfde425216645f48ba570383b82f14c07e22b9051ebd14c5b61a38d55021f6a7e38d6255fdb355d4dbfba973883621be597b748c8cbb383c45d7462668a282aff94d48f6b5690dbe2014c9b77a56e166f4852c72c11c26f6f3401d93e7f3ded23418221c22e7",
+  "imageName": "453c0fcf-6f19-4a64-ba70-a64e272c45ee/ginger_noexif_rotated.jpeg",
+  "region": "WEST"
+}

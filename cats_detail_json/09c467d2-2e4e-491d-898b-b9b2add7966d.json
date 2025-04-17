@@ -1,0 +1,14 @@
+{
+  "name": "Persimmon",
+  "sex": "Unknown",
+  "personality": "A sweet fella - will approach you quietly and rub against your leg",
+  "likes": "Petting",
+  "dislikes": "Loud noise",
+  "other": null,
+  "dateCreated": 1674542890636,
+  "dateModified": 1674542890636,
+  "catId": "09c467d2-2e4e-491d-898b-b9b2add7966d",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/09c467d2-2e4e-491d-898b-b9b2add7966d/Persimmon.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131514Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2eca5b7c55597398128b9f209f6f7c4fe78737d63da73c04664b73153a58f10c39d15e77301209b2f5355f2fadb1c1778177caf5fe84669d36ef76c7436d86754a5f43280e9d60774c9aaa44545db3078633c20150da19d756149cc97378ce9601623d74d24e4a5bbabaf94457f39b1104f1302a7790d1fb5b86c4fcf641844401a75299df98e5bba5607f2eb1e2d67066288ed7f04a6f73b31f5e4144608acc8869d9fcdacc010d6c96c22cd65de172a37436df20d147b7473c59b7b8b726dd54692cb05a557ce5374d020b8fe51a137556da01b7453888ed31fcc6362710b31f97937d6df3f5ce36a1c74700b8f288a01ade0ae50903328d679d0db2d15b78",
+  "imageName": "09c467d2-2e4e-491d-898b-b9b2add7966d/Persimmon.jpeg",
+  "region": "CENTRAL"
+}

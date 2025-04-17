@@ -1,0 +1,14 @@
+{
+  "name": "Sir Benjamin III",
+  "sex": "Unknown",
+  "personality": "Friendly cat that will approach people for pets",
+  "likes": "Head scratches, will lick front right paw when scratched.",
+  "dislikes": null,
+  "other": "Has a cosy wooden home at the void deck and is regularly fed by nearby residents:)",
+  "dateCreated": 1737995644934,
+  "dateModified": 1737995644934,
+  "catId": "67665dd5-e999-446d-8b22-900ee527f3ab",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/67665dd5-e999-446d-8b22-900ee527f3ab/sir_benjamin_iii.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131618Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=631d08b5b78755b6aed3bee62b2510241322317f31b6defa6a39b40a6699a48cf6096f6cc4f59e68fd9d83c9e0b39eb9f38ecec0efd694a0458ed693880252f870a280c46630c7a12d7121d44a3954c44098c845fc1a63554b8871ad6af0422d011790d355aa6a0e7eaff15ecda89adae27a7077da6b6603737beea75aabd2788db1d8c38286f68d14c7f982607a274022195d524e3451709a23350c5536eab8639a408bddf8f481f118a72649bb8715a3cbe82528f0f7a6b2a0c7b81786107e27e87e6a97ac86ae5a8661cdd7be3dfc2d9c77fbdaf101ac8d6155cec242919fece4cb0472f0c60eb0ddad2145b1bf768cd3c0a317762cdba205748d4c17b4eb",
+  "imageName": "67665dd5-e999-446d-8b22-900ee527f3ab/sir_benjamin_iii.jpg",
+  "region": "NORTH"
+}

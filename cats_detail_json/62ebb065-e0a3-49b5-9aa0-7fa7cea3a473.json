@@ -1,0 +1,14 @@
+{
+  "name": "Johnny",
+  "catId": "62ebb065-e0a3-49b5-9aa0-7fa7cea3a473",
+  "sex": "Male",
+  "personality": "Weirdo",
+  "likes": "Starring at skies",
+  "dislikes": "Touching hand",
+  "other": null,
+  "dateCreated": 1673950887607,
+  "dateModified": 1673950887607,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/62ebb065-e0a3-49b5-9aa0-7fa7cea3a473/Johnny-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T145426Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=63adb9b8cb848bdeb4f873b18c8633814b5d35ba28e140f7d8d5d040275e4c636fdec962b06d7d2cace791b506ce5a5605106454a0ddba40c0350a27566e5ab777f2243ac1bd674d89ae6591d30cf293030caf0b304d8359e5e2dcc0a4117fc0b27df203a5476524758fbdcb4a42979fb831f3edfa5bc383270e301f64466b51a6bbf3397d2f7167ee8bd36ccee561ea9f43283ba131cbbea784e466f20f51751c1654a8aaf58677c75e938aa81aaad5c86476e8de2fd10d772b9d459765d7c548afaacd26dc3973a241c63871e188566d2da852a88b8b8bc299aaac3d31f4059e5cd3c14b947d17108f22752a52394cc0cb66fb92865cd7e64175f2c19c1a56",
+  "imageName": "62ebb065-e0a3-49b5-9aa0-7fa7cea3a473/Johnny-blur.png",
+  "region": "WEST"
+}

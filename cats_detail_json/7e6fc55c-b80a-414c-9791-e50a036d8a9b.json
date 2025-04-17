@@ -1,0 +1,14 @@
+{
+  "name": "Tommy",
+  "catId": "7e6fc55c-b80a-414c-9791-e50a036d8a9b",
+  "sex": "Male",
+  "personality": "Friendly, often approaches people",
+  "likes": "To chill at void decks",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673895885551,
+  "dateModified": 1673895885551,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7e6fc55c-b80a-414c-9791-e50a036d8a9b/Tommy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T185831Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=669f61a6ca23a4b16148121b1c8288fbe3cbd18629dc8c0bfd499e7916ea06440aae3fbd5e6675eaca007b26263ab9ea13bf506643abcd6f97c7c36dd01dbf4bb7f1a02b596e3b7dbcd484e113dfc1e2350ed3ddf1b64cf0f68b8d9dbebf203d6a53d6bb6afe16298c46eb1dc4313a67c8cf0fcce818612f2304c69f986c345485532f38dfdfcde63b59a17996397b3a67d5dc7a303e2431912f8093b93f9f00c3da3a72141d241a0847f4f33e70d3534418991eca350b47abdc4e44f3227a3dd4f6ab19c7b4e7fd11ce464b5e9d1dc5a3d4c8e7f68c48fe7905d93739eac93647af8880d59ede441d811d91277b74c327a6d5139672be1c95b5acf7605650c3",
+  "imageName": "7e6fc55c-b80a-414c-9791-e50a036d8a9b/Tommy.jpeg",
+  "region": "EAST"
+}

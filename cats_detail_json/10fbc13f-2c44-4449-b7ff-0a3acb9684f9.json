@@ -1,0 +1,14 @@
+{
+  "name": "Pessi",
+  "sex": "Male",
+  "personality": "likes to sleep alot under the block",
+  "likes": "Being pet",
+  "dislikes": "other cats",
+  "other": null,
+  "dateCreated": 1676806644280,
+  "dateModified": 1676806644280,
+  "catId": "10fbc13f-2c44-4449-b7ff-0a3acb9684f9",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/10fbc13f-2c44-4449-b7ff-0a3acb9684f9/Pessi_noexif_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T075007Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4fa327a0dd7a60ce40cd6c8433c4b4a9272eb6caccefa778bd987b476f1c3fd0cb342c85e65e1e824765d55108b4e0cedec088391a95187a7d8f4490f1f520a49f577777b7e0341808ccc013f618b95a80d334933420dfbcc1b2cdbe5094711f1052daf219c2071233da92898c19f2b4bb826f550ad289d408490cfd3cfa0a6d3073dd74e46b5def5d8815c38c5a3b1fe88c1293d2be9592361be8a095202c21dd086d1a0f25f68437275cf80fb2ea2bae5fee822e3e16bd244bbcd460f7386b62541692c8ae71a26f2192592fdabe37a45a53cac87299f392c195ed1ab41ce675b6629f8f24e1ee1520facf4228e5844ea592a4b6bcefa1e108d2936c9abdfc",
+  "imageName": "10fbc13f-2c44-4449-b7ff-0a3acb9684f9/Pessi_noexif_blurred.png",
+  "region": "NORTH"
+}

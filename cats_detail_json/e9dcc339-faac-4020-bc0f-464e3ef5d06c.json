@@ -1,0 +1,14 @@
+{
+  "name": "Twin",
+  "catId": "e9dcc339-faac-4020-bc0f-464e3ef5d06c",
+  "sex": "Female",
+  "personality": "Very derpy, shy",
+  "likes": "Chin rubs and patting the butt",
+  "dislikes": "Loud noises, sudden movements",
+  "other": "Has half a tail",
+  "dateCreated": 1673929877675,
+  "dateModified": 1673929877675,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e9dcc339-faac-4020-bc0f-464e3ef5d06c/twin_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131408Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=05a19ec2eef6adc39e33d8abfb1be57341584e08a8bbbc928583ea70b926ccf49578ea25f7703fcdc2f68831d5041a345581bc7370b11f0d1fa6c4446f746d24a03789856c8b1218d3e59b688b1bd89e8ea5d1a86803647adb471927ce8af01c3843159893946b2225886d5b80e65747827adc0d9fe023b340008f73eb9ec3d73a05513853e848c8432735815d79f40c35f346f2838f370e0d2671ebc9b211bbb1e4fd793dec34b21559ffa17603d5ced60a663726ab889433b2a6de8ffc1427edf696132ea86cae7931d465c8e60fb27314e1c7b9ac4ff11c3621644f8bfd1ddb94b008d972fdc270928907b04c629d5bee3340adf44d509ab4287b45e59ff0",
+  "imageName": "e9dcc339-faac-4020-bc0f-464e3ef5d06c/twin_noexif.jpg",
+  "region": "NORTH"
+}

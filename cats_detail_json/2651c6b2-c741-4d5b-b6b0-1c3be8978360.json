@@ -1,0 +1,14 @@
+{
+  "name": "Ming Ming",
+  "catId": "2651c6b2-c741-4d5b-b6b0-1c3be8978360",
+  "sex": "Male",
+  "personality": "Clingy and loving",
+  "likes": null,
+  "dislikes": "New people",
+  "other": null,
+  "dateCreated": 1673971189363,
+  "dateModified": 1673971189363,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2651c6b2-c741-4d5b-b6b0-1c3be8978360/MingMing-blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130829Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8ebd9c660f8d36513dd93cd24824ea351c764c8c732f27fc3201375d189ab684acce6eece25ba15615ed0dc639c3e63d34e6e9492d0c23b7669f56f3fa0be5bff406a2e40e9e487a2c935c466cb404f0d260d12dc2a90628afa8241f736b525675d7478d2498771a16c4bce74f85c8c846991f28c19859914ecdb594ee03b7779caa56ce8c79b0cb95731f24c7ead69e4df1bcff0287431d3534d528c28e4a3a10bdfa179cc8d54c2678d95e20bed3938ef044c7cc4f3aea1257e1b8326a7a93b35f03f5e9d485a7a632f723f28dd401dc0e8333558469c73ca6cc24790b3691586685998276019b2034e35983cecb8c52200422098c1c2e475aa6b12b5a52f0",
+  "imageName": "2651c6b2-c741-4d5b-b6b0-1c3be8978360/MingMing-blurred.png",
+  "region": "EAST"
+}

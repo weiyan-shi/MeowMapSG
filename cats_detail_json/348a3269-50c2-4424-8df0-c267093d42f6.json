@@ -1,0 +1,14 @@
+{
+  "name": "Macchiato",
+  "catId": "348a3269-50c2-4424-8df0-c267093d42f6",
+  "sex": "Male",
+  "personality": "Very loud and constant meower",
+  "likes": "Rolling on the ground\r\nChuru\r\nKibble",
+  "dislikes": "Being touched \r\nStrangers",
+  "other": null,
+  "dateCreated": 1673872971922,
+  "dateModified": 1673872971922,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/348a3269-50c2-4424-8df0-c267093d42f6/Macchiato.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131300Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0cb420ee20c00d9e66e91424e7a553719d6d73a247bd74f018fa3aa6f4d3618600a130432179dfabf87ef4084faca9f523f21d169366d6c6de9bf6685341c94809e8081cf847879498e7c84bb48c25ad6cc8e6021415b50f51d4387a6739e008c2dd2d59921c32a885b8f0a84dba4ddb3dd553b58e8828ef509de5c9571bcde5173fb2fd772caa98df6328dead095d3fd3725dc59f3b2aaffa9d3d1aa323db92c37eff264f93a902dad018b601bc5631b92a6c0925563dad56c7e5fd3d9feb30147cd92e0d0ab59c7b993cf618d39763785f4146a95ff74a54d15189002dce06c8628bde2a9f747b4ba46febc445a65102de9cc89137a3cf7db36d99c086b668",
+  "imageName": "348a3269-50c2-4424-8df0-c267093d42f6/Macchiato.jpeg",
+  "region": "CENTRAL"
+}

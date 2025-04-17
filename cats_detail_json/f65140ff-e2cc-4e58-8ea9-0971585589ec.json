@@ -1,0 +1,14 @@
+{
+  "name": "Leo",
+  "catId": "f65140ff-e2cc-4e58-8ea9-0971585589ec",
+  "sex": "Male",
+  "personality": "The big boss cat",
+  "likes": "Food served directly to him",
+  "dislikes": null,
+  "other": "Old injury on hind leg so he sits weirdly, can't jump very well\r\nHas a funny run",
+  "dateCreated": 1673921392804,
+  "dateModified": 1673921392804,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f65140ff-e2cc-4e58-8ea9-0971585589ec/Leo.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131358Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3350971f0e0218dbc3a60bb93b55a847e6e15953072c54548776a8961c8d2943d2857d3732f0e78738417f7d361e5512958b47680694915c7cc87e53b190c269d470022b89a6fda74836ca2c02b58599d4c70307b2b9bee2ff6133814643e97d425f04f8b998521ab94f00b7a8209e980097507f25adf8ea831c4bfe426392aab905c449fa4c181f791862f3d52ed6877cd8bd8aeb078e695d2ccab87aa33931fd708a99f7cc02d32cfa2ce776782beec57bf5cf03b1a36bac5d53fbb9174237fcd3bd5fe375f77aafcb05c44d8e094beaadf2b3931ffe4bc00d08b75da083fd863dc7a16fe450adea56b2e4acbe4a47e9112f252a8df7d867645862eecd9137",
+  "imageName": "f65140ff-e2cc-4e58-8ea9-0971585589ec/Leo.jpeg",
+  "region": "WEST"
+}

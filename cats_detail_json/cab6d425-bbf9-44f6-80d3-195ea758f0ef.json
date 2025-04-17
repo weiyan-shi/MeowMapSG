@@ -1,0 +1,14 @@
+{
+  "name": "Bebe",
+  "sex": "Male",
+  "personality": "Outgoing. Loves pets and butt scritches.",
+  "likes": "Legs \ud83e\uddb5\ud83c\udffc\ud83e\uddb5\ud83c\udffc",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1702852709319,
+  "dateModified": 1702852709319,
+  "catId": "cab6d425-bbf9-44f6-80d3-195ea758f0ef",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cab6d425-bbf9-44f6-80d3-195ea758f0ef/bebe_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154541Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5a6d06651bbc98bbcb58a574e0f20a96d2a67f64567f689266555b53f4c264a745a9e8c751cfa4858e40869af6b47dddc06324b91fa46dbbf30183d1a5055f782d4e373ad50366ada394de463158a0024c3a014279b14b0876ea19cf719ef086b66671c54e16da78ce26ffdd3e1cd9f69283fbe8e2622ac1a28274df56e579139aeddc2e32572a5c732494ba06fe6ab3f1ff4fd737b5f46561b9542dc427da1654b14ac2973e43c204b290802bbdba3e6a2c870663bc290bd291fe44323ea0e10aae1425ac469ba7591541b255f81de587a2cbbb3bff2848a21a4ebb6ba43e5f38ac8bfb5c9598948525518590eac75c1742155bf62231c67d56ba4f1adc8c7d",
+  "imageName": "cab6d425-bbf9-44f6-80d3-195ea758f0ef/bebe_noexif.jpeg",
+  "region": "CENTRAL"
+}

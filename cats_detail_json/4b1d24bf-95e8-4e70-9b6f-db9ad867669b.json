@@ -1,0 +1,14 @@
+{
+  "name": "Oreo",
+  "sex": "Male",
+  "personality": "hes an old cat who likes sleeping",
+  "likes": null,
+  "dislikes": "hot sun",
+  "other": null,
+  "dateCreated": 1728548760450,
+  "dateModified": 1728548760450,
+  "catId": "4b1d24bf-95e8-4e70-9b6f-db9ad867669b",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4b1d24bf-95e8-4e70-9b6f-db9ad867669b/WhatsApp_Oct_10_Image_%281%29.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131611Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2067553259db96711347dc933c4d651c4ae964454e558cff67359a4a5c0f229faadf5b648c64a8d0eea193b9e1e1f32cc409c748a894e21d4525ee8d8844176781506ae9f7993d2958bdb816f5b74075928f0c69c898964176d5ba885463745fefb0b5ffe188a5b4b986d5c7adafd57310574cce0bf7b48a836d59a487dabcba57550f65fc214ede04f91c47df716269a2a05a0cb8824b44186ff23f6d883c837c09151e0771bf23fc63a9365908bf73e8515327d830771afb03813a39cfdcf5c63978c3c936c060b397696f97174635984087ce78774a2c268025825ae8e81a158d4c0a6a606599ea1f7eba1078bad3920c9bc1ae6711d3e9b23ed5ad7ab581",
+  "imageName": "4b1d24bf-95e8-4e70-9b6f-db9ad867669b/WhatsApp_Oct_10_Image_(1).jpeg",
+  "region": "WEST"
+}

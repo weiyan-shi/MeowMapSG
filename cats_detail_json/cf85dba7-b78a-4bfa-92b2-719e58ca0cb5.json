@@ -1,0 +1,14 @@
+{
+  "name": "Tabby",
+  "sex": "Unknown",
+  "personality": "Friendly",
+  "likes": "Likes being petted by people and likes to chill around the neighbourhood",
+  "dislikes": "Dislikes people touching it's paws",
+  "other": "Has an owner",
+  "dateCreated": 1719131146986,
+  "dateModified": 1719131146986,
+  "catId": "cf85dba7-b78a-4bfa-92b2-719e58ca0cb5",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/cf85dba7-b78a-4bfa-92b2-719e58ca0cb5/Cat.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131606Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7caaff38e187fbfa012a640eff695ff34de528cb730b69d43dfbe535827e694f661d77cd4a6839b75b0485212ad20895b4a725fd571a124bb2479c4dd28e9c1423631be0146f0bf32c58a0aa869fcc590de872e7789f849996aab25203bfe204ebf7965c68d654b00ecebc76cf4d54c5c525f2e257b01121cb62db09393f53338ae49ef9a874ff59d809c7c5b1ec01394fe9cd4617ccafa622627cec9a048a6124309078a2efaa4949238d94e039d7348bfe42358b135e300531843febaebcb7bb287a547047002fadcb95b600530343fb1aad2d86c87d9eabb16520c5b96356814c0b2d0bb8ce72d2b28090c7721ab6630cab0af2b35d79b3ec5c9139d0b7ee",
+  "imageName": "cf85dba7-b78a-4bfa-92b2-719e58ca0cb5/Cat.jpg",
+  "region": "NORTH-EAST"
+}

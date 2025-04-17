@@ -1,0 +1,14 @@
+{
+  "name": "Tigor",
+  "catId": "006eee24-29a8-433a-82c7-1c46ec6724db",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673883947577,
+  "dateModified": 1673883947577,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/006eee24-29a8-433a-82c7-1c46ec6724db/tigor.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130825Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=489f9bb9986c0908708de2b29b32bba02cd85a93ecaa283e5cb8b2270a6f078402948b71ff5194dc4a204762903eacb5a69193a80534fd51865ae78e73611c1b24a96ed205082549ec74488743df789b129f1253bf817ad657c4d4545f21399805378c1290033c0c0dc29368b9839a1038f18f37e380d366e008049956404decbf461c6a8f9fcacd1033d912fff740ee14de6363608240becb2193500b10c6fd0354467cb20236f2496ee2582f22e46fef0ebfee04ad3845518735c2d5699bacc41c6449a73b6e26fda93352a859686786efd4dc81cf85a0e7c762f11fe7d574fc9ade7a34c66ca751e2ea9dc86e04bdac7219d14a5de01323008535a0dd978e",
+  "imageName": "006eee24-29a8-433a-82c7-1c46ec6724db/tigor.jpeg",
+  "region": "EAST"
+}

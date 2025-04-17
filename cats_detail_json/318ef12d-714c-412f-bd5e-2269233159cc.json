@@ -1,0 +1,14 @@
+{
+  "name": "starry",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "not spayed",
+  "dateCreated": 1717329610365,
+  "dateModified": 1717329610365,
+  "catId": "318ef12d-714c-412f-bd5e-2269233159cc",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/318ef12d-714c-412f-bd5e-2269233159cc/image.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130837Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4bcdb03e051fd67f61aa9511f8eccf3d654013a0fe953c0d6b9a729ec163ce6dadd9a864c3bcb9e8e3800413ea3d6507f74033a0d7f1261f333c267f0cdeafd57fa16102333d1ab52def16515dd7be5e97f79b741856c9720694886ed12e85f8b06665468cb438ba10ca073dab54575dd08c1da2c3b6465e14eb41e652e179b8ce24f36703f57d4c2640d5b9edb29bdc577a3925e39b023e9a8e0b36c70de145163e9750c59e7c80768b7ddf92176206178f37c59a7878b20c80ab4c8cf2991d32efd43b4d684058fa08027319df9a5a3b7f517603b25874c912f2fa7437fb3651ae7de10c9d867543ae70630004055b43c484d79017553e5ad945789668c4cf",
+  "imageName": "318ef12d-714c-412f-bd5e-2269233159cc/image.jpg",
+  "region": "EAST"
+}

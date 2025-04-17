@@ -1,0 +1,14 @@
+{
+  "name": "Snail Kitty",
+  "catId": "c583faa2-22de-4a53-8f00-51821f4501db",
+  "sex": "Unknown",
+  "personality": "Highly athletic and born predator.",
+  "likes": "Pouncing at lizards and snails on the walls.",
+  "dislikes": null,
+  "other": "Enjoys biting knees and simply nipping.",
+  "dateCreated": 1673952838564,
+  "dateModified": 1673952838564,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c583faa2-22de-4a53-8f00-51821f4501db/Snail_kitty_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131044Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=23225549c0b3852f8ebdc9fc8a1f8669a786b0dc52401724d378ec3157f17bd4e7782a73c90970f6bf14c465c31c3ac5c842a7102f2dace2b339d27bee77a588e4ac341df59b71282b73131a0324facc20915dd221f4d538ced73eca5afcb5da4d69df9996a28f1f6899c2a23239f51449ae920051d41e81d200b1b3a0c174137b30c61b2f77b697f7f4e91913cc73dd8da9d90f61c3d51c034226815cbbf41c8d09e4500bce0ecefd8082a228a82c63150455d9eadb018064a6cebed6ee4de68f7a68583ad468e34aa6d00e9e553474aaa1aa6380f523ea01e8c330128d1e17a082d6c0d9c1394b06998813fe5f52a62b14614ef4150c0421630f63e7708728",
+  "imageName": "c583faa2-22de-4a53-8f00-51821f4501db/Snail_kitty_noexif.jpg",
+  "region": "EAST"
+}

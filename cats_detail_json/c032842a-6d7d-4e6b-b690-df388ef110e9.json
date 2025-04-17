@@ -1,0 +1,14 @@
+{
+  "name": "Church cat",
+  "catId": "c032842a-6d7d-4e6b-b690-df388ef110e9",
+  "sex": "Female",
+  "personality": "Very very very cuddly, will tolerate cuddling and everything. Will paw at lap before loafing so beware of claws",
+  "likes": "To sit on laps, rubs all over, food.",
+  "dislikes": "Cars",
+  "other": null,
+  "dateCreated": 1673924427698,
+  "dateModified": 1673924427698,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c032842a-6d7d-4e6b-b690-df388ef110e9/ChurchCat.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T004208Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6adb09f0243d8b4f4cebcdf097e6bc4dbd4410521d0c391c7a6f77daf35cf914bb3b302b606b94c5e66935b22223f9bdf4983598be5c443f56099f42891bed98d286d59697e2e75939e66a2cf82357778c3e61e35e1917921f765672452326eccd64e0becc8db473225d584994cabc67e1b02acda6c458de63d0c26efefa7fe3b3933673a6f97e776a36d477d9590792f36b08c7c5f899d7056970ab4d5db2a9414edf69ecde6e4785e77c2e29f7bc8feb7c3f5326d0deecf3fd1f800cf6d8697c9ecbda482dca406a7038f3ff66a9fa50cfc814c0de7d8ea925c27b8dc635912b6d719163fc63174f03932bef85d72a63c918fdbfdb2bb938107a5ffab1f616",
+  "imageName": "c032842a-6d7d-4e6b-b690-df388ef110e9/ChurchCat.jpeg",
+  "region": "CENTRAL"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Tuna",
+  "catId": "478b57f8-c9b4-4697-80a1-a59c4e79778f",
+  "sex": "Unknown",
+  "personality": "Very shy",
+  "likes": null,
+  "dislikes": "People",
+  "other": null,
+  "dateCreated": 1673957477616,
+  "dateModified": 1673957477616,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/478b57f8-c9b4-4697-80a1-a59c4e79778f/Tuna.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154430Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8eb2836be1d5a1ed4c559baa90a20e863d2b42112cb78108e997619d5e383d24e517fb1215d3b2cc4314a7c86a79333d5bda565b3e9409f3681944c8ba78245362133c36ca1ddc4007c8117a2c430e9c22189f496090298552f581ec21b805902586e0331a2efc3de154a3e2f3972ffcc7a260448d20fcb19818886d626c7cefff536db9a7031c13a14f3eaef8b2a19860a0d20ccc7307c2ef8919be23953151b2ed7e5b0cf4f4d853e4472f91b84d16a1a16636cca96ef700c1a293166a39842f976eaf149570799d0dc70fc4e3592e66dd86c1119e4f825203d34b24852c1961aceb634dd12722d880b792cf71908fc59704e869832549c958d0011a175ab9",
+  "imageName": "478b57f8-c9b4-4697-80a1-a59c4e79778f/Tuna.jpeg",
+  "region": "NORTH"
+}

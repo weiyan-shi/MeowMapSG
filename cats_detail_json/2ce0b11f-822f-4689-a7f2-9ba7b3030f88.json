@@ -1,0 +1,14 @@
+{
+  "name": "Cove",
+  "sex": "Unknown",
+  "personality": "Very polite and friendly cat who loves company.",
+  "likes": "Rubbing on people's legs, sitting on chinese chess chairs, it's friend Charlie/Loaf, resting on the grass nearby, food (obviously)",
+  "dislikes": "When someone annoys Charlie/Loaf",
+  "other": "It has a really cool white muzzle with some orange. He also has orangey paws.",
+  "dateCreated": 1691202792836,
+  "dateModified": 1691202792836,
+  "catId": "2ce0b11f-822f-4689-a7f2-9ba7b3030f88",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2ce0b11f-822f-4689-a7f2-9ba7b3030f88/cove.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154633Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4caebb45c251c647a5244c1282416dbdc22c73fb12aa91b95de5153129af33eb66378a6f22205f45c88cbf7b78e383ccdc9f0e66ec2f98a11109a915ef7305675cba5cf2a24d2cb540c6dc7cbbbe7605e3e0b89a450ca853106a05221415aaae60d6fbf6c162ad3f56effe96af1ca943cfe7fc92fed7d5543b5af5efae6900cf27790e59df0df326439a5ed26e907aafa5eb4d956f5bd8209d6f218c073922093ea2b27699a052838c0d6fbcb31844d353090280b158d850459a5b1e41efb25ea1d7fa75b1d98a2f21b388eeb84aae1fe30e516d0b17a5b4fb1bd8dd19e8fa79207db2b55c6accef97665e553cdf0f8c65815d4aaa6de9c1dfb9ba0ab68c4748",
+  "imageName": "2ce0b11f-822f-4689-a7f2-9ba7b3030f88/cove.jpeg",
+  "region": "CENTRAL"
+}

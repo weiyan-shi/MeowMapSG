@@ -1,0 +1,14 @@
+{
+  "name": "Norashiro",
+  "catId": "fca21bf3-f2be-4351-a8bd-de4740c82242",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Afraid of humans",
+  "dateCreated": 1673919564105,
+  "dateModified": 1673919564105,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fca21bf3-f2be-4351-a8bd-de4740c82242/CC1DE90E-142A-4050-BB20-027F8C714E38.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130840Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=890b462ffba1eaf31b3d6240511ffd1e62c41440c525ce33f8b918bad3343812bad95ed59554587444a6dfc669dd7d46455d3e67c412e46f20a7801f4619edacce420072d2646e58181e204db42bbc0556ca94a42a8fecdbb34e4d3a0e5798cce7aa5affa239d75f7e62c5ee7845e75dc255ed062c7290ca2d32102f2429929139eb66721c59e9c2c65b8f945c798810925586770acd13d83b6b3d5f7dd1aeef05ceffa0e18c266a764614494e27a12b1c6ad57ddd86e2ded4b62ccf2762d3711182731b9b33f7162d29f57d03d4d8da5eb422ee81f701d2860f991139053c1e915ba68dbda261bca09d6f3709aebbbad9bb76502e1e2804dcd5e9a888608435",
+  "imageName": "fca21bf3-f2be-4351-a8bd-de4740c82242/CC1DE90E-142A-4050-BB20-027F8C714E38.png",
+  "region": "EAST"
+}

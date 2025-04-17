@@ -1,0 +1,14 @@
+{
+  "name": "Goldie",
+  "sex": "Male",
+  "personality": "Super friendly to selective residents. Otherwise shy",
+  "likes": "Cuddles from selective residents",
+  "dislikes": "Other cats, except Oopsie. And doesn\u2019t like noise either",
+  "other": null,
+  "dateCreated": 1680500316180,
+  "dateModified": 1680500316180,
+  "catId": "36bca0bf-83b2-4249-b60d-056279566595",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/36bca0bf-83b2-4249-b60d-056279566595/Goldie.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154610Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4c1b2cbb558f6c9b1a17dbab0fb928ff17d2bcb3a8bca2b47460403ddb44940bae30b836760dbbab6292f2b4ec7f01788d8bef2bab244fee4c98cf00901f549683256ef6462f709b2196f13fc4ed7e742abf263f4d44df30cdb73394b23ee9105c2d14682c3e9dfdb41114005632e02447906b829612a5e4268cacea9c59f55d574c365bebdaac046a1e8c59cd0247f03d0a53bf8c0687b54050fa51d2b462cea9de1d174a098e89d21a8e07bf305035c5021a23763a67c64cf6751357794efc53549387bf2d3ff786afaabc5a859fcdedc2bb65daee7c7983e549c81461c188e9a07c055909865ac5ea139e36a216e3aad2cbc92ec3c62c29015c6a89ea5b73",
+  "imageName": "36bca0bf-83b2-4249-b60d-056279566595/Goldie.jpeg",
+  "region": "CENTRAL"
+}

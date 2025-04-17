@@ -1,0 +1,14 @@
+{
+  "name": "Handsome",
+  "catId": "a713a988-5c2c-4695-911a-1c9f42dfef5c",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674031420959,
+  "dateModified": 1674031420959,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/a713a988-5c2c-4695-911a-1c9f42dfef5c/Handsome_2_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T075009Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=121b4f21b4d7bfdbb1c18d272d329d8f48a70fc8acd3b652da6e0071d818f8764060db3fb9b8aad551d5339322f6d1d1ba5d6dae7013bf77c2769dc0cf480a3fec22f17833b7b8b9473f9c196d33e355be9fa3c8d2030a4bcca689369a1d06c9c3ddd75954e530a6d8606ae9d8c661cb3484874a58d7d7edd55f561c804ca7dff1c8bcb54c0bb9d3c92a5627744c41799d23becde0f52cf09585d899c394253f7d3f1fcc2e7aef51c711fcb1cbc896ff5da0570e8046cdcdd0e0d480b671b30a67adbd8a87a992bb1ae7a324cc28397f48afe5c738991986177bf8e4d83ad8c7b6e0b121f8af3a98936e436d213645da94fc7f7ddebc40202766d455bcc4efcd",
+  "imageName": "a713a988-5c2c-4695-911a-1c9f42dfef5c/Handsome_2_blur.png",
+  "region": "CENTRAL"
+}

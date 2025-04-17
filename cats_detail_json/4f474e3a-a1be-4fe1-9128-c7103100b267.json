@@ -1,0 +1,14 @@
+{
+  "name": "Meowlon",
+  "catId": "4f474e3a-a1be-4fe1-9128-c7103100b267",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Rolling around on the floor, eating",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673884271445,
+  "dateModified": 1673884271445,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4f474e3a-a1be-4fe1-9128-c7103100b267/Meowlon.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131339Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5fa2c7e221bdb52cb2e1a8fd26438200b45d84c5c20836fc71e860f3b21cd2bb7081ad94e0b5f16a7929aaaffecb211364a6ea5f7d1265f927b6baf00f82dfd148c880c6a60d69c0d67b5de20a9833fe7cda5499910a939b1c3cf97bed04e6194dce4a551872720897652054ec826bcbc71aa78b40b2bf870a3544a71373db354be5eeab4adb0b374d2b4c6300e3120dd14e2db9d7734afb33177617eb4632ba7f10cdec5db11adcf6382632c4be9ef7a4e6da6a9a3733f777ca69fc6c5103b3a1d6d11327b33ab24df3971fa7fea8488e4756a2b6a0c567d0f80f0fc0237f076e65884ca270a307aa62590a224a97b80d0678b907a3c3387f102b670a53e362",
+  "imageName": "4f474e3a-a1be-4fe1-9128-c7103100b267/Meowlon.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Shukrina",
+  "catId": "9ea827e3-957e-4197-a395-c39bc37f9405",
+  "sex": "Female",
+  "personality": "Very affectionate",
+  "likes": "Sitting on laps, food",
+  "dislikes": "Rain, children",
+  "other": null,
+  "dateCreated": 1673886535074,
+  "dateModified": 1673886535074,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/9ea827e3-957e-4197-a395-c39bc37f9405/Shukrina.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131346Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5a62f1fa99a0f3f5418ac1b52fb3e3f09432c93f69a413854dae1f548307f793f7d128f9057f754799124c32ea6ddbaa3337ad78a894bbf8010310a38e3074807e81d4b19e9ec6f42db88dc11878c1790920b040f65cced489b500955b51f7c8300eec8c8db6e2068150dfee4110da3d62fea5154b2ff28f61c45c66e87251a2290e4b0d85608cec4d685272eaf52d15b77e1671b798f0c98a7a20403edfaf1c30b538b7ecff18d6376ca768dcafce60ffb168bab201ee5ea7714bf158350d27982b8e72542908d956ce4026c110167eb8437ed25a243120522f61b0c0bc6c9855bbaaf05cb0fd41714ae61ce2d4273df5969965b6317d95e23ecd654c022a32",
+  "imageName": "9ea827e3-957e-4197-a395-c39bc37f9405/Shukrina.png",
+  "region": "CENTRAL"
+}

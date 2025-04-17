@@ -1,0 +1,14 @@
+{
+  "name": "Stubby",
+  "catId": "07254264-5238-4162-a164-600a36a20c64",
+  "sex": "Female",
+  "personality": "Friendly",
+  "likes": "Sneakily following people around",
+  "dislikes": "Long pets or head scratches",
+  "other": "Not so much of a chonky one",
+  "dateCreated": 1673950689094,
+  "dateModified": 1673950689094,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/07254264-5238-4162-a164-600a36a20c64/Stubby.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131420Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3f0aa5afb3a9f90e289c44e178b9e828f6510e4d8c16842820cb3949f091e9937c1578ecbdc364bc2aee5ef8b66fc655d5d0dbabd98a664c7819f3ba9ca8efe11d2cddf789a110f5cd7129b5c4f04e9957736c9cf5b931304860aa3c8dc0d214af5427a52ff5b1ad3a232c3def0aee35a9ce94599081c3053db3ab574f31baa8aff1a6adddf2071234a19f267cfaf74040cbc38b372e25bc0fca67bdbaf337560c9acb17336adf821c4e32513756b2ea0785c9b51d9c48b42826a859f1d02402c087c00d9761156336c1a8f25e2a20f24abf171d8a7bee83759e878829a240422c5158b6116eb9160ff636795f783c4e23f1a461f0470d706ba820706c694c88",
+  "imageName": "07254264-5238-4162-a164-600a36a20c64/Stubby.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Hei Bai",
+  "sex": "Male",
+  "personality": "Friendly, Lazy, Chill.",
+  "likes": "Pats, Food, Face scratches",
+  "dislikes": "Loud noises, Sudden movements",
+  "other": "Do not FEED him. He needs to lose weight. He is 11kg now.",
+  "dateCreated": 1676281839099,
+  "dateModified": 1676281839099,
+  "catId": "4a1ab28b-cd5b-4fc0-97a0-759325510a4f",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4a1ab28b-cd5b-4fc0-97a0-759325510a4f/Hei_Bai.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131532Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=67179b6343eb755e818f7f5f7ac124876827722b5058b370cf3e6d1242cc1898122f898062614858299a0dd12088deea4b3911a96ff637f766a83e8e5cba780f21fbdc58e8079ec141cf7bb1de883ea3afd252c6ea5e1ac25ee7029582ee3ff01b8614c4bdf4b2de2749c626d931a1801513a67f3438170d277032c308201c38938f3e876876db797a1a84885cd851e36a677fa55ab9a31e7a37162d14398060cbb0fd2e4d3272fbcae155559283124e1bdf063a62376b87e01e21cd2326392d989351c92a03d5186a5fb809cffcbaaeb6670a8fa7003b0fead362d21bf7752517502af0c276bff6221850dc33a8dea8738bff64fc44c4f34b07e06556ef7ae7",
+  "imageName": "4a1ab28b-cd5b-4fc0-97a0-759325510a4f/Hei_Bai.jpeg",
+  "region": "NORTH-EAST"
+}

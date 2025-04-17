@@ -1,0 +1,14 @@
+{
+  "name": "Grey ah bui",
+  "catId": "f7166e19-b00e-43dc-9ed4-c81c7f1b075f",
+  "sex": "Male",
+  "personality": "Gentle, sweet",
+  "likes": "Food",
+  "dislikes": "Fierce cat",
+  "other": null,
+  "dateCreated": 1674057965536,
+  "dateModified": 1674057965536,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f7166e19-b00e-43dc-9ed4-c81c7f1b075f/GreyAhBui_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151900Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3dc25069467d83e679c76bc832fd7ec69348121cacdd1af63d601e779a9f363988405e5f85fd57649607a0bf938db57342ed02d94dcec6e4d111184b8ea0d5a0e2fcb3559f004b431e4d550f065ed1aec184f60a06a7a5fff74d93be2a94e2766b2638572491e579cf43d404062fe6799e0684ffdbe7497403b579e279c985443f528732f2c9e6ce5eb541a7691d99412beb2f5ee8d8f0205c6b92c9eb3c30079b8690db68a6cee3a58db0837b2aa90353c46a76bd9f06ed33b1c936d67b25c114889a51d92a6dd9f6826325f465fb21f4f3db71e07ca156aea92db1bb72a8184639218a35ff40f4c3b3bc6d514c0fa690690a3002e6fa9d315d0d7e6e3a9aee",
+  "imageName": "f7166e19-b00e-43dc-9ed4-c81c7f1b075f/GreyAhBui_blur.png",
+  "region": "NORTH-EAST"
+}

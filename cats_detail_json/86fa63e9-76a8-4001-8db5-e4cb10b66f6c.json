@@ -1,0 +1,14 @@
+{
+  "name": "Oreo",
+  "catId": "86fa63e9-76a8-4001-8db5-e4cb10b66f6c",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Eusoff cat!",
+  "dateCreated": 1673888682677,
+  "dateModified": 1673888682677,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/86fa63e9-76a8-4001-8db5-e4cb10b66f6c/Oreo.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131348Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1d7acc0e559d3bb650d622c2a34ae583f25641669cedf69a960b1895d8ead553ed6d0f0ebe81a460fb6accb67613c915bc8e0b0ebb238889795a534558b2daf205de9cd0177a334b2a3e8e55f8b4dac4ae085ce5843d6d888637f76eb938c305c397762d9b98d40e6fb10865f20c14d5d145adb991e43ca81e08e9a8830d4ee63c4df81cd18de8545f663e18d05b7f14fc361b60355f27366523c4d599ebcd4e989c56401f415f16bc2894bd9634314cb91b340782a8cd44a084f5236435cf02fc2d4a516297b0eda7e9ebbe55f786e2f7c42d1b6078e618e0b6896047dbcd18c759afe7b9438a8323ce3e137bfa584ed942b6e70937ddfe4005b746e56593e7",
+  "imageName": "86fa63e9-76a8-4001-8db5-e4cb10b66f6c/Oreo.jpeg",
+  "region": "WEST"
+}

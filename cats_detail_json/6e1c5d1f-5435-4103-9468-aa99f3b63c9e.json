@@ -1,0 +1,14 @@
+{
+  "name": "Blep",
+  "catId": "6e1c5d1f-5435-4103-9468-aa99f3b63c9e",
+  "sex": "Female",
+  "personality": "Gentle",
+  "likes": null,
+  "dislikes": null,
+  "other": "Has a perpetual blep",
+  "dateCreated": 1673933652682,
+  "dateModified": 1673933652682,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6e1c5d1f-5435-4103-9468-aa99f3b63c9e/blep_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131411Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8d692592fd614719a89a4d1eeab68b580ed50e883197a49f422e45c01f0029dc3574999a03416f0d6c7102002a0aee2792c3a498e61c60dfaa4024b157c475bd757729061e613f16d976b2f3da2accce48e2cd0f593856ffd4430eff514d8f640ec3d9b69812237dfdfd6b4ddd8dde2832149b73f476c50bc6d7526f0dc97d6f9940c6d345fca1380358f64b9f97b51cc26f0682f27807a996a6681e6c7dbd97fcc3fe7def3791f55c7750c051ec586d2f85d9f470c6584b1b8e33d6283923c1f10e1f6273620b2ecccea4936ae5377c9844ec86698c841c537262f4d2622102a278224f690d42329e19d910d4f4860cf20c8071929f91573f1119f89bcd1e42",
+  "imageName": "6e1c5d1f-5435-4103-9468-aa99f3b63c9e/blep_noexif.jpg",
+  "region": "EAST"
+}

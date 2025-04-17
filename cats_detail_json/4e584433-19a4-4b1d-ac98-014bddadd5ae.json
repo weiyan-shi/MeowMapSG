@@ -1,0 +1,14 @@
+{
+  "name": "Kittypolis",
+  "catId": "4e584433-19a4-4b1d-ac98-014bddadd5ae",
+  "sex": "Unknown",
+  "personality": "Fierce",
+  "likes": "Sniffs you up for fun",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673883452561,
+  "dateModified": 1673883452561,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4e584433-19a4-4b1d-ac98-014bddadd5ae/20221010_082717.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131338Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=32b12bb7d2f6843fd78f2f03e9c66a8cd8300535f253366268587c423c29f9dafc7a1ef7352a176bc1f88ab4caabd191ed723da02034da401fc12ebfde0823894be01ce3e9638c2774b8492f3eb3e04fb0225d0c4ede4c36350f5962bc139b7feab3038ec3291bc90e8333130d7c465ad6d47f58936d1396dd3acaf3df277c02b4f8c730bd39959b8b368c101399905ae19b3adb751798b8c9b49eb8d3402fd5ac6dad9266b575fcafbfd7d1fc7ff7e37b30cc8c3ea33ff2aead1f6fa9cceefb1b682417fc889d1bd720c9cd726db9643a09e156819a1ce60522ddebe6c8e0e35c6b3944b5fcb704291cd6d735548a64da8b5cfac30d0e6237dd982aaab84423",
+  "imageName": "4e584433-19a4-4b1d-ac98-014bddadd5ae/20221010_082717.jpg",
+  "region": "EAST"
+}

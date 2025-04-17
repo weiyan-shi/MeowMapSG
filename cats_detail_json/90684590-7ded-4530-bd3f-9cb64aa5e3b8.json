@@ -1,0 +1,14 @@
+{
+  "name": "blackie",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1685852116196,
+  "dateModified": 1685852116196,
+  "catId": "90684590-7ded-4530-bd3f-9cb64aa5e3b8",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/90684590-7ded-4530-bd3f-9cb64aa5e3b8/blackie_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131543Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=01c6004104f21c511ea300c6eca7d02496320195b8eb4efa975a175287d6a9b3d12bc51799182a0fba76766f92e27bef6f9bbc2e8e246ac3ea8b6f0eb1a5ea0aa4f6ff4fc982d234512448a77e66c3ec2a04fa158245823f695f4af18bb6003ede753d3934eabd14ff04c3ada8ec6be434b6519701a735c3847e4a3b8d69fb685bfbf59251329e3fec722d95f4aaeba14e5bfd517c2091e6bb12f82cde1389a97b11005beee118d432233c62544fc8444d7ff1e4efa0b49245ce9da0b34526fdebf1a4a4c586b63fe4f52bb08797034d1b998a1319cc574cca380f56080de66d3c6e6280721463989e9464ab66955ea05f9ef6d06b0d9b83cd66fd716f9e1e8e",
+  "imageName": "90684590-7ded-4530-bd3f-9cb64aa5e3b8/blackie_2.jpeg",
+  "region": "WEST"
+}

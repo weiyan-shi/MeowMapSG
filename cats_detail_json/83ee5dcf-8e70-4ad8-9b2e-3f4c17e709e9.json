@@ -1,0 +1,14 @@
+{
+  "name": "Bunny",
+  "sex": "Unknown",
+  "personality": "Very chill, calm and independent. Can be spotted hunting often at night.",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674893451733,
+  "dateModified": 1674893451733,
+  "catId": "83ee5dcf-8e70-4ad8-9b2e-3f4c17e709e9",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/83ee5dcf-8e70-4ad8-9b2e-3f4c17e709e9/Bunny.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T111325Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=61ce09e858530a8d81e1c2f23ebf854a3513b3162d6c1a10d60e0486ebde575541ddb407d483358cf6595d4873191525bb4158ad1ea098b1ba9d8e1a98b4cf91ec4e6d428d4ec935fd7ec5007f7e1de9d7d574959a0ccf70b84ed7b83920f89870ccdcc342281514c6ac3c896ba91735b249c9edf3dd8d6c9f177862ec23e3a53068f11d39063f85f8d6623a58e762cbaf10bdbe903c22adcb9931adee7c929bb4ae2fabe28aa7f624221923b8f9103150de98b9a342fa717d313f34a173ce542905f99240c99d9bec94e4f0d01b4c7e8f08659edbbb70db8e81a2b77cf8cce6b1fe90ae493fb5607692b7fe8d2406b70eb15dd7970793c11e6e85cf9855f3cc",
+  "imageName": "83ee5dcf-8e70-4ad8-9b2e-3f4c17e709e9/Bunny.jpeg",
+  "region": "NORTH"
+}

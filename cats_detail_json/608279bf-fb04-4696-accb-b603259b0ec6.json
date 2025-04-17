@@ -1,0 +1,14 @@
+{
+  "name": "Manja",
+  "catId": "608279bf-fb04-4696-accb-b603259b0ec6",
+  "sex": "Unknown",
+  "personality": "very friendly, will follow you as you walk around the block",
+  "likes": "PATS",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673948602176,
+  "dateModified": 1673948602176,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/608279bf-fb04-4696-accb-b603259b0ec6/Manja.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131417Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=113f283fb08d2caa7abe9347cf312c0324fb16736638e92c3dbaf15a115c0ebdde5b5d879a90344ee495da9f8be010c39bcdcbefce472e85a80fbc1f2024cafccd8486f056b46a8b21cbac112a26b05c4d732a8e93f81279f90ebc4b424c8b690e6f9c422014603206b27ae23cb89423e9b7bf44095ca8bea7f6a158b2eaff57aca7bbe4af6ad6643eccdadc750d3bf131b1893aefb1b9a3f2e25978a016899b8984ce3a01bd3d3c74151541dca5d77b6280267b7613d20da674bcd4c07a97de3647377361f001949c9f43676dbe2f0f6c45bf9f83c45eced17eab05c499b63e2377b0fd5145372fb6172e12e256d114ba843f9fd40bb8ac66c67c8bcbbf3874",
+  "imageName": "608279bf-fb04-4696-accb-b603259b0ec6/Manja.jpeg",
+  "region": "NORTH"
+}

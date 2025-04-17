@@ -1,0 +1,14 @@
+{
+  "name": "Ginger",
+  "catId": "3c5cd90c-08e1-4332-aada-fc60c8181398",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Lying under cars/motorcycles",
+  "dislikes": "Belly rubs",
+  "other": null,
+  "dateCreated": 1673954285999,
+  "dateModified": 1673954285999,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3c5cd90c-08e1-4332-aada-fc60c8181398/Ginger_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131434Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3c562099fc19feee233aaadf26a5a77dda332471f1f432830eb517fa2721c91b5415b79eebd4c068484229720f4b7ee320101e6b17d0ab99f07b0ca1e0a95206d981d4330f42a4ad2386cc360e7ee98e2faf58838004e3ff6a80ee5271f414b4f890e5b8fe52d0038bceae1fad8eb2a2569430aba2abed2c588df0160802eb58645955b2b256e307a7f05da226b0c270ea41fc5dcb49be97b592853429870ed0d647a968cd2ee8fdcb3f93fe999fe3650adf9aaeba6d3c5ad4cce455ac1d0fd2b37c404d0bbd8bf831658d6117db281e349fd436962e6b314ff02ba1e38d573be5c869292a6894076aece539af4f870ca48ec6c8e845d908dd394c2b23b829e4",
+  "imageName": "3c5cd90c-08e1-4332-aada-fc60c8181398/Ginger_2.jpeg",
+  "region": "NORTH-EAST"
+}

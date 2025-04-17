@@ -1,0 +1,14 @@
+{
+  "name": "Oreo",
+  "catId": "759ab9bd-1957-457d-a9de-c40f0b3399c6",
+  "sex": "Male",
+  "personality": "Very friendly, will follow you",
+  "likes": "Canned mackerel, chicken liver, thinly sliced beef",
+  "dislikes": "White chicken meat, anything plant based, racism (unconfirmed)",
+  "other": null,
+  "dateCreated": 1673948732185,
+  "dateModified": 1673948732185,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/759ab9bd-1957-457d-a9de-c40f0b3399c6/IMG20221229132602.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131418Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3f277ef9e8e0310b821ce525c5bb271caedb7207ccd28d2f6dd9488fa61e99fbd2857c6ab99ef5cf8900af74bc8d6bf628984a99dd4b1140809b7a535b889ccedf660fd0118180696d4f0fb2b87e60ebaed8f00c5a0e3a2d1b15e116dffd6738b8b88f69c97ee799533980ff7df36c15f4d15a3fb80f1266330e7421b136738214190ee4429f89bf8d0668b4063706a4bf7d6fd63aec09eb5c3a354b4a3b3e4be38a323753ab2086f530771aa9cdba5c2b81806074aaab451d90f8e085347afc5f765fb42fc948f5b5f1c454a53dae0630a029e4d60497b573919bf7b43f5d675cfbe97fadd7fd88a446982a43c14d02e8ef01578a87edd5cfa4555d0453bd0f",
+  "imageName": "759ab9bd-1957-457d-a9de-c40f0b3399c6/IMG20221229132602.jpg",
+  "region": "CENTRAL"
+}

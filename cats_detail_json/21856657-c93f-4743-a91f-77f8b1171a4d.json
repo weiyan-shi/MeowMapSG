@@ -1,0 +1,14 @@
+{
+  "name": "Tommy",
+  "catId": "21856657-c93f-4743-a91f-77f8b1171a4d",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673950074988,
+  "dateModified": 1673950074988,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/21856657-c93f-4743-a91f-77f8b1171a4d/Tommy2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131419Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2573f6269c1eef14512b32bc428e6162103f439e7667795232ccf6239797ad5bd7df66451cb0ef5bab977e934e918ec9cb1bbba285df13840a91f076f689320593b30d21f751512ab9746b00c1c2476aa6b6935e8087d5724b7aba8d820bb22af2b8226e529029598710a12224b779909947c54615c644c90d7546e2b0a2afa2f96ac02c486c3382707ad1f446ae38ac2193b9e68080f8a9464b29147ed019744fe15b2d842047d31cdfa246a0efde5b98ea4216d04c44a181b02477757c5002f39afe4c4382cfcd7fe0deef99e764abee768c0b272ad57b1c04d92fd5be1f486ab328539acc0e6e22da774588acb381465347094432fc0f2d3bd8c713b82bbb",
+  "imageName": "21856657-c93f-4743-a91f-77f8b1171a4d/Tommy2.jpeg",
+  "region": "WEST"
+}

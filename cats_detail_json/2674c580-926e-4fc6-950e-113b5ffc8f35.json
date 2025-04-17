@@ -1,0 +1,14 @@
+{
+  "name": "Meow meow",
+  "catId": "2674c580-926e-4fc6-950e-113b5ffc8f35",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673889994255,
+  "dateModified": 1673889994255,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2674c580-926e-4fc6-950e-113b5ffc8f35/MeowMeow.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130807Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=84bfe11a3e8b3b46fb2c741bc3a9480fb5f90aac128b97bbceec2c65149c3adf60e3b979c3ef401680bc11e2f66e191fffad899946220e7c55134529c02962e328d1a02822b249eccb1a7cc7ec084dcd92ea540522ca2f75ba49dced17889d056da7e3a29ca3477aac6b9a01c95a9723f3e3a5853ac7d68924f321d445f68d13c7fcc43c33379b8813f7a092ba5d3095f4f5cb5f583964be5d79b0d0a4cadffb26b4723941cb3cf008fe31be4a5fc983f1013380b5a7c9801854b3a9987f26d84ff33e87a47df8bd14ed9cd1d64cf69d6d55a31fda00a3e03f47f8ef2b15509d15c62e932f9629ee39fcf88f3f48820714ddd06a7d187b3fcd93842a8d234436",
+  "imageName": "2674c580-926e-4fc6-950e-113b5ffc8f35/MeowMeow.jpeg",
+  "region": "EAST"
+}

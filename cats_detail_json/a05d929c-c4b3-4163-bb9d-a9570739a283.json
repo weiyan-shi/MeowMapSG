@@ -1,0 +1,14 @@
+{
+  "name": "Fiesty",
+  "catId": "a05d929c-c4b3-4163-bb9d-a9570739a283",
+  "sex": "Male",
+  "personality": "Orange cat syndrome",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673888164604,
+  "dateModified": 1673888164604,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/a05d929c-c4b3-4163-bb9d-a9570739a283/Fiesty_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T065348Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=50499f085dda8904f7c57114392442ed623a3284b954df72b8153adf82c46774eb15074a25d1c4bc484ff12e3f9f6c0d72ad985e55a5a2e42a22fa9cea782d465abdd1e4a502b36a596e56f7536188440cba5272d9e64a079e2a7ea5af3af9712c6aa7edd53a7e8375af7f64da9073bad130d833c8ad71a82731ee91f3ceee171dacb257293cc8e68394f93f8d4fa1ef772e5f250344e5b62abd9f2f2396cd9590c4fbcdf48baacbcb8fb19877d40cfe317c7f1d54db47d13ce2d8490f49b8b8df24f90b03aa70a2082a5d3edf18e5da77cedfb2d63d7503d1895e970e768eb4847282b0a2a91c5dab1b9422786e8fd976f6882f4e2f94e0aa39b548f4662ed8",
+  "imageName": "a05d929c-c4b3-4163-bb9d-a9570739a283/Fiesty_noexif.jpeg",
+  "region": "CENTRAL"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Shakira",
+  "sex": "Female",
+  "personality": "Aloof",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1728525365015,
+  "dateModified": 1728525365015,
+  "catId": "09b215b8-b728-4839-985a-3f6bef2e5e32",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/09b215b8-b728-4839-985a-3f6bef2e5e32/shakira_cropped.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131610Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4dba402a450394ab35fee33a608298f2a71b9cd742cd18392313367c8425c08a5d69d598e3007bb4dbad6fbe5cd109c97d4a9547372d746a96dc56adbf797aeb91d696a55feeea542134ccaaee00330b2ced8c2290486eca578f534d14e94d8540e85b6001f38c28370169cb373ca40461f8faa7b4495e34a4f64b6b0e378070ac504f176774ea2e8a40ef165fe5e2f1133724af77a984cd7566a53c5274a67f11a15c516274fdc93b79224f1fa074ac586e6b2de902c94d50ee6fbea914117d289bf30799914ee923e2f3b9b9800f7998aaaf4ad0be75fbc121b5e69921e63bc0674834fdcf20e47bf54d3fbcfcd892b9dcb83a50a41afbe8bd7c1f2830c4d3",
+  "imageName": "09b215b8-b728-4839-985a-3f6bef2e5e32/shakira_cropped.png",
+  "region": "WEST"
+}

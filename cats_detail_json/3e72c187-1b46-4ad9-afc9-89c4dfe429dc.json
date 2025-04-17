@@ -1,0 +1,14 @@
+{
+  "name": "Oboi",
+  "sex": "Unknown",
+  "personality": "stony-faced",
+  "likes": "sunshine",
+  "dislikes": "humans coming too close",
+  "other": null,
+  "dateCreated": 1674542549637,
+  "dateModified": 1674542549638,
+  "catId": "3e72c187-1b46-4ad9-afc9-89c4dfe429dc",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3e72c187-1b46-4ad9-afc9-89c4dfe429dc/Oboi.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131514Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=185d05a95ba31594796ab86432b2a949b6312e5f03661ae47b47c1c037bea2b26cbc771cd079ba8313dc925248e99a4b70991080fe1e28c309c59410dc693314758f912865f185375e8b3df7a9f03a3eb1b0ffd387bf8b4bd0066217dd0f129fcb17019ead129c8a95ca56dd18b243f793fb55a9cd97135839be9a6318bb88ca039c79f450dc7e8cfd9c0cdeb0ef11fb3487786e4c6149bcdc59012de61bcf23ca3dbeefb789199b304204558888f50d91a8a8e49e2e32685d1f81475506495085194b3a59239899464325508dd306a257c2a788d9469d07829086d749083ad1578a04af329a5a984cf36b675428c2e6fd5c662ef68a50f064605247f54a8ad8",
+  "imageName": "3e72c187-1b46-4ad9-afc9-89c4dfe429dc/Oboi.jpeg",
+  "region": "CENTRAL"
+}

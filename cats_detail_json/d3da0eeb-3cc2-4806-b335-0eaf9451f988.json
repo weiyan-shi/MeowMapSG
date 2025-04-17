@@ -1,0 +1,14 @@
+{
+  "name": "harry",
+  "catId": "d3da0eeb-3cc2-4806-b335-0eaf9451f988",
+  "sex": "Female",
+  "personality": "A Diva",
+  "likes": "Taking the elevator \r\nEating Treats\r\nEating Wet food",
+  "dislikes": "other cats in the area\r\ndry kibbles",
+  "other": "Has been a community cat for 12+ years, outlived all her neighbourhood friends",
+  "dateCreated": 1674059398872,
+  "dateModified": 1674059398872,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d3da0eeb-3cc2-4806-b335-0eaf9451f988/Harry-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131511Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6525891b8add1064c10f1208017a05ab15f5eb47fd779d87cd189672ca4ac224b94ff5008fb635fe7342cb5609290bd15ce124efc1ca3ff71168299d59d0873af04f7ea01c6a9e646ab1f01a027c9fae39ca50c989811bffec0746e34eeb91e3e7c15a2688739ad3962be2a540bfd00e95f01829c3b86b939f2ec21999a9da8f81798fa5d77d3ef4e3ceff97d253c511bf5856a5f827ce3272eac3ec1bb9f194628d356adc2c8b7335142ca191e6a2638d47a2e8fa818cd462fc01d42e5781627a4b1714e9142303a4ef7888c6256af9b4776190679c7ab4fba76060c7458559d4b01e430f703c875e78b4d32530efd19c5294ad84ab4685d569f2935925adf6",
+  "imageName": "d3da0eeb-3cc2-4806-b335-0eaf9451f988/Harry-blur.png",
+  "region": "NORTH"
+}

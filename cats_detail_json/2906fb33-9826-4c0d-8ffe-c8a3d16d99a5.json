@@ -1,0 +1,14 @@
+{
+  "name": "Chi Chi",
+  "sex": "Female",
+  "personality": "A little shy at first. Soft spoken. Getting older.",
+  "likes": "Cardboard Boxes, rubbing his face on your feet, treats, following feeders.",
+  "dislikes": "Certain foods",
+  "other": null,
+  "dateCreated": 1716502141061,
+  "dateModified": 1716502141061,
+  "catId": "2906fb33-9826-4c0d-8ffe-c8a3d16d99a5",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2906fb33-9826-4c0d-8ffe-c8a3d16d99a5/chi_chi_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131603Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=64222df53a4dc665a7739d67ae68eed827eb73ac6a7cd69139e438f8605e8b8d1bc14f0436d6510dc535918a872822fbce976f7adabce0a6b0dd5228f1233ba24d289f6b54f69c3fbe2efe226ec99c296e617da160afb3c2f5866706e984f836293401c13bb066c1479e50127f9cca6de8cb8ac9ff637fe2cf3dc67bdc95fa2c433c90d91fa6bcf1b65f9743e68db9c17dda69a2e02607109b75466a431de554fdfe0688fb9dace9683df77476d877e3e00f68ad1a470d714e4a16892c7554528336f80ff08952fd2983613c4bebf73c4b971d81f19f3543f864592326a0694fae3f5516a27ecbec8ce4d51cdfc8265654a0e541d1ac1dbaa0071a028fafc098",
+  "imageName": "2906fb33-9826-4c0d-8ffe-c8a3d16d99a5/chi_chi_noexif.jpeg",
+  "region": "WEST"
+}

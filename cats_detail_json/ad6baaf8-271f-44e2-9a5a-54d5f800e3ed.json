@@ -1,0 +1,14 @@
+{
+  "name": "patrick",
+  "sex": "Male",
+  "personality": "friendly, playful, often follows people around",
+  "likes": null,
+  "dislikes": "people touching his paws",
+  "other": null,
+  "dateCreated": 1680713513090,
+  "dateModified": 1680713513090,
+  "catId": "ad6baaf8-271f-44e2-9a5a-54d5f800e3ed",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ad6baaf8-271f-44e2-9a5a-54d5f800e3ed/photo_6154317278083134969_y.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131536Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2ff56b4422dc290fda4e1fe4be869c25285dc4406d92d44f31026a8641c060a775a2937e6d9fe6d76ecc846e8553b48398cddc2056f327254871306d8c1179681341afc6c451bc30b0188f7c3c9f84d0ca1e4931bb60eed1d9d733f72f5999f8af082aaed992368c74418cf681217431f80ebb547748eefe121a3e0ea415109e356a4036db3dad177aad515a3cccdd42e7b90c394305e8e7ead10715bef3002bab7c09a635ad804b0f2aa598b7e5f084a04dffdc4b68890ccb36d7c79d853a964d6c94f5c23a86ec44e580fc95b7ba3f5be1ba21ebdef95b5fbe3e3504ffa865016cb277d653a8d8010635935960d45a24dc89c3425a2dcfe269d8bc1207ad3a",
+  "imageName": "ad6baaf8-271f-44e2-9a5a-54d5f800e3ed/photo_6154317278083134969_y.jpg",
+  "region": "CENTRAL"
+}

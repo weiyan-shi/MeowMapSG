@@ -1,0 +1,14 @@
+{
+  "name": "Biscoff",
+  "catId": "882f89d5-db11-47e2-b296-f6c42e2c8bfb",
+  "sex": "Unknown",
+  "personality": "Shy and curious",
+  "likes": "- Hanging out with his gang of black cats\r\n- Food",
+  "dislikes": "- Strangers",
+  "other": null,
+  "dateCreated": 1672903925799,
+  "dateModified": 1672903925799,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/882f89d5-db11-47e2-b296-f6c42e2c8bfb/87424A4D-301D-4D92-8A1E-5526582D1B15.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131246Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=801fe3181ddb21b5cd1187c8670f050a4130e2f87380cb488c2d67f89713a4c1ee01facf9a3d925e006f3fdda2e6a61e197332d5e7cbd3b86ce8cdd64182836c474a91764d860c0cf30da8c62cedbab87dda438ccebc9da4fb9743a399912eb19769265db5a58618f4f3d4c6e41c44aca2335408601aaee8c52fa79f7e4cd6600f8e3051b1fa4ebb80d63dc0eeca96ae168d5928fc5d471adce57d5f1e8cf580fc3821ca63601bb98c1b9de652d2bfac67f8fe5a9efe89a659742b7948ea7fa4be0fe254d3d6df8070f5b06ae5103718235c1d2ac6f4decab4ea3e7077cdd9b8f2f8d8c8dcbb4806c75e07d1f71fb091c6c1c927bda750866c231be511bb6736",
+  "imageName": "882f89d5-db11-47e2-b296-f6c42e2c8bfb/87424A4D-301D-4D92-8A1E-5526582D1B15.jpeg",
+  "region": "EAST"
+}

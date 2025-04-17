@@ -1,0 +1,14 @@
+{
+  "name": "Xiao Ju",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Cat sticks",
+  "dislikes": null,
+  "other": "always waiting for food at night",
+  "dateCreated": 1675420290382,
+  "dateModified": 1675420290382,
+  "catId": "6e75e642-fa7d-4da9-8045-baf8fbcb99e4",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6e75e642-fa7d-4da9-8045-baf8fbcb99e4/Xiao_Ju.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154558Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=762ee10df61f7be03d5a143328dd89223abadc5da74a3fa953c42f9a72d74c3b76aba5a5a0ef49aff50c2bb735322494baf0722b0cda9a4e1e9d35bc9d7ae73de806745f0ad37332eaa6278051722f0a39db84fc2c2b3a490cc6a311cf55cf2989c1417fb800cdea38e170a1f18ee3a5d9a1856247fdf47025cd480ef28136bb0d73ef069e7ab0d53c7e132d7ca82766326fe0ffda53b6be4e2d6299c0267cff7d6dab13759b4487efadc9539a48f4c23b8c5167266cce7d859d4fe28ebd57464b5ac8bb1425426963ce4787dc27f0fe5d39a67fab1efc676d41c6404c56ac8285e2bfa46e469dadb971d5e974b3e3d3d0713f2131d87ac5a096e7b0675d2ecb",
+  "imageName": "6e75e642-fa7d-4da9-8045-baf8fbcb99e4/Xiao_Ju.jpeg",
+  "region": "NORTH"
+}

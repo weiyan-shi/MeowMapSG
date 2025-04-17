@@ -1,0 +1,14 @@
+{
+  "name": "manja",
+  "catId": "3fb14abb-98ac-4af9-8bc2-40fe112f0e65",
+  "sex": "Unknown",
+  "personality": "very friendly, very chill",
+  "likes": "food",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673955648263,
+  "dateModified": 1673955648263,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3fb14abb-98ac-4af9-8bc2-40fe112f0e65/Manja_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131435Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=732d083ca5d4d6ef9d06d514f7cb6d0a015c2e9aae944186fb4268ae4cf791d563597261b82b94caed5aa620a996b1753dfc1983bce7d7d264f18293b675de33a22a6d9e9ee3a30c7de7d7eb95141dc874bfc6d48ef5cd204ae21ecb8e549aa73df9d0b12523b2230ad465df4f8442c90d38461d1d7e69b46925d08758292505258d81dfa47fdd8d3f98b272a8ebe7cb645af1b3cf9877484efa4b03870882e63e3ebd38546a3ea5b66813c4a1c2a3e01b15ece2bac28b89fce14bf979ca4dc50a96cf68bc126e572e00c614cd857b7c5f078627105fc2b6fc201b2dbf8fb130343ff5b2c564f88c849ae25bec60e0cee2f143ddbdd11a100c804548a358566b",
+  "imageName": "3fb14abb-98ac-4af9-8bc2-40fe112f0e65/Manja_2.jpeg",
+  "region": "WEST"
+}

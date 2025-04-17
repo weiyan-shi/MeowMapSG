@@ -1,0 +1,14 @@
+{
+  "name": "Martha",
+  "catId": "7a643ef8-14bf-4f11-a26c-00bde520975b",
+  "sex": "Female",
+  "personality": "Shy.. but she's warming up to people.",
+  "likes": "Personal space and scritches behind her ears.",
+  "dislikes": "Food from strangers.",
+  "other": null,
+  "dateCreated": 1673917389382,
+  "dateModified": 1673917389382,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7a643ef8-14bf-4f11-a26c-00bde520975b/Screenshot_2023-01-17-02-01-20-740-edit_org.telegram.messenger.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131355Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=48ef39f0b393e50e899ccdf722298ccc29149dc81b9b177e5b0a80af046066e0e9d4192793705449c0b4b373d5257442a3c99fa25741c631b7aa4536655f85918845fd457cc6e693c7a1ce7a81fa6821a4719e1b1e7c35d39bd7c75ada1613c237e33d38a957e01bc5dc49897026dcf5621540b57928cdd5fc8536945d874f4c8cc98124b0aaa5c69593ca2f653162f1d212ef42cfd4fc0c8cb97050f68402468d41fe9e82f20d4af432e3f86799a096f46e78f6d20aa56311208a7c010723d6ccc2d0fc6a0285808b3ee1056a86df3424829f46288a56e1ce7b88211727c96efc59c19299d823233667dfb6eba91f3c5f119149cee29cc905ad769c934e0fc9",
+  "imageName": "7a643ef8-14bf-4f11-a26c-00bde520975b/Screenshot_2023-01-17-02-01-20-740-edit_org.telegram.messenger.jpg",
+  "region": "NORTH-EAST"
+}

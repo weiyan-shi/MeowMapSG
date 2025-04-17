@@ -1,0 +1,14 @@
+{
+  "name": "Melody Milo",
+  "catId": "7e03f9bb-44a9-4764-a68c-bfa222631780",
+  "sex": "Female",
+  "personality": "Friendly but not clingy.",
+  "likes": "Creamy cat treats, touches on the head & neck.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673857518365,
+  "dateModified": 1673857518365,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7e03f9bb-44a9-4764-a68c-bfa222631780/15A05950-C6AC-444E-8126-43B8FC915B8F.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131257Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=550f3facb5f9fb5047311a2be32179c505d904b98713d3667bea61489144f64f671b639346438bc86df4629a121f858bea7c294d91d4b8b9d440d80592ebdc3165d83ba0c02041db54659e92f4f1a31c60f88a3aafcc7392226a571ba6890d2ff255e107e635ce216fe38d9e61929a3740cf70edc835e3dda068d432cd246a5c11043edc605fc0eb36f67b04bb088180c999f86633be105dc724c154caa8eeba64514b256f9fa707d42ca2c78948b8cd09508bc90a3f613576f205558ee6458b442d0761b0b5af1063b06ab65cbebcc252f39b4f20a035412ade28213323bb3ab9952432fc147817e5fca4ac592a06a6075b39d4ce79992c256b9e2d72f70712",
+  "imageName": "7e03f9bb-44a9-4764-a68c-bfa222631780/15A05950-C6AC-444E-8126-43B8FC915B8F.png",
+  "region": "NORTH"
+}

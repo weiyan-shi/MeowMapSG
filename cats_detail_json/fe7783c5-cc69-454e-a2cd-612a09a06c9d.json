@@ -1,0 +1,14 @@
+{
+  "name": "Latte",
+  "catId": "fe7783c5-cc69-454e-a2cd-612a09a06c9d",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Very fat",
+  "dateCreated": 1673874030616,
+  "dateModified": 1673874030616,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fe7783c5-cc69-454e-a2cd-612a09a06c9d/IMG-20220327-WA0004.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131306Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3d55e83aeb6dfc8a951eac131d1f3a17cbab67da26cc471dc55330565bf9674611fe637f8639f89a0871ae0e27abda528274ab4d777c68d0cbe4b9d8ebe4e396b850c538a122590539aa16dfe31fb888bbac505304da3d93d70b5d869adacb97b1ea90723eaf1efe4271965eebed5010bd38ddfc4fb3e2c812019420d7d49c7c9b16f02f56fd6cd13ae0cb2822ade09b8876ba616ee4cd50742e9ef3d6609d595c9f8b84d8c4bc733375051a43fc5474909218a5a739e4ded46ade9c0625a8f83cf198aa2ed467efba47c6a0066817e2cf7a97b9958475381643d62e3c110e1f07f3500079a05f8c2aa63b5535da4d58db1b894471e50293b61e72c7ede4ff98",
+  "imageName": "fe7783c5-cc69-454e-a2cd-612a09a06c9d/IMG-20220327-WA0004.jpg",
+  "region": "CENTRAL"
+}

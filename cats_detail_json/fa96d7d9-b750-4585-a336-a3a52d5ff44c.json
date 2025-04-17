@@ -1,0 +1,14 @@
+{
+  "name": "Handsome",
+  "sex": "Unknown",
+  "personality": "a little shy",
+  "likes": "Likes petting on head and neck",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1717592932732,
+  "dateModified": 1717592932732,
+  "catId": "fa96d7d9-b750-4585-a336-a3a52d5ff44c",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fa96d7d9-b750-4585-a336-a3a52d5ff44c/handsome_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131604Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6ec75c413b53ab845b8620519cdea05d4d930751fabe7464e11c60e56adf26f073f8fcf0edae9a0aeb9d334a910f2c42fb0ccd59096c3098fdeb3a5cbd9942d132e35eb51e8815a224bb2967e1d0aaefd8c60cb21c646aff1c3bf9256cc6bdb4f0ec913fc16eae91d07022433b7d4e6e98f847701be80ae5db117a6bc9cf4744ece4098a74ddc90aa3fde478974a085641eb6381928d066b119d52831a50e5b3203ce62a94fa437e369693026c4bb74d31566bce4cd1a0683c086e98aca9c9bebbf011c13275f38b1fae8a01d6e195483f199f3bac091e2a6db66f1714aab69734a6a24eeef78479e751a86aa4606daa2595444ef5436d9f63a3ec80f3dbc986",
+  "imageName": "fa96d7d9-b750-4585-a336-a3a52d5ff44c/handsome_noexif.jpeg",
+  "region": "EAST"
+}

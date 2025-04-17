@@ -1,0 +1,14 @@
+{
+  "name": "Concubine",
+  "catId": "339d2598-39c8-435f-817c-faf8b7a53a8c",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": "Hates humans.",
+  "other": "Skittish, fearful, afraid.",
+  "dateCreated": 1673968383967,
+  "dateModified": 1673968383967,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/339d2598-39c8-435f-817c-faf8b7a53a8c/Cocumbine.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130836Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=81ac37fd7d3e01429cbc17dae948de89240a8e9dbe8a941404cfb67bf2de5c5d54c15274d8d95cceb57bdce40b1f10bf9fc7cb6ecbf22e98bf71fa3ae1344a38b933fa5794f5c4dc2f386cc2a8da95890ecc5e2d842174c8236b31672d22a3da46a2fdcf6a9039c789cdedc4efb5077f3889ef8458f3d1dc8fc26a39c4fe718c193b77176d466881c47bb7e12c0eb085a7fa2fad266c6e13fcfbd962fb055e791e3f02d3bcbc028086b0802eb89f1ffd8b99e8a4bca17d0b45e57172eb3b8ee249e12d133ffa95f9d08eea9a4e9fd942c7915be5ff72a2d725e0c2be3a923f0e1d3bbe2c0f9e6d05628438776aa4370d104cab6424b033f80144734d7685d3db",
+  "imageName": "339d2598-39c8-435f-817c-faf8b7a53a8c/Cocumbine.jpg",
+  "region": "EAST"
+}

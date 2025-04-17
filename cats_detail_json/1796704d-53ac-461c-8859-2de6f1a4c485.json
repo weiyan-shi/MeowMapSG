@@ -1,0 +1,14 @@
+{
+  "name": "Superhero Cat",
+  "catId": "1796704d-53ac-461c-8859-2de6f1a4c485",
+  "sex": "Female",
+  "personality": "Soft-spoken and non-assertive.",
+  "likes": "Neck scritches and head pats. Warm boxes and laps in cold weathers. Benches for naps.",
+  "dislikes": null,
+  "other": "Runs with a limp but determined to reach warmth. Will meow upon recognizing familiar humans. Sweet baby.",
+  "dateCreated": 1673969099565,
+  "dateModified": 1673969099565,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/1796704d-53ac-461c-8859-2de6f1a4c485/superhero-cat-noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131448Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4eb646ea61044a25cfb55f1ae2ac336ad7332774c8b9fe5cb3ab7bff2abffdfb0aaac7e0ea4b17fccae112a0855240b6c4f9f0c42ac82e88a29d528c70af017abcec6f4a598be0de6cb0ff3ead288a49e195f8100ec5ccd741b0ceb3430d1355766fbbb5b5a8b4cff23ee695d03352b402259ee4b190ec13f568b89ab21913dd00fd67fb6e6fc0e3eb67b6934000bbb42913b93d9ea8594891c17e1ade28ee594a63576774557764997b05b722b84af012a1089a0a706c72c5ea91c5074862aaa81976850ce068fa41d9243f53b01a7d08478fcec120e4c2c4121d5086aa2b158eb140371ef0b8cecf2b17ced7c658045f2d8e29963bba8c3a51c7a732623b79",
+  "imageName": "1796704d-53ac-461c-8859-2de6f1a4c485/superhero-cat-noexif.jpg",
+  "region": "EAST"
+}

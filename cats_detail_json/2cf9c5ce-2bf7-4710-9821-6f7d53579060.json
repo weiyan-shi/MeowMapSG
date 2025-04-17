@@ -1,0 +1,14 @@
+{
+  "name": "Jonathan",
+  "sex": "Male",
+  "personality": "Friendly",
+  "likes": "Petting, food",
+  "dislikes": "Other cats",
+  "other": "Very chubby",
+  "dateCreated": 1738327238442,
+  "dateModified": 1738327238442,
+  "catId": "2cf9c5ce-2bf7-4710-9821-6f7d53579060",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2cf9c5ce-2bf7-4710-9821-6f7d53579060/jonathan_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131618Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3a530388ffe2510883b759af62f19919b47d26b9b5567dde99a128e08a7b7e17c5c6f6aa1a2368ed22f666af1addd30dd32af527447cff14e506759c076296b00e430e70fdf7e8d636e24b315021546353a808d6aaff7e880a175913e396aa0d5367cc4d905666bfa0ed967b1f4b87ada665404ca78311b7b55e2fec983a2c27ab12e7ac4b3458a61e81fa0314005053ed5566875893d2435d66a7df245db691a83bdb1790de0d5ff4204e0a0515bde9d0908a472bf157db908acd7b2e5e9bd9e0cc88a1a1c5e3f8ec78e56b4b6ca40f918e7e5cb1f15bcbc63d1e22095a05dd3a4ffe66963ebc90baf33c82820f363b5c0d4d43087ebdae65adf31480646b18",
+  "imageName": "2cf9c5ce-2bf7-4710-9821-6f7d53579060/jonathan_cropped.jpg",
+  "region": "EAST"
+}

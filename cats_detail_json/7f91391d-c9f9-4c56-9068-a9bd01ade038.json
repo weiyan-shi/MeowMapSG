@@ -1,0 +1,14 @@
+{
+  "name": "Putu",
+  "catId": "7f91391d-c9f9-4c56-9068-a9bd01ade038",
+  "sex": "Female",
+  "personality": "vocal kitty who screams for FOOD",
+  "likes": "FOOOOD",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673058122975,
+  "dateModified": 1673058122975,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7f91391d-c9f9-4c56-9068-a9bd01ade038/CCAFA701-85A2-4084-939D-A4694993D269.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131250Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1a10518c49c992eb4d7f8ab165cdbb1435b299f5914633ebbd5680b37180805a2265c2889a2758ff872a1b964b43abef4b339fe9cd722c85708ebb8fc1b6f729922ddc0bf30f839ed71663f1ac5ad6f1a4b9ea4a4a2e0de7b417c9628cac224cdfae6219eb88bdafdb7ec28c4ab16cff5b3501de029afdd27b4a447ce0f62f21abd0d8630744b0475fdb7e28681cfd80f5f89f0aa2f257e8df51ce82494f455569cb7e8b0319cceee0507607563e799b86f3b8a8b410065e5db55598a770c675ebee31aa7acd9829384514e19be098f16bdb09bc8f27977e86b6a2ee4a223dd9a35b4ac180af32eac1fc02d00e4d2fef5cd1c13919402cc411539350225fe814",
+  "imageName": "7f91391d-c9f9-4c56-9068-a9bd01ade038/CCAFA701-85A2-4084-939D-A4694993D269.jpeg",
+  "region": "WEST"
+}

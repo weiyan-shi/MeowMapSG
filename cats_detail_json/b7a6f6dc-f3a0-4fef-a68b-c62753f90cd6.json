@@ -1,0 +1,14 @@
+{
+  "name": "Snouty",
+  "catId": "b7a6f6dc-f3a0-4fef-a68b-c62753f90cd6",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673881801296,
+  "dateModified": 1673881801296,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b7a6f6dc-f3a0-4fef-a68b-c62753f90cd6/20221027_180944.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131324Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=23930193b6c44a66f0871b808256b1be2d7db1f29d81dadf6f33093966756361805ab9836f931498726bfdc618b2448b84e8021bfdf97a7461e2a51e001267b90399bd1e407743bf76e91cfee28ae3bec27732cd15831114e6d40e1873a0703714837bc64c787a3608283e73d19ca3b3ea5cec9300ae2659dfffeeaa646447a62cd61f9aaec22baa9150d9c572480fe69577ae367fd05c534f79f2ad277c86dcefd87233a4b46d6fdc0ac2b38ae3b25bd190a855973cc08b9959cd9fba233dad75e1b4aae4fa2fdce7be8ec95508366ff3163f9e0b6a38ad11a06947a71f63ee914611040189c9be7a8624488f9caf356e3c13ceb6ae3a1e30dcba7b734fad36",
+  "imageName": "b7a6f6dc-f3a0-4fef-a68b-c62753f90cd6/20221027_180944.jpg",
+  "region": "CENTRAL"
+}

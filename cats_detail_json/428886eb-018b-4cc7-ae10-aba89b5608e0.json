@@ -1,0 +1,14 @@
+{
+  "name": "Maple",
+  "catId": "428886eb-018b-4cc7-ae10-aba89b5608e0",
+  "sex": "Female",
+  "personality": "Skittish. afraid of strangers.",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673201264477,
+  "dateModified": 1673201264477,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/428886eb-018b-4cc7-ae10-aba89b5608e0/Maple.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131253Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=63ca8a646f0ecf9da73c96e6ef2da861d07e5f1093440f13dd938f554adf9b811a5ad708f642629364f7d3a75fc07316aa73c5d7980acda1cf61a63eae83c032966a286d36ac0c187029df7c9b6062f40017754d657f8864ddac7915777427b29e7d5d0d24bb4ac78cea8be0882993b8e50d80e017e982191f36d5fbd9034a2b83638a71809128265a4fcccd43dfa31f30fd91ee5a702945838376bd98653dc1f3818fd423f72817876c9de2c3a4ca97c2bd5b2aa7cff83c0c5d99616e0b60b3db7fa99a18974d813fcca9316adb5165da92bafcfbc72b2c9e67790c88289ff0eb86738ec63732bb1de6813b2c48edd9ae8b0d1b9849342867ae90be6bfb0e19",
+  "imageName": "428886eb-018b-4cc7-ae10-aba89b5608e0/Maple.png",
+  "region": "CENTRAL"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ash",
+  "sex": "Unknown",
+  "personality": "Friendly\r\nLikes people",
+  "likes": "Treats\r\nOther community cats",
+  "dislikes": "Dry Food\r\nA black cat nearby",
+  "other": null,
+  "dateCreated": 1728805603818,
+  "dateModified": 1728805603818,
+  "catId": "b016bf29-4c5f-4005-b102-317dcc86c3fb",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b016bf29-4c5f-4005-b102-317dcc86c3fb/ash_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064807Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=46777956539397b2998908bee36fc873a6f0baa7897166db81d4bc9a8816cf85b04ac98744361cd0bbee5a6f345c97156e41bfa7abeedfb9fce1d47675142159c7f12c10822b0620ee2f07efcfe59a6914089e3d3433c1274d85199512e4aed390b242e381fac071d207688205792fd7ca7488c186cee79159684f8bc733529c9efc1d554e15e61e5f061d1cbf47512cd78621d9893c3d5dcf489eee12d1df0a545951758f8e741d90df7fc983189c979a79d8b054bd787430fd154b4e3b926a18c933786621ab69955fc125ee114e14d7b21c983a4dadf0b4569f7430e377da41d9b69982c2bc5753d860c2d40ad2d079af3a46674c118a7f05b66794c14543",
+  "imageName": "b016bf29-4c5f-4005-b102-317dcc86c3fb/ash_noexif.jpeg",
+  "region": "NORTH"
+}

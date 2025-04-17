@@ -1,0 +1,14 @@
+{
+  "name": "Flower",
+  "catId": "047d2f45-2abd-4d51-a7c3-e08895446a4d",
+  "sex": "Female",
+  "personality": "Affectionate, relaxed, talkative",
+  "likes": "Meowing at humans, lounging on her side, eating grass",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674043525395,
+  "dateModified": 1674043525395,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/047d2f45-2abd-4d51-a7c3-e08895446a4d/Flower_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130839Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1de67d7e54958ccba0f44ef2ac543c13af479d659872a39633855cd3df87b104a2b58e472775e133f501a9b43f49d416464cf4172d91b5a4de184c3bd7df1092b757197ff80008b96c4eb05e79ef76d77700ad919568bc784a3bc83780d699ffd76c4240df473c8d6651fbb401fa1fb2f528634ee90fb543202ee60ad2456b2a2dc2390c89855732ba97248348d45e88a7a70c78d31911b4ae609b3597481469320a66a749760e46571d382166d2ab47cc8f80b19b07008c957badc0425a28cccf98208801f7a924f29692dad3c538a9b42ed7deade0bc231a3554af92ae263d21e9c631b7bd9d6ca3940b90eff402876ef38493794eace79eb2b8fa010f6dd7",
+  "imageName": "047d2f45-2abd-4d51-a7c3-e08895446a4d/Flower_2.jpeg",
+  "region": "EAST"
+}

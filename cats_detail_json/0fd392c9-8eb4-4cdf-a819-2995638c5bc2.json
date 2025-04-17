@@ -1,0 +1,14 @@
+{
+  "name": "Cloudy",
+  "catId": "0fd392c9-8eb4-4cdf-a819-2995638c5bc2",
+  "sex": "Unknown",
+  "personality": "Always looking like it is going through existential crisis. Relatable.",
+  "likes": "Sleeping",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673884138155,
+  "dateModified": 1673884138155,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0fd392c9-8eb4-4cdf-a819-2995638c5bc2/Cloudy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131338Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=34376dedec88b176ca65bc6afbd3ed21544f776276b2031b32bac5a06861b871a827115f5c9428197bca0d0816d154455a3b6e2dad9ddb87c46bb4266dc93cf3aaa0bbc84a571ccb87f96f9704dfefb8f7b9246cd1312f473c8be3050d40a526d77fdaf9ab3f635e36f5a1ce737837df95fe566661065a71b636e44bb687bfd53c7f82a80ae066646807deb64600d091ac896092d1f42ea72d2cd6cbdfc565e761f59a0bf7bc5c9ab1bc07bee6ec6e18633e4a7d76560487819f04342639c8a374b9411372a6f145fab3c3c0b0da143b61879bb129e3eeedb31c50d2ecf4ba3248d0eecb802ecf48b8cf66a071237e3c2d77b06b5848636923e9051bd2ffadff",
+  "imageName": "0fd392c9-8eb4-4cdf-a819-2995638c5bc2/Cloudy.jpeg",
+  "region": "EAST"
+}

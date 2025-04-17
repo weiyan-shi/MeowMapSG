@@ -1,0 +1,14 @@
+{
+  "name": "Dobby",
+  "catId": "836cd75c-0860-492b-9e86-808c9eec617b",
+  "sex": "Male",
+  "personality": "Friendly boy",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673965754878,
+  "dateModified": 1673965754878,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/836cd75c-0860-492b-9e86-808c9eec617b/F27666DA-742C-48D7-9B69-BC7A08E4E9F6.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131441Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3ee1dc69f673022f8796c7e4a246b99b5f2bce37918d1985dc22b69cfe961f67cf906e2a0f7c65babf9a04d4c8073e111e1fc55504838581c9c12a03d64d05f77892ec179d821f8be2aac730fb2331baf1b43c43a017d830cad6e9c1c29e8c4979bb58bfdd0e75671a6195cb3ffee4172ec9057f809027c8c17812702155357825a11dd5e92d54dc1d77228667c0d9c676f57fca858e4fffb5b705e9ea689d1dfe748c65c1156c00aa587287c7cefffb051b12c902bd1176303ad3d94356c117cf08086081fe8b274ca72395b170dbc2e766dddf735e4644cbc3edb8b1f80733ae489c34eae7ba9c4e4b7133c38a00abd9dabeb98f021099e8531e46d23a98d0",
+  "imageName": "836cd75c-0860-492b-9e86-808c9eec617b/F27666DA-742C-48D7-9B69-BC7A08E4E9F6.jpeg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Bush",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1695286509502,
+  "dateModified": 1695286509502,
+  "catId": "008ef974-8258-48a2-9c1c-fb1c16231db5",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/008ef974-8258-48a2-9c1c-fb1c16231db5/Bush_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151813Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1dca1280076dee6c025e6cce2096a1d88995aecdc7258f554fc2bc65d810539a3ab1569be466e9fd380f3779308e33e214907aabff5613a9724f537b15a1455987da00832830d677592d4660b714a7b34031e776eb6e67b0f632e3161f24ee1b8331eae1a091a6bd7e02f864144fcd58a7b706b0b69ce5f94d6656645172e1089aef221b4511272524e7036f99c56eb25c7c718a9ff6b6feb1b2c76e479036304331ae53eb3455775a5b001f09d1285373dd0882bec5e00fe2bedaa2073b9b611184d2d0675cd1f0c86cfa0924f1cc4c1ca552a1a7e87fe56089072c2a1a9d6ce26dbc3e3377fde0895cbc31b24b533ef3eae2da338cea09d2e1cd762c7da7cd",
+  "imageName": "008ef974-8258-48a2-9c1c-fb1c16231db5/Bush_cropped.jpeg",
+  "region": "CENTRAL"
+}

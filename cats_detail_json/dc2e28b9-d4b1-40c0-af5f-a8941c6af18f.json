@@ -1,0 +1,14 @@
+{
+  "name": "Abu",
+  "sex": "Female",
+  "personality": "Very friendly",
+  "likes": "Likes to go towards people",
+  "dislikes": "Does not like being petted too much",
+  "other": null,
+  "dateCreated": 1732026297647,
+  "dateModified": 1732026297647,
+  "catId": "dc2e28b9-d4b1-40c0-af5f-a8941c6af18f",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/dc2e28b9-d4b1-40c0-af5f-a8941c6af18f/IMG_1121.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131614Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3fb0557cada23acdfe779abcd04dd28032e22c2306cb85220b7fd825c7844e8d0e9b88df30d867365e51c3ba50488c03ad33cd40c28cde0a36869f063527147ccf5a7ddaa47fc8ad5c8d5f1c0688a2ad750508e71df60bf4e005d6cc6025eb1b7f1b4bdb1074bbc6825f6dcad817d554e4f84f135d980040cb83e4367e1164cb4b9a81e62e3225d6cd2b0baa800f529cdac199953121e92ecb86bfbaf6876b5dc3bd2b5d4b620d20bf7247be44cc67f68fe82eb41ab006dfbf1ea8778b55be8294aae1683120ea6304bed490c00ef4ce2c63ad50cb51927a1b3d48f9147244ebb8c9b5ec3a4c539cc37f5df8256c47c49c849a1d1f246374ff9197d44014e2de",
+  "imageName": "dc2e28b9-d4b1-40c0-af5f-a8941c6af18f/IMG_1121.jpeg",
+  "region": "NORTH-EAST"
+}

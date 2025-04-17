@@ -1,0 +1,14 @@
+{
+  "name": "Sasa",
+  "catId": "0354441a-57bb-46cd-b8e4-1943c1b5c92e",
+  "sex": "Female",
+  "personality": "Sweet",
+  "likes": "Treats",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674023334835,
+  "dateModified": 1674023334835,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0354441a-57bb-46cd-b8e4-1943c1b5c92e/Sasa-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064727Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=88fae499d8ad5dc04d8c39d682c6349d8c3b1559f17eee6dc26af85393d547f580ec922c6479752939007a4ab48a443aef1f04e6eed94bc93a8e09ebbc9801e5f3cecc0d86fe05831399f288429220481b0392d6abc32c8e2afccaebef003e2fb5760c54e9165ae224eca3a8e1969fd99301970c8ab63d0736c96ca0b09238695d4e52f8a301a934e25b9cfd89d910a6953beed387935c0f37c4b32cac99bcc55280ad9b3032e01c1440555ea4af18c9ea4b08a0ef6dbbffc3f928613c5c7a26f046e6be02a4aea3e6c456827479ffe96f68026d0ec75abc85a2ba6a05321d8a2fdf8c2c3c36135c26c02b3d87a80a998c34e4e8e1238083ef671031a2e2566a",
+  "imageName": "0354441a-57bb-46cd-b8e4-1943c1b5c92e/Sasa-blur.png",
+  "region": "NORTH"
+}

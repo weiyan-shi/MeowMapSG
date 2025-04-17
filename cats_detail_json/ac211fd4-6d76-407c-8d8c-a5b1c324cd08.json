@@ -1,0 +1,14 @@
+{
+  "name": "Joe Biden",
+  "catId": "ac211fd4-6d76-407c-8d8c-a5b1c324cd08",
+  "sex": "Male",
+  "personality": "Bully, submissive to humans",
+  "likes": "Head pats, bullying another nearby cat",
+  "dislikes": "The nearby cat",
+  "other": "Found as a kitten in 2018, bit my hand and named Bitey, and eventually Joe Biten/Biden",
+  "dateCreated": 1673912768779,
+  "dateModified": 1673912768779,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ac211fd4-6d76-407c-8d8c-a5b1c324cd08/biden.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151805Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1dd899a25068bfd977f9180341d621a5d5fb3b7845f66a0c34d1c6183a763214395983e8d1657eaa55266e7c167ee62f0c0bb1b89eae690792568d2a2e539551689c6de480214e166b94fbfcf1dc05dfe84d51238c3ad999d6b3ede6bac694db21a30a09dd2b1282968dfd366766e2e793d6d8a3448d0f7723020ada2b7f87dd9fa3776bb6f6725a75a3211f88def31b15d4093f4556bb8460e094b27ad38918da63a4bdaba9239295520a0d64bd57f410a09424b24ce7c3cfd1eab45e70399aaadeed8023dc95151612f8054d6fc52087c9378e8806d175f7f7bdcb86e9595422c4007797b31bc9e21338a2ea17034fd3247a0c4d9c78a149339e08ea667a36",
+  "imageName": "ac211fd4-6d76-407c-8d8c-a5b1c324cd08/biden.jpeg",
+  "region": "CENTRAL"
+}

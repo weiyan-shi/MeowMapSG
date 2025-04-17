@@ -1,0 +1,14 @@
+{
+  "name": "Coffee",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": "Cardboard boxes",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674959452034,
+  "dateModified": 1674959452034,
+  "catId": "63c196db-fe84-462a-aa4e-8ca1062181dc",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/63c196db-fe84-462a-aa4e-8ca1062181dc/Coffee.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131524Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4c947950fb3bc5ce228e68c22fe4666d2e2591f396bc8f9b8a06da8165901ee507ad19033d82cdebde8a7b115ff7df117d77e56e1861cd1630f581c0238b9362ac03971fd786b9ffcf33fb8bc0447ea8158202434b6798674c930c46952751d8a5fc0f11f01268c2c1b7f186d29a5456fa3c2c95b2054086825e827497dd1cc896e3ce21eb577be3b07b97bb6dbee294e3972fd4703db28f2bd2ab7fd366bda961d19347e3b907a1467dae36172dc48d08bf8c2112097e4a5968d36c9d01d7e9c1a18ac210978b55639c39d5906295d2c748f119088da271487739ab5f3c81666eb3fe245494fb0af14fc0d408e0fadbff9d898f1ca398b7e4fa4e58f86b80cb",
+  "imageName": "63c196db-fe84-462a-aa4e-8ca1062181dc/Coffee.jpeg",
+  "region": "WEST"
+}

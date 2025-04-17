@@ -1,0 +1,14 @@
+{
+  "name": "Handsome",
+  "catId": "f7225ba6-bbe2-4df2-80d1-a8f416ce66f9",
+  "sex": "Male",
+  "personality": "Bold, active and roams widely",
+  "likes": "Rub his neck on the ground",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673263144084,
+  "dateModified": 1673263144084,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f7225ba6-bbe2-4df2-80d1-a8f416ce66f9/Handsome.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131254Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1ed769f2c158da43d01db980f21a37fef87162ec36c3442f661a8cba14808375b32a905eed3dcdb95779c7d46e1400748beab002c8c8bf28f0e477120ad31ed436b5f4f593abd0961f6c759d55d65c17156a8b3a8f00abc74947b21d1ed8254e6a3d848a9053616248e9bb4bf76d99c316977bc6a3787984a7aae64394776102384e3d1cb22a2393e1185f99832726b95f25f6063b36244d53a0ba776bdfe547069b3501eb232ea399acae68488d781468050b0e796035c2de5aba82292a492656323692778a87b87d7ed8229fda53013c2de94cb091446c21c023efbfbc39d08d8d890fc0fd5c1e7fb533e9b06e6495f16e59aceb016f9cb10e6e9d1f033e79",
+  "imageName": "f7225ba6-bbe2-4df2-80d1-a8f416ce66f9/Handsome.jpeg",
+  "region": "CENTRAL"
+}

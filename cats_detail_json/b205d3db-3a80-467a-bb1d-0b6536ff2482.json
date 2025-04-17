@@ -1,0 +1,14 @@
+{
+  "name": "George",
+  "catId": "b205d3db-3a80-467a-bb1d-0b6536ff2482",
+  "sex": "Unknown",
+  "personality": "Peaceful",
+  "likes": "Rubs/scratches, taking naps",
+  "dislikes": "Loud sudden movements",
+  "other": null,
+  "dateCreated": 1674000567660,
+  "dateModified": 1674000567660,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/b205d3db-3a80-467a-bb1d-0b6536ff2482/D57D3747-F2C4-4AAC-9213-4C6EFCBA8E77.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131454Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7d12b041dda2dce41ea7fa8946d37dcc9dba53732e89264e9e5c95b3a76e61a5cc2a290a6694fa005aed887a6b6ac8487fbf98e841cf88bf4b94dc51b6f0c1ff88f24f4cb8b2ac09052ccf72c5cafc422bc17ca4fe1a9edcceef0572aaba01d6e8278b6dc8666f9ba4ed019f5fc8c5cd5623fb8291bfd6745bfa7d27794832231074ccf1a08b4c99a47a0082e8ee1b6d4497f7a4970cb5a5762b491cacf7f04f2fa3efc233364119de08108be0d576d572903171f1c473efcca01b989f09fe9b43fe6a750d43652549ce6a1718e49e5fe07a4190600930a795b068e02f46485865a8be73dea11ff654ffb7ccfebf1c7dab1e9a32d6f7f230edd27e52842ada27",
+  "imageName": "b205d3db-3a80-467a-bb1d-0b6536ff2482/D57D3747-F2C4-4AAC-9213-4C6EFCBA8E77.jpeg",
+  "region": "WEST"
+}

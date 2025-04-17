@@ -1,0 +1,14 @@
+{
+  "name": "fuji",
+  "catId": "2cd7a65e-d18e-49ae-b41b-9410d1a3f69c",
+  "sex": "Male",
+  "personality": "pushover",
+  "likes": null,
+  "dislikes": null,
+  "other": "he has since been adoped",
+  "dateCreated": 1673875617220,
+  "dateModified": 1673875617220,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2cd7a65e-d18e-49ae-b41b-9410d1a3f69c/IMG-20210524-WA0013.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131314Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=81ff97781b0996cc43c85c8c6f7f5d9bf9ffa62cddc804c095519bd9bd7d59d0a72ac6576a9428d6a4d8144cfd76e66678a2596b0358d3490fb834035ca5d2a6dc2b4c8b1c1676ddfebd15099806b632dfffb0dd15068c7400269b35e3de32dcdcaf18cc5fce7a4af1ce3f8bbf68606398192c8e9ed07b008b56ecd887d114c38e174250a18ebf73b21b196516dbfc52669ccf6b8d6feed8418867b94de2bb72fec528e5740d43d90690ddc3153884eb244f705649ab0140f459770e2bc4c653b2217f42bb71ac9286637a753e203acaf260f71a05e329113e1370ed26e7d347c72c2c58ff9f8f506347f3b27c43a864f90489e171307944850f828ee21376e5",
+  "imageName": "2cd7a65e-d18e-49ae-b41b-9410d1a3f69c/IMG-20210524-WA0013.jpg",
+  "region": "NORTH-EAST"
+}

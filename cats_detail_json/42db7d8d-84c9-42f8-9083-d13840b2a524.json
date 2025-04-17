@@ -1,0 +1,14 @@
+{
+  "name": "kayl",
+  "catId": "42db7d8d-84c9-42f8-9083-d13840b2a524",
+  "sex": "Female",
+  "personality": "a meower for sure",
+  "likes": "quiet people, head scratches",
+  "dislikes": "loud noises",
+  "other": null,
+  "dateCreated": 1673875532960,
+  "dateModified": 1673875532960,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/42db7d8d-84c9-42f8-9083-d13840b2a524/Kayl_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151913Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=65c3cde3233706321d72c2d4579ea65f0fb2337854a6fbea72616d452b72b39f17cb3590336aac78a7fe2ceedec046aacd63ed352670a3eea968c6036b675fe166f33b5c09f22bd7b6f4ff0c4a751e84b7c18ca80aa2cb523164c0bf3cc94493a14a4f4a447263a9469fd360ddc1df505e72d5d0a807ba83cae505fb69eaa27518ae19dc3a47f0a5dfcd58606983b7079dce345924d1185f3599cb36958f02e66d6aa0faa69e5d048b501eb811824978ecaee40875aaf69143f762ca2a8410d21a14006f8d8b645c0681de7fe184ef21a940e086edca01d539d74b4df43f32e08dcaaa6fab1937700161e3e7eac082d5b19e2abe47e212fc20dec47808892ed7",
+  "imageName": "42db7d8d-84c9-42f8-9083-d13840b2a524/Kayl_blurred.png",
+  "region": "NORTH-EAST"
+}

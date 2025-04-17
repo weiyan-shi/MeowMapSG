@@ -1,0 +1,14 @@
+{
+  "name": "Pringles",
+  "catId": "27e74fe2-084c-46f8-a897-c0a9427063b5",
+  "sex": "Male",
+  "personality": "Weird, says \"\u00e6\" instead of meow, persistent",
+  "likes": "Boxes, WATER.",
+  "dislikes": "Being petted????",
+  "other": null,
+  "dateCreated": 1673912970035,
+  "dateModified": 1673912970035,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/27e74fe2-084c-46f8-a897-c0a9427063b5/Pringles.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131353Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=15f69cbae89ae836ffe2d2af31ecc77cd8643900020c669514d5988d8ff189e478d14bc6f05ed77200f962875157bec19e6b0288701484f48defb6b934b6cf3f4822b8ae700b09970779504cc90379f5f5c02ae99182ad5a0111630d65662a796012f44e9b4de0078bf32f3e1c4a105c4c4b012f19eddd2f53cb944a8d7e9825b8561cd49451630a00f9701c194d17d4ef51bad1ab0112bd248653aee319c62ab887a0a23773bd63c32e5be4deed19d99f2dccf6391fb61d50131f767594fad7d0fca6022f8595864127f654070bcbd3219e41e771599b34ff960ca916ff3f9c66a4585f00b254cc8b943b299a40e36c999ebb3b3c1057ee36d360d7370097a6",
+  "imageName": "27e74fe2-084c-46f8-a897-c0a9427063b5/Pringles.jpeg",
+  "region": "WEST"
+}

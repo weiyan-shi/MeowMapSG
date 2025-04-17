@@ -1,0 +1,14 @@
+{
+  "name": "Mew mew",
+  "catId": "c39b3ef7-5c11-442c-9abf-302e7c32e02f",
+  "sex": "Unknown",
+  "personality": "Temperamental",
+  "likes": null,
+  "dislikes": "Loud noises,kids",
+  "other": null,
+  "dateCreated": 1674037663807,
+  "dateModified": 1674037663807,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c39b3ef7-5c11-442c-9abf-302e7c32e02f/Mew_mew.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131505Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=14bba866678eee7877986451d9f85e599ad80a2bac3383c743ed4c9ac32ccf9146730b8789c0e2348448bf370ed5630382508f0da6bec668f5cdf186637c88c493820c9bd32eeeec2efcb6a686c7fee68b2a898e96f635d1159b7ae1c1eda0e93895918e28d0892c3371116c0c02cbeec0c0bba2a96474770b5ed08d5917f752ead8c855970dbee3ed285c36698b43bf7593e8e2631561768552cdccd3b3ef8774bb7c62af5257b785a3b39590f8500b4f93f291f3734ecaee6bfa180a3ba01a010e2946ab8a97d5b183faf8088a0cdd6b0dae5336fd1437ddf673d7c494711c1975581bff4b79256483bff5e28ef9a4216225298f2b83db9fd4f62a38d7bf9e",
+  "imageName": "c39b3ef7-5c11-442c-9abf-302e7c32e02f/Mew_mew.jpeg",
+  "region": "CENTRAL"
+}

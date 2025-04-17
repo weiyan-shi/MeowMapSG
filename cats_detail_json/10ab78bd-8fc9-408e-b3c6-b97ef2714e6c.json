@@ -1,0 +1,14 @@
+{
+  "name": "Kelly",
+  "sex": "Female",
+  "personality": "Quiet and docile",
+  "likes": "Her little box her the carpark. Mint flavoured cronchy treats.",
+  "dislikes": null,
+  "other": "Would come up and brush against you if you stay for long enough",
+  "dateCreated": 1740133316684,
+  "dateModified": 1740133316684,
+  "catId": "10ab78bd-8fc9-408e-b3c6-b97ef2714e6c",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/10ab78bd-8fc9-408e-b3c6-b97ef2714e6c/kelly_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131620Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4eff71e5ca1eca5dc1d04b5ada05e865b44e12e48c71122ee52bf67d733785ec3037a910d2dd855ed1d4ff98e366269b5fec3843e61328beaeb20e04a74ca7add5b07e329c1c38f528aa6106e2b8a554264725e2646bb15f84ee949131054716988b894261569135611b3553a14cc1419ea7ae1287141185879b34d1ac5ad5ad47365f70c4baf9389cccd84a9c9c7fc153c073b93e23a59cb28d4ba8780eefc886e1c1e6a534b8850c4262de09ea4a829b5e31a02c875cea961f37aee9b9eb2a78b824f718edf3cd605a381193139e5219dc8543f7ee7ad4b9ec7ef9b11c0f7421bc0103db461c15bb090498ca6c00645866e18ac41f414aca153bb45570ab44",
+  "imageName": "10ab78bd-8fc9-408e-b3c6-b97ef2714e6c/kelly_cropped.jpeg",
+  "region": "EAST"
+}

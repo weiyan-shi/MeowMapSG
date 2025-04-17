@@ -1,0 +1,14 @@
+{
+  "name": "Buffy",
+  "sex": "Male",
+  "personality": "Minds his own business, very cautious",
+  "likes": null,
+  "dislikes": null,
+  "other": "Swole and buff protein cat. Very strong, punches instead of scratching",
+  "dateCreated": 1724939702320,
+  "dateModified": 1724939702320,
+  "catId": "c972a1a1-b889-4004-996f-e6b5525884e1",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/c972a1a1-b889-4004-996f-e6b5525884e1/buffy_cropped.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131608Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=52de089093c8fcafd8221837e336c90d400ae9e5a7fe6a5c33656533de7667deb0d67a99278fa39e46e219c121f28fbd7da4aaf9ee257b5593b74bdb63adc9f900505c8151aaa9214a88c81fa0951b11da57cb41b5c5773dc69ff5505c6bb49a446cd385422bf6ca1fa1e256287048d06689b4323009e4bf2b266a95cd848abadfa5964d3e6315bdc48806f9e1ea4239c1ba092392def68b155c1cf556dae53c344bbb9c45fddc041994c172718148ca0a22488c494dd4799577f3fc5f3d493c8cc8eaf1ec0f5103a2e2d8e582a9a86503b0c12068583a960ce84bac9c9309e2bf6aed0ace7cf7951553aea5ec3c57705dcd91c76166fb621dd1314e44b248c8",
+  "imageName": "c972a1a1-b889-4004-996f-e6b5525884e1/buffy_cropped.jpg",
+  "region": "NORTH-EAST"
+}

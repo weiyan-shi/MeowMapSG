@@ -1,0 +1,14 @@
+{
+  "name": "Tabby",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674959356046,
+  "dateModified": 1674959356046,
+  "catId": "56240e4c-74ca-4df7-9394-f21c2a7f0887",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/56240e4c-74ca-4df7-9394-f21c2a7f0887/Tabby_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131524Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0eb31564695f490c858deb315ad94c3202f15fa3ec7cb63ce2dae1f4702e0462d54956c5f7aadf7d67f0231d09e57bfdb4e57d3ff2994a7417e5f174809ab1f1abba59cd5315735dbfd26cada634a32a25987cdd1dbd7f2e987c8ae81cd047530a0af04f4387398a756da89c0042483d8a4b405c2aa187ad15af85e9c8fa5605a344c9b7313db8b98a9d4e328dd1f81a5ebc578ea0232fe25b71325cb98609b3ce975fce49165cee5f9bb216f21fb53db044bba77f0949ab8f3f18ddd97c339de1c4db995a941c39ad5a4a1244e251ac39f0780c8ce7163bec87ffed5b83d1f7b687ccac9d6136495eaaf016661f13642cc3fe21a2de70b4b22daf68d8f57e40",
+  "imageName": "56240e4c-74ca-4df7-9394-f21c2a7f0887/Tabby_2.jpeg",
+  "region": "WEST"
+}

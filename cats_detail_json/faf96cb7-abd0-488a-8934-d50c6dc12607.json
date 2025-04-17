@@ -1,0 +1,14 @@
+{
+  "name": "Elliot",
+  "catId": "faf96cb7-abd0-488a-8934-d50c6dc12607",
+  "sex": "Male",
+  "personality": "Manja",
+  "likes": "Electric scooters, benches",
+  "dislikes": "Drama",
+  "other": "Softest cat in the world",
+  "dateCreated": 1673939909182,
+  "dateModified": 1673939909182,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/faf96cb7-abd0-488a-8934-d50c6dc12607/Elliot.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130726Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7acb35489ddff62d42f7e21fd9c3677fc82e60b9932afb1b2e8403e0529bb5f7ac8d196ace20f0fb77a97b9ca577ecbc3717e853ba57ef83832959b237bb80e2d7f197130be3ee9a9cb25f15c458527a90ebcccaa4282f5b335190b66a65c5c1ec984ff8c80417df026afd45364b3dff790629a5b9ad95a052e59382f1a35c77ae70e105a118467d9640b9c7c3edd776eae143c32b1bc0f029701f336cec7fdf1d1236a086440dbd8ed0f26f5de01e611488b51f16758be20a77eda0910d71722b7f3bb8a8f0c01660ecfab64e21138c16a526e8e0a197a5adefb0457b8854109087c435b5c3a5b9a5db0ea16045c583b12c552062626d186e89568425b8188b",
+  "imageName": "faf96cb7-abd0-488a-8934-d50c6dc12607/Elliot.jpeg",
+  "region": "EAST"
+}

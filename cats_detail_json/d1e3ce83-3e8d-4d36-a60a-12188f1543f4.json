@@ -1,0 +1,14 @@
+{
+  "name": "Rapper boi",
+  "catId": "d1e3ce83-3e8d-4d36-a60a-12188f1543f4",
+  "sex": "Male",
+  "personality": "Domineering",
+  "likes": "Talking to hoomans. Stealing food from other kitties. Chilling on top of expensive cars.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673882043116,
+  "dateModified": 1673882043116,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d1e3ce83-3e8d-4d36-a60a-12188f1543f4/20220928_220900.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131326Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=57f9f5c81f4c613fb510c3a32358cf3d6916d4d56b54f143c0faf68ef6394a910c55a1a62fa2f3c661f1bc2bd1e66d37fc9c1825cb7f96fa5e0c372b8074e52f27ae083ef59403afa1591dce841916fc3546a792f5e75779874e77fc20ba293b1937fd585fb209927b224fe954f5576e546d7e1fe962c79ac73e81f4e864d93a36c361c6f2634686e137d19176149e1a7d8a9257dc3244b653f627c0b57a59a39561bd126aa95b5f9192bf83386d8137d453837826a497ee38852848cf1de462cf96b3fed4275dba827f91b4b3b5f1c5e107bec12a089bb9a41091d504d07bd23c1eaee178065d18665d73d356945aeae2f114b9306c256edd85473e6ba5659a",
+  "imageName": "d1e3ce83-3e8d-4d36-a60a-12188f1543f4/20220928_220900.jpg",
+  "region": "EAST"
+}

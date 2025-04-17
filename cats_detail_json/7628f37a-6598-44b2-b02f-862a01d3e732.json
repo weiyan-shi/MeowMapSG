@@ -1,0 +1,14 @@
+{
+  "name": "Taffy",
+  "catId": "7628f37a-6598-44b2-b02f-862a01d3e732",
+  "sex": "Unknown",
+  "personality": "Sassy,friendly,quiet,curious,lazy",
+  "likes": "Belly rubs, stratching cardboard, sleeping",
+  "dislikes": "Climbing the stairs, sleeping on hard surfaces",
+  "other": "Likes taking the lift with residents.",
+  "dateCreated": 1674028922580,
+  "dateModified": 1674028922580,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/7628f37a-6598-44b2-b02f-862a01d3e732/Taffy_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131028Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2ae9b2b1688a3c0a8dc063971d3a006c45a89d3c2d598e9a20b5a5e4ee7443aefa5b50dd69770e30f1aa4b23e2c69692e99c47c32b6d95cb63963fbdc7a556ce1a7db683127108f0434ef3dded41ccaf5d59409a5f042114af4c5912b708f1c6405d0fda723a40fbc39340b0ccb513aba75f97cbbee67ce0c219a65444252a8fe7c0ecd67d5815537618065567630825a4cd781603bc17e491ed952cfa2e4067643e3fa697b579777855e2bf883cefd5376cbb397b4b5a3b001fe5444e32a3b7d98b1bcc57a625ead18b358c6d7d701d7da6da024e6b3b9d11145511122528fc140fbf9cc22de91485b581533b7d43eb412e0229636e251ef21322203eb1e0ed",
+  "imageName": "7628f37a-6598-44b2-b02f-862a01d3e732/Taffy_noexif.jpg",
+  "region": "EAST"
+}

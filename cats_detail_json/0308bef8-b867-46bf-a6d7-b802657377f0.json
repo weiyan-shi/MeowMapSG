@@ -1,0 +1,14 @@
+{
+  "name": "Knee/Adik",
+  "catId": "0308bef8-b867-46bf-a6d7-b802657377f0",
+  "sex": "Male",
+  "personality": "Silly",
+  "likes": "Cat sticks",
+  "dislikes": "Churu \r\nAlmost every type of food",
+  "other": "Has a mole on his face",
+  "dateCreated": 1673873085822,
+  "dateModified": 1673873085822,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/0308bef8-b867-46bf-a6d7-b802657377f0/Knee.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T152029Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2ca8f6301cbca5153ddb942e71cbb9a4b0101ccdd082f9b00fa944c7bab050f11b0a0e0f1a002a2510720a8e3ab55932a28086688b3d1180410cccd980fb7739b28b1aabbea6dc175101036f4dca9e811453a21094a2dc061aa327e91cd5df1f7b64b2dc4ded1b4a2a1a5687ad2aa029ce4809a58775de136383aa4342e19e4a6301e1a302e05178f5fd4f3f157457771006ea08904ec8952706b35d89e02d79864068bc43518f779796a32eb7cd071508cd275289fe6ea7b8572f4e327c25a3e4b86c24eb99ce4c44c55523e944e9d07ce89d6c329d7dda3f0dd184dcd0fd88ceb137ce42102da8b8aef8843825cee22d09c042856baa6010c76f5a29498d39",
+  "imageName": "0308bef8-b867-46bf-a6d7-b802657377f0/Knee.jpeg",
+  "region": "WEST"
+}

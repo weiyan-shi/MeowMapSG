@@ -1,0 +1,14 @@
+{
+  "name": "Sad Miao",
+  "catId": "48bd2ad7-0994-4f31-a438-50a7df009b12",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673918022642,
+  "dateModified": 1673918022642,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/48bd2ad7-0994-4f31-a438-50a7df009b12/SadmIAO.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131356Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=68d3a75d4cecb2fbbc83db273550e6ac490b77c9013578d3680e604720ba7d9760b2d3bef2daeee349a69ecec2d06ef075ddb102804abca270823c07e31441703f5ac9173770f54c8b0e05c76b34df1115ff756dd249ba120b99a4f29f58cb320b023b37e0c5a0218b299f7b9529e3467172750d5723420f7b6423bcc00c4fb7843869ca160577cdcdfa266a3f6019e7afa7ac0d560251de9b76ce14ec199fc8be37a690eccb9f1ab0d071cb5c53780e9beda2bdb6bac80436287a774799a768fa78734b8cd843ef0a7f7cec37c81ffd1a263b60b8cda7cc10e1f4039730a6da3b91be2cacc7c75d10cf9b4f6be5ba27c21a85a157ab10bf39ee856a51096ae9",
+  "imageName": "48bd2ad7-0994-4f31-a438-50a7df009b12/SadmIAO.jpeg",
+  "region": "WEST"
+}

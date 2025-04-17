@@ -1,0 +1,14 @@
+{
+  "name": "mingming",
+  "sex": "Unknown",
+  "personality": "friendly",
+  "likes": "pet behind",
+  "dislikes": "belly scratch",
+  "other": null,
+  "dateCreated": 1679379517832,
+  "dateModified": 1679379517832,
+  "catId": "fa34d744-9d32-49e1-8c50-efa52dca6c51",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fa34d744-9d32-49e1-8c50-efa52dca6c51/MingMing2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131535Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=07f5d141fef79c2fd1c8376386c76477d9af8fbaf77f47be2c56dd7c54cf2b250e1ff5ecece7e05c66d9ca248a9f15c580510fe3dac184dfefa5b9a0fc3c84533b16c2635b79a9181e84d9f9f628c8c99e7fc0080d1b0ee21a61a5ccc543ad42d36b34ebca2fdac92623cb53aad9103896734623ac59855e83d7cb0493027ca9851afe0e6b7fd8614700e604670edbf5a7554ace8b2639723a5da3776315141089c0ac52b54b188b881493421b95ea94ef8a4b69e05aea0ecbdaeffcc8da75ed7a73a75fa4922d3b4cebc313c90bc80ca3e51d84d3918a784b3c7ecf8c7aa731bc89166caa61c6df003323b87b68b7567a8db6ffb76d45d0c9227a6b9795a1d2",
+  "imageName": "fa34d744-9d32-49e1-8c50-efa52dca6c51/MingMing2.jpeg",
+  "region": "CENTRAL"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Bella",
+  "catId": "ace277b3-7b2a-4a4e-9131-f00e1f37e69f",
+  "sex": "Female",
+  "personality": "Has a sweet meow",
+  "likes": "Ciao churu, rubs under the chin and neck",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673929278870,
+  "dateModified": 1673929278870,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/ace277b3-7b2a-4a4e-9131-f00e1f37e69f/bella_noexif.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064701Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=329ee13bb6a7e86959a47bb0482733268858b14c9e2aef4be08ca745cbb6315041616b47ccf9cfac85239b4bed66f0ffe9c9bc5b18d4bc2d30144dd37273265a55774dbeb65fe87820be57ef9c0cf15975ebaadebc1b68419708924dfeba6077f53f9ad42f31cbeb327cc825af4c5dbb2f2995945d150aaa012e25792221d909c252b9a56948dec44edf9f8f5f1672628973e25e6309512de967b015151b4a7cff89c5fb0f2d2ad886e769dd71d2a13298484341e4f98221c63e15ff6ccbcd3e2cbb0d8e245d0d4be9bb8de6a5bd233393fd25295efa548ecccec1ea14bff1ac47fe3e9486512a5639a6fc178cb019ba53a7fd1dc7884f271a23f32245775527",
+  "imageName": "ace277b3-7b2a-4a4e-9131-f00e1f37e69f/bella_noexif.png",
+  "region": "NORTH"
+}

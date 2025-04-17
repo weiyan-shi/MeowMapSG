@@ -1,0 +1,14 @@
+{
+  "name": "Lembu",
+  "sex": "Male",
+  "personality": "Super chill.",
+  "likes": "Treats & pets.",
+  "dislikes": "Being carried.",
+  "other": "Lembu translates to \"cow\" in the Malay language. Called him that due to his coat colour.",
+  "dateCreated": 1674714769925,
+  "dateModified": 1674714769925,
+  "catId": "180c9ba8-53e4-4b77-9369-990f7283c7ea",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/180c9ba8-53e4-4b77-9369-990f7283c7ea/Lembu.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130741Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=09d1e92730070dcd0aa258f0933fa682aa2eb8955bcc799ea172b4bc53535630021f01e7aaeded3a1bad3549b1509dbc048ae5218d7cc79cf419f881cc6f7ecf585426c45701400b35d38e2cd34c08e731d1fcc9dc30fdfc7045db9ed7556c0022aa8e1826c526de8d570b59596a33bdafc3bc3a1b9523e427b17450843162886dba12583ab3f8159d7d8cbe412512ad240a31ceba467a57641e52137123b6b8b7d0fb130408979af8432a8344197be417f427c017abc0acf25cde77e7a42fc0df8cba42f124154f67bdcb034229c200212b02c71db25492f0cdec905d8486310bd0191087b68049c25947a8aa2c4dbb4b1296346a464bbbbd1c46a0e7629dfd",
+  "imageName": "180c9ba8-53e4-4b77-9369-990f7283c7ea/Lembu.jpeg",
+  "region": "EAST"
+}

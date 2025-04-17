@@ -1,0 +1,14 @@
+{
+  "name": "Cheryl",
+  "sex": "Female",
+  "personality": "- Likes people to see her only, don\u2019t like people to touch her.",
+  "likes": "- Light pet on the head\r\n- To chill\r\n- Roll over to show belly",
+  "dislikes": "- Hard pets at the back area\r\n- People chasing her\r\n- People touching her randomly",
+  "other": "Has a boyfriend name Charles",
+  "dateCreated": 1685864469726,
+  "dateModified": 1685864469726,
+  "catId": "23d73d10-3fdd-484e-b7fe-d00677e1ce48",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/23d73d10-3fdd-484e-b7fe-d00677e1ce48/cheryl.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T071344Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3589de76acc2cf8f27d4df6d9eadc5311883a7b11ed0f93d231bd8387eac2417fbd845ad9f3c16d89f6877354f530b4a1767ec3134ed408339c0fc925fb56c7b14f64e95e60b7ae716bd470c234a7b7dd2087e49973fbaf571e6609da25f18893e4bbf1edbacf56f415f77182738d8f61d3e22787109134a44a7f17f9b5e826212e0ebf98e3c2e629bc53008d171071add032d2430eae006714327819167f54c977d90fcff01436c841c574116433675e46a8543d63a2a05d54160e2536ec0a91be04cf6c40ecec0a8ce0301fc88b4ae349b56080021d31d39f47a8d26bba59188a3a86218ed4785fa534548fcdc6184f8c396dc4bcf94de0c5349ee5f71c463",
+  "imageName": "23d73d10-3fdd-484e-b7fe-d00677e1ce48/cheryl.jpeg",
+  "region": "WEST"
+}

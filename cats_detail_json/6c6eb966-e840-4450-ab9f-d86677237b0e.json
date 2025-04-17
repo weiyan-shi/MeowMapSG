@@ -1,0 +1,14 @@
+{
+  "name": "Fluffy",
+  "sex": "Unknown",
+  "personality": "Friendly and cuddly",
+  "likes": "Petting on head, chin, back and tummy.",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1718036952404,
+  "dateModified": 1718036952404,
+  "catId": "6c6eb966-e840-4450-ab9f-d86677237b0e",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6c6eb966-e840-4450-ab9f-d86677237b0e/fluffy_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131016Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=08951b39a99aab1814fa122fb7d07a3d8af60f05916d862767909eb1c4f9ceb8fcbc745936ea7f74b203044fcb50fd573dc8814c345400d09fa470a5a3383a48ae953c3a360ee8978ca53c717f51f505eeb313f0b1fb38f0120ab14e54ca38c3c498159261e7cd686527fae4c868597291831dbed5f4a9be39c37f6295b465fa5efcd9fff35ed09fefcf89a1068c35c0241422ac79ec7f482c024d36689f21321f924d8fc5f77168304afbdffd308777642c009d03fb8d9544780faa160ca7ed3df2eae06c0d53fb8a887c028d0b3cf820997bfda6629884ecbc583753bb33bb48867144c1aa559bb8b9ecfe6239c28c4a55bba35de5a0c57fe8d6bbdfb659b2",
+  "imageName": "6c6eb966-e840-4450-ab9f-d86677237b0e/fluffy_noexif.jpeg",
+  "region": "EAST"
+}

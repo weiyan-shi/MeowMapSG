@@ -1,0 +1,14 @@
+{
+  "name": "Elf",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Skittish but curious.",
+  "dateCreated": 1674664018207,
+  "dateModified": 1674664018207,
+  "catId": "41b787fc-bc5c-4ee4-9448-66d7fbcbcd35",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/41b787fc-bc5c-4ee4-9448-66d7fbcbcd35/Elf_noexif.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130947Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=00c93a7fb3825597a0be619dcb1f579b80eac13b656cb44dd5ead460dee7d0eae31b7cf786423209c77d639e2f0b6450e11ef242d5970a3d96b08afef204dcb2ad585fd3fff7af9e6e394a42f65ff315d2c2a9abbaaf18aa5caf5844344fec8f9a9a7b37e4ea112c9beee1eb56289f12a2d9b3fc3efffbbf9523fb8d2b007df4fc505b4d84baa3b827de81a2380067efd857349b6a4a8eb1b4ae5a340e949f31d8be7ef05978ae53072aae275ffadf3d2604f1dedb064869b4bfe52c83c392ef20657fce287bdbf2c48dabfa10ba2dae1bebb39621790dde8c6ffa3e3c72bb9b05814d969134879e5c9d12e618b11e2340a4a01e235e6edcca521a2e182f7988",
+  "imageName": "41b787fc-bc5c-4ee4-9448-66d7fbcbcd35/Elf_noexif.jpg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Securikitty",
+  "sex": "Unknown",
+  "personality": "Chill, sassy.",
+  "likes": "Chilling on top of motor cycles and staring at hoomans.",
+  "dislikes": "Disturbance during nap time.",
+  "other": null,
+  "dateCreated": 1684572528731,
+  "dateModified": 1684572528731,
+  "catId": "4fb8e9dd-1b43-4d4e-afae-4cdc1050422b",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4fb8e9dd-1b43-4d4e-afae-4cdc1050422b/securikitty.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131541Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5deac27b3c82f82f31b0f520a1097bad8ede82d9a9d0b3308af2284ffd8063493ef492795b8b347fc4f1d81e7596369482b488f809ab8de28c6bf3b12774729e2e2b0cd8a705053ff25937e9c314ca0308071b318a0a6605e8c3f98d41491892a2f93f47ecb97623a7bf1fd7bd44ccfc5135589bed3ce5eba457a379121a8f6d304d5b0bd65022e247fab900571d8d4b34daa421ea021e0ba79e99b0325b828c29c873fdb8b046d87264f08ed3d434bf7ca3cad4b6f1683a1e86ad052f08b52d6bd0d3e2909691e95651fb8e4eca7fbdc2c12133aeef84d95228f4eadc2a1e50d8174492785f492bf80ae24fc74f8cb024cfb467266a0d440953d69f2b6b632e",
+  "imageName": "4fb8e9dd-1b43-4d4e-afae-4cdc1050422b/securikitty.jpeg",
+  "region": "EAST"
+}

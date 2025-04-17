@@ -1,0 +1,14 @@
+{
+  "name": "Tabby",
+  "catId": "acda8db4-6305-4241-ab1b-cd8eab063a56",
+  "sex": "Female",
+  "personality": "Sometimes shy but mostly friendly. Sometimes meows very loud",
+  "likes": "Food, sleep, rainy days, pats on the head and sun bathing",
+  "dislikes": "Dislikes being grabbed suddenly or roughly",
+  "other": "Possibly hearing impaired in one ear",
+  "dateCreated": 1673883055957,
+  "dateModified": 1673883055957,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/acda8db4-6305-4241-ab1b-cd8eab063a56/Tabby_bnluured.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T011519Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1ce1955f4c20a6bf9325cb1099076838bca7fa9bcc371d40bc8ccd4df1c6eaddd6c8429e550e683015c7be110a311a78754a26c24cb466de5f0d470dd2ab1b159dd7d1509b65da113ade190e51d9235057f20c28268217e2873105f9657fe7f0c999404c0f9d872e08296aa65501897a21561714619599ca094e8cbc59f9c388d688d346d2a5faaa92c8508ff8a40e317d8d47f091c4dee1447689d8b67ad32a6514e5b5fd7a92ab455ef530fd118032416a43ca86e08f4bd2f96c531a0d461b18cdec4e1700fdc7f5760012808a06a56c5256347aeb309bed4f8212121f59ac02f11b1c8570396917c78cea6ab9d55b2ef274b45ded5be47a6142fe5308ad7b",
+  "imageName": "acda8db4-6305-4241-ab1b-cd8eab063a56/Tabby_bnluured.jpeg",
+  "region": "NORTH"
+}

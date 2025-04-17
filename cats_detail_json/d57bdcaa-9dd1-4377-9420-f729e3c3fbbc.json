@@ -1,0 +1,14 @@
+{
+  "name": "Ball Ball (\u7403\u7403)",
+  "sex": "Male",
+  "personality": "Very friendly",
+  "likes": "Cat sticks",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1685780736454,
+  "dateModified": 1685780736454,
+  "catId": "d57bdcaa-9dd1-4377-9420-f729e3c3fbbc",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d57bdcaa-9dd1-4377-9420-f729e3c3fbbc/IMG_2268.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131542Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4160cb62563a98c0e70f23106ff0b1fb72415e4e2657d3a56f76d6f3db530cd521ebd65d438a6a35a2ad0a9bcd3cf058f4c444e0a92bc3739c9ede6bda41c9215c03ace1db770a13f03a4d1cd19d97fbd9817d3275331c67046bf6be52ebef89cf59532c6f2adcfcba3b07989da0acf6ca6878e1033d34b3aa61cd21bd8df6d1448163bd2b7130f4d5abf25431b5bcdb7d3ceb2152a803fd05f09fc9f3fd21eef04ea5fd3da7162d903b1d1eaf70d1bb954a01f563e928983ceebcb9f9965cba9be0f1f4b2d36232ddaaf8aea7a490bcb308d38c0b4b064a398c280fe33599c0fdc2ea2f766331d5dea7a3734f86a42788a2ef885a4a4f66229105089d5ee4f7",
+  "imageName": "d57bdcaa-9dd1-4377-9420-f729e3c3fbbc/IMG_2268.jpeg",
+  "region": "NORTH"
+}

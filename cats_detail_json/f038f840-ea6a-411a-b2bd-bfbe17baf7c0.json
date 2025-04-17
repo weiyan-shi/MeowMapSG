@@ -1,0 +1,14 @@
+{
+  "name": "Cream",
+  "catId": "f038f840-ea6a-411a-b2bd-bfbe17baf7c0",
+  "sex": "Unknown",
+  "personality": "Used to be very friendly :(",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673873674164,
+  "dateModified": 1673873674164,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f038f840-ea6a-411a-b2bd-bfbe17baf7c0/383EB924-B35D-48EA-9392-846E546249D0.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131304Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6b3c65ffa1b7b45f6aeb3d52c960986c81935ab9fbd088ab6a51d46505cf8998461f5ae0d75a7fc2a2845c4b236497e1609fe4f0d048e0ede694a81975f9b701979625ee8592f64cf48f27d111ef8bebdee7813f64b16d9da68f5132753295ee6b7de0826b4d1c3436b401144ca7399f08f7becdcd9fa0586c374954cccf95ab5244531f11642185b5f95daa69b98667bf1f301989e3896f786543d2d3dfe1d3d3e0437acadceb8d0df02786332a3b388b502e3eebea010e9b871372afb3b3da1c4af5bd51f399ba7c24c06b65a326c0cc81f048edb6049017b990b6cc076edfb252dddc1cab80bf442c703a2088630c9709eb5f4714157ca0ff32142cf45328",
+  "imageName": "f038f840-ea6a-411a-b2bd-bfbe17baf7c0/383EB924-B35D-48EA-9392-846E546249D0.jpeg",
+  "region": "NORTH"
+}

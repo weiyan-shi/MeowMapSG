@@ -1,0 +1,14 @@
+{
+  "name": "Luna",
+  "sex": "Female",
+  "personality": "friendly, will recognise the regulars",
+  "likes": "head rubs, butt pats",
+  "dislikes": null,
+  "other": "9 years of seeing her and counting!",
+  "dateCreated": 1683038159021,
+  "dateModified": 1683038159021,
+  "catId": "a3136187-29ed-42f2-bf60-c020aac8e2d5",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/a3136187-29ed-42f2-bf60-c020aac8e2d5/FC41BBD6-8FF7-4EEC-9DEF-AE1A8F513069.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131538Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8bc177b0f243ed26c22bda98c68abc30509248e9e2a9a8be1d56e17804552eee3e03b5ca28863cffceed7c069e7b8aef2f440644c401790dee304be465bad25a14b389192411a556c71f16898aa3ef9b89fde8060d798a3083eae85efba196a536ba3d7aed60ddf721c2b50a673dd9b8271c939bfe4215857fa8c77e6bb2feb240935591ba025a85594f51cfdd748e9e1e4baa98c345480543544a1a903d4ce00043eca7f29a662a17b0b4988c6973110542154a1f8279a16e849acf33a1d9c47631ebf03484880df7a1632e661ae682f6d0dbb17662647d770821cc891211537ef9a6b032101b5d383adb12aa04ae1a17921812348c9d30a099f8e4ac39060c",
+  "imageName": "a3136187-29ed-42f2-bf60-c020aac8e2d5/FC41BBD6-8FF7-4EEC-9DEF-AE1A8F513069.jpeg",
+  "region": "WEST"
+}

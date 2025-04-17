@@ -1,0 +1,14 @@
+{
+  "name": "Cat",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674959598800,
+  "dateModified": 1674959598800,
+  "catId": "33a8e2cb-5e5c-4b1c-a931-8520f9ccbdea",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/33a8e2cb-5e5c-4b1c-a931-8520f9ccbdea/Cat_blurred.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131525Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=057abf8eb9efe923816f67868e87c73b9f9a27e3e362976db4930c193e14de85132a85560ee259d4e05cffe0df615a074407b5724a0dc6a25a6f72b6d6a16c5aead63f7db835ab3662e9571d614c86dec30e5d1dec3ba8246cc245c78001937fcefdd60e8800a4a96f071afb522d74a33bf0e494764adfc5b15e51c08a7dabff090947a26ce78b4dbb7dc4cad8e2d65e5c34fbf2140e9edee8f9d313a44aa36485871d8d5a39e3a6619eaa1d8514730c57be87c0b67c46e2656074dc84155dc56a2c9af149213ac68ab2887285cedf3f6baabe30679025f5a0717596228533209958ed4abdbed581abdd784eff957e49722c01fabb038b18ec0d60c3e3c7b522",
+  "imageName": "33a8e2cb-5e5c-4b1c-a931-8520f9ccbdea/Cat_blurred.jpeg",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Mao meow",
+  "sex": "Unknown",
+  "personality": "Greeting people",
+  "likes": "Pets and scratches",
+  "dislikes": "People chasing her",
+  "other": null,
+  "dateCreated": 1697601986952,
+  "dateModified": 1697601986952,
+  "catId": "3ea49593-5b36-4395-8ef6-a5bf156629cd",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/3ea49593-5b36-4395-8ef6-a5bf156629cd/Mao_meow_cropped.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T151756Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=82c5038391f386dd73de5110d9e5197245f3820859c93603b12892615616a1ecb451926feb6aeae8ed3d23e63decc3b18dade56f8d969d019973a54dbec4d60411f9b53af3e16db1c7e1689cbb7469a7305dda2ac535036e174a92ffb07f2b76ae033491195298b9e0fb68578585e39543820959531a79612a4380faab426346b1d91f9eb5a41af38ab1d2904492f9eb63ab4044aadaf91d3117e19d6f2303c8054d98d15964fc2f03c0f3dd6641ab33988ecc58e9e59cee07d5fd0e01d1744018ab8aa89679bb4fec6b277828efb58e89c81faa66573c4ae42be493814068607aa567d7aadfa4814495d5b84bb3a2238496aaa592e4bcc8e1709c2f5f88f490",
+  "imageName": "3ea49593-5b36-4395-8ef6-a5bf156629cd/Mao_meow_cropped.jpeg",
+  "region": "CENTRAL"
+}

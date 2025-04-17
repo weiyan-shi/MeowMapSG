@@ -1,0 +1,14 @@
+{
+  "name": "Truffle",
+  "sex": "Female",
+  "personality": "very friendly",
+  "likes": "treats",
+  "dislikes": "water",
+  "other": "gets angry when no food given",
+  "dateCreated": 1674829813855,
+  "dateModified": 1674829813855,
+  "catId": "339823d2-1bf4-48e3-91f9-77f9361ffb96",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/339823d2-1bf4-48e3-91f9-77f9361ffb96/Truffle_2_blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154631Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2e0e08dad5adc5cff9b25b3670a19e2f9640986948006ec386ec95428f56039e40818b48e40510cfa46f15e883a1eb0e3e481de72c8df8d28c77e4678a9085cac8e2e701c6ba5bbcd2bc161ee804822122e9ba5a5f874bf9d19e728e9cc1b4ece959454866324e6a5e83425527846503f221b1f881b74b766b59ad7204961bc02f09c0c1480d5f677c292963571976896739ba8ad7c73168240588cea60194264a384ca3e3468945e948929e196c15bf9dec6e25344ee7979e19b3707f90ba11f8f078d9fd1e6e11f9364ad120e69042943093f1afb1528683bd0619f880d44bbce018cfb8d53bcd2630b34c66e76b01e99311395c02d95399e704d0157e96a0",
+  "imageName": "339823d2-1bf4-48e3-91f9-77f9361ffb96/Truffle_2_blurred.png",
+  "region": "NORTH-EAST"
+}

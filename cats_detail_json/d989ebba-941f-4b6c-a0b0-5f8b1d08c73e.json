@@ -1,0 +1,14 @@
+{
+  "name": "Bubbles",
+  "catId": "d989ebba-941f-4b6c-a0b0-5f8b1d08c73e",
+  "sex": "Male",
+  "personality": "Friendly but apprehensive",
+  "likes": "Meowing loudly and cosy naps on aircon compressor",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673880979504,
+  "dateModified": 1673880979504,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d989ebba-941f-4b6c-a0b0-5f8b1d08c73e/Bubbles_noexif.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T064735Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3e3f3670cff5fa2d8b031024557e391fd022ddb4d110bb39cf84f0b6a27b1e52d9fa18c6e388fb5bf5bded1b819f21ea91ac6b81bac783a1b393d213770ad805ece334cf028acafca283487a410026e25590cd77d37e6d6f83945cf23b1e79c3d9f117c808a4af2410c1e2b046658890c35740721b018232ab4afccfb4dc172d2777eae2bf93fc40c5d49ec920bf019040ed45d4d7992879de24d8edceffa8444c5cce44171ead8b5a69667ad65dcca85b16fa6005ac602f556e29a021c023d38169fc6e3e7f1f246b73a0d3ec287a8fe86a809ce9f9da2355bb9772cc9ccd55fea4c1efeac4ef108b423b4c33ea7b22fcf9abaae109ff84b1b6ce119d6a3330",
+  "imageName": "d989ebba-941f-4b6c-a0b0-5f8b1d08c73e/Bubbles_noexif.jpeg",
+  "region": "NORTH"
+}

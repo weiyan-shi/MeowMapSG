@@ -1,0 +1,14 @@
+{
+  "name": "Mercury",
+  "catId": "e2adaa51-d968-4395-bd39-f9674abb7a4a",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Mercury is a placeholder name. If you know the cat's actual name, please contact us!",
+  "dateCreated": 1673882403773,
+  "dateModified": 1673882403773,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/e2adaa51-d968-4395-bd39-f9674abb7a4a/Mercuryy.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131329Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0ddae8f3b959166e8a74fbd499132d7ebfa1de947c77dc89ad47eb9e7a85fcafc180ce37ccb05b33807145a84f656e166bb5a6bc7d3966e337200eab44fca060419b65ff6f13b168cf5ede50d98524cf34e3c676144bd8a6524b51f2a327c07687c8660e6140f3f59829618e0809f8e5b044ea8848f7db91f60e7855097758735d617c17b41627e949a96ff7e880c047a4fff93eb31dbdd0c9a914ed1345ff703a35ce36a8fc353bfb085521ae788c38a0db21fef2286e67c32ebf3c68e476b465320679b9f6476a1fa02beaab3c3730783f83848c94dbbcbf4a96c7eede795a476ac304736dfb9dde754978ea8973d60354862c930997ce25ca5ca209eb7a29",
+  "imageName": "e2adaa51-d968-4395-bd39-f9674abb7a4a/Mercuryy.jpeg",
+  "region": "WEST"
+}

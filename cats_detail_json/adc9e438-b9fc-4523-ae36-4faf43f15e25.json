@@ -1,0 +1,14 @@
+{
+  "name": "Lazy",
+  "catId": "adc9e438-b9fc-4523-ae36-4faf43f15e25",
+  "sex": "Unknown",
+  "personality": "Aloof cat which is cute",
+  "likes": "Cat snacks, napping upside down",
+  "dislikes": "People in general, pats",
+  "other": null,
+  "dateCreated": 1673922407002,
+  "dateModified": 1673922407002,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/adc9e438-b9fc-4523-ae36-4faf43f15e25/Lazy-Blurred.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T154412Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5409702a02e6e7c04948558dc70ec3e01e3425602650e3bbbb5d95cc3d56cd7f967652c0690b413c6f8635201e5e69fbb72ded23657bba2926af8dc7f2cb7705558860a99baa3ef530c675629677ebe3ebc5a0fb68e94379a10cb88aee088d6811213b91c4e6e92668bca2a68a60f8d4d1c4dc969ca36dcfcf0c8b9a7f0e7c5a36b4098788e7af80d11daac65e27126f125d8d1598e7c72091e27386f36e71c028f0d762cde9ad24c92210f4826fafc5c54027cd136983d1483b6182e518524e676048c13b2078254dd74a3e8ea1ccb93fdf16a22decfb50607587fb86a9d9121a0445a33ff2857ba22add990969ac51c639f1a44c445c67b72da0013afe0e9c",
+  "imageName": "adc9e438-b9fc-4523-ae36-4faf43f15e25/Lazy-Blurred.png",
+  "region": "NORTH-EAST"
+}

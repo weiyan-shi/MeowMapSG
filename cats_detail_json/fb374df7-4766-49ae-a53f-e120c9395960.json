@@ -1,0 +1,14 @@
+{
+  "name": "Young",
+  "catId": "fb374df7-4766-49ae-a53f-e120c9395960",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674011988575,
+  "dateModified": 1674011988575,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fb374df7-4766-49ae-a53f-e120c9395960/Young-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131456Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2c5735d957c2a26811d0c45a5586525653275ee122d4fa38b9cfaf9b8d4265e3294465295bdef590a684f1a64f034fbe5714fb2514aeef4cd503f1f3ec18d0d1752618302ce0d8351524a519b03057b2f953be8b09d3b7fcbd0f766b5d8ae1390272b6a26868e418ad1fb15a72dd8775c2f8e369e240542d7d768f19ae336c1c13e0b43cbf047a451b046bfbcb518888d4c78ddaf652ed150d9255cbc9641cc9895e3ea949c7d40d27f3167cf5f55e1ad8687fdabe29b0826372d19f28363e04734a78a8a2e6c431e3ad44b2c75990b2f4e2c5d3c271da1ccac795f826baaa90231c244f40f4ef75d926f3f86be813898aad2f475d2baa1ec093abb707bb3268",
+  "imageName": "fb374df7-4766-49ae-a53f-e120c9395960/Young-blur.png",
+  "region": "NORTH"
+}

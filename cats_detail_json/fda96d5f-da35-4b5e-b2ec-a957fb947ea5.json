@@ -1,0 +1,14 @@
+{
+  "name": "Baby/ Noir",
+  "sex": "Unknown",
+  "personality": "Rather extroverted, doesn\u2019t shy away from humans",
+  "likes": "Cloth to rest on, pats & friendly human",
+  "dislikes": "Unknown ATM",
+  "other": null,
+  "dateCreated": 1702668814860,
+  "dateModified": 1702668814860,
+  "catId": "fda96d5f-da35-4b5e-b2ec-a957fb947ea5",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/fda96d5f-da35-4b5e-b2ec-a957fb947ea5/9845DE6A-55B8-4939-BAEB-85D92AE90450.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T011329Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=561132164ce3b4a7156da0f0189f21935ed43fc6513c3d4148e99edc3062fa320bf35f9901b1d41084c304b08f528fbee244f5ce74cf945e2b92b5fa729e12b6c8aea57346ecfb2bb58697252140d1c6887abc53c691cb87ed46c037e827fb62504810db97810e68a471ef6cb585972dd396d6b8507669b24f967b19a2cf01edbaddee09b8d628f971cdbaec09442711bd16a1054df0e98f489ad0436db37810698f021b724e2e707c60b37ce5278bd5693b4105b711e4954b447fcf79a2042fa6a79b066577f516a9d0b0367c43e148856149db1bcefb4bba0f0b6d241c7baccbe174c280ae688bd7202e33f8e85a7cdaf32a5d583e16a8b4b8aac33ccd50d2",
+  "imageName": "fda96d5f-da35-4b5e-b2ec-a957fb947ea5/9845DE6A-55B8-4939-BAEB-85D92AE90450.jpeg",
+  "region": "NORTH"
+}

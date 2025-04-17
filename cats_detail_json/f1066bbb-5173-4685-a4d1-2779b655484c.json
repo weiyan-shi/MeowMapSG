@@ -1,0 +1,14 @@
+{
+  "name": "Princess",
+  "sex": "Female",
+  "personality": "Timid by nature. Looks pregnant but is not pregnant.",
+  "likes": "Chicken",
+  "dislikes": "Pets on the head.",
+  "other": null,
+  "dateCreated": 1678596253122,
+  "dateModified": 1678596253122,
+  "catId": "f1066bbb-5173-4685-a4d1-2779b655484c",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f1066bbb-5173-4685-a4d1-2779b655484c/16785961579051486391097799869557.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250416%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250416T172703Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7938ad16805bcd9aebcc1342bc1a3fdfee2a76c0bf78f06dca47b7756e9ef23b7b346affee83786ca4cc6a7b80b170979f4787bae7e92df50fb23ff32fd7bacaa109d83abc67e89a2d1d39feb2257cb8347cc1be14da0c394e92dd6a0b15decf67494b27d1bd34fb434ffcfec9ac2207423748c6b17df038d79cdc6181a03c4520e86de88e4be42ec6089cd33ddf5dd607224361b62408687b29d07ce455f1af4d01bbe84d91625943e108c059e6518dd48cec7e176bead372eb007766b9074e16fb7924576723be4822bdc9c0677d6cbd252a7d06c58865b1e3a6d73be1dc13c3f570b12c73a9f860364a4b3ba2776aac2195ed6c77046a8cd9d5bf5c40e156",
+  "imageName": "f1066bbb-5173-4685-a4d1-2779b655484c/16785961579051486391097799869557.jpg",
+  "region": "CENTRAL"
+}

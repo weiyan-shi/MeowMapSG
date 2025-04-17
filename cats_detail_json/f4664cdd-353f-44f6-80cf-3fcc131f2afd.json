@@ -1,0 +1,14 @@
+{
+  "name": "Bad cat",
+  "catId": "f4664cdd-353f-44f6-80cf-3fcc131f2afd",
+  "sex": "Unknown",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673947357921,
+  "dateModified": 1673947357921,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/f4664cdd-353f-44f6-80cf-3fcc131f2afd/BadCAt.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131415Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3909f75bd62575ac598ad88ad3e10409a40c5af1162bfb9abe29e91c2276e3022c3e5fa0e90a22aee271d6f7e6085e6b411c25033a4762f5468ff3d9516ef4592df96d7eb536a48f089c66cfdf437f379d746cdfd00a15ed724f9e151f8a411d6c9156ec96afe790840a258bb118a5e9d8656a112c64165e2aa744401f9e49368b9166cee15b960afa4a7e84549fdb7e5b98bb02cad5968159406244d868b79d40b18f673ac472ac49ab9a98cc95193ded4163634a837ebc1e9aab6feb413ecbb69279931a1c5acc5f9ab6325b12497cd562157d6e4494dbea636d5ec9cd58580618e369afc02629f23165e52c2ccd391781f912d9785f2fa99e6da2be1b538a",
+  "imageName": "f4664cdd-353f-44f6-80cf-3fcc131f2afd/BadCAt.jpeg",
+  "region": "CENTRAL"
+}

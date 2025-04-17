@@ -1,0 +1,14 @@
+{
+  "name": "Zebra",
+  "catId": "93fc2716-9b79-46c7-8c0f-792727aedbe6",
+  "sex": "Unknown",
+  "personality": "very cute. super cute.",
+  "likes": "head pets, sleeping, lots of food",
+  "dislikes": "getting disturbed when they\u2019re about to sleep or have just woken up, loud noises",
+  "other": null,
+  "dateCreated": 1672986861595,
+  "dateModified": 1672986861595,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/93fc2716-9b79-46c7-8c0f-792727aedbe6/Zebra.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131249Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4234472fee767b7aeca52661a91eb7638cc037459c9de6d958bdba9fda06cb574ee6bdcd790f1195909fb1e108adfa14ed60f3cfa02b9b4a96e29bb32e864cf5b6e0da9acd2a42d011b900800fc8f372cdea2f59498d980ff30d08bdb748c068c182d40c26ed5e1ba799dde3689c5ab6c9c57ded3efd931819635931234ebcdc94b4db5c984ba7d96205fbbc8547efc9b1775964cb2fc732937d87fea5d98e1dadc80c84bc3eecf390596f5f97c9c24ef5c1149850725cd9bd4bee4ed51a5d91f69a9aa75d97e977d7b138447a70da9fcf275e5d7bff24d2f39c46620e5c61233e4131fa4fd005df9ca45a6ddfdada35777858004cb40884d3b9365d61fd21dd",
+  "imageName": "93fc2716-9b79-46c7-8c0f-792727aedbe6/Zebra.jpeg",
+  "region": "WEST"
+}

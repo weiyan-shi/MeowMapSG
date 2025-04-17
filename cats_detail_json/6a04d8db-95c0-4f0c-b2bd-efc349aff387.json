@@ -1,0 +1,14 @@
+{
+  "name": "Phattie",
+  "catId": "6a04d8db-95c0-4f0c-b2bd-efc349aff387",
+  "sex": "Unknown",
+  "personality": "Wary of humans",
+  "likes": "Being a loaf\r\nChilling",
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673935053620,
+  "dateModified": 1673935053620,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/6a04d8db-95c0-4f0c-b2bd-efc349aff387/Phattie-NoBG-crop.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T130736Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=78d40f9bfa9da252ea902b542c58b3f8be02934f4747589af6860a39b3ceef362b556e2a12fe46677fc471997dd2f24b6596fc1ee7155ff32d630c18fa96293dc2320c0786344d05f5df57a71c5aa1dd21bd7e3f37dc6e5e3c48cdc4674bd90564f7f571e79515ccab2fbe0fcae3d0db49c1b4588e21d1809856e4b25a87d84d0f8593af1d571cf5b842c55703de0e5aab514ba522eb924e2968f6b6c64c8e1ab57c8500eb7746362b150b5af6d48260517be9e98d86b452c5b9920f12c71018b243ef2989920412f5d429a0aedaabdd42913fac54bd091fbfb8d031a38c17b0f07c26e40600d3e873b40a075b6f05464341954fb81114d9ab8a11a67851e55b",
+  "imageName": "6a04d8db-95c0-4f0c-b2bd-efc349aff387/Phattie-NoBG-crop.png",
+  "region": "EAST"
+}

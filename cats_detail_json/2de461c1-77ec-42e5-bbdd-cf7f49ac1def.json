@@ -1,0 +1,14 @@
+{
+  "name": "Biscoff",
+  "sex": "Male",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": "Biscoff has been missing since 21 Feb 2023. If you see a cat that looks like Biscoff, please contact us.",
+  "dateCreated": 1678205207314,
+  "dateModified": 1678205207314,
+  "catId": "2de461c1-77ec-42e5-bbdd-cf7f49ac1def",
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/2de461c1-77ec-42e5-bbdd-cf7f49ac1def/Biscoff_2.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T004207Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2185137f6c6d46ba9168f4ab6c9d71f6e609b245a7d3c7433fc440d80b1faefb21f989c3a502bca4c7a42b395b81dfa2d4b216a6d6d08d407b348d26f663f4ef80ff30e9d6e8bde15d4409eb4abe9887a12b5fbbb5b6a4a7ba19adcb986e292bfbc312d1e21401b8fd8548706bb2e1e5ef914fa696d00c75f19312c381381354234eabc29f81a17ffd19ba701338ff74cf0dd738ea47fbb5ed0f125cd883a9c2bd8178ded987d12454eff0b2b15ba5f9439d9d2f94b5b3a6a03582a3a892dca705f834f34a5e63273e2d49b42fa4059a446566069701836d74c82b3167a03a20892d58ed582f222fda1da8789a31e067530157555b78e3d7d571f4d819b9387e",
+  "imageName": "2de461c1-77ec-42e5-bbdd-cf7f49ac1def/Biscoff_2.jpeg",
+  "region": "CENTRAL"
+}

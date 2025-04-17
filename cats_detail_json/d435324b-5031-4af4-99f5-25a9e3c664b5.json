@@ -1,0 +1,14 @@
+{
+  "name": "Latte",
+  "catId": "d435324b-5031-4af4-99f5-25a9e3c664b5",
+  "sex": "Unknown",
+  "personality": "A bit too chill.",
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1673887530274,
+  "dateModified": 1673887530274,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d435324b-5031-4af4-99f5-25a9e3c664b5/Latte.jpeg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131347Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1ef78c9ec5c3b9ee0a5a20f1d6d2a36640a432fdf00cf3fc8c63b08186348f8c9733815f8c0a5fc4be619eb37a67341c75f54485c6ea91d82ccf620b3f1cbffe0dc4475c95c1180f87400215fe0f046c343bbc860e24f41967e1a7c689fc504e9d79f9f3b3d93812a8271b9cf0f18edd9ea157a38c3750892b8f5e28740e9734f4ecab06ec84640715caab3a7b32f9b34bd7b00aec9ed6b28247083bbbecad359bd6f124a50fdaf0b051541aa6afa86c0cc30168fbedce38a7e8cc39808c783974067b8f7d207c962bb842dc1c335828e5ba000082de141bba9d126eb4785126103201f0db29adb7802e4e6015ce7a3aa14a4224877a6f4b34b2da100ce7e261",
+  "imageName": "d435324b-5031-4af4-99f5-25a9e3c664b5/Latte.jpeg",
+  "region": "EAST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Nugget",
+  "catId": "d569cb7e-cd98-48bb-bb9a-68fda619d9fb",
+  "sex": "Unknown",
+  "personality": "Playful but blur",
+  "likes": "Standing on two feet, Rolling on the ground, Rubbing head on rough surfaces",
+  "dislikes": "Being carried",
+  "other": null,
+  "dateCreated": 1674033538377,
+  "dateModified": 1674033538377,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/d569cb7e-cd98-48bb-bb9a-68fda619d9fb/Nugget_blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131503Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=30fb9750e96ef57845eeca11098663464a9428f217bfaf774f343d3f2f81ce15b67d1794245312f418fa1a933232c1dcb9421b9bc20d6b577b835a570f4ef4ccf639882df4969dff4f77f704f3a20ed54deffd7def5896dbf3ea44ab6ea8c002468360915e8a21229838353862873c996ff0a3a064ca64e48e74abd973c33aef4d4b5d8b2f1f5569bae0d3c5274e496b050f343ce508abda1e65058cad647b6be75ad1842377b10c0fd4d3144a9936368ef25df92943dde264236013315621e86f8b92ad51e7ebbf6bd613af212e0ea99131a1604dd2b43add94c0ddf687f84ac55599187012a46e0773e66080ab54f91921addaece14e6182e5c3942250458e",
+  "imageName": "d569cb7e-cd98-48bb-bb9a-68fda619d9fb/Nugget_blur.png",
+  "region": "WEST"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Xiaobai",
+  "catId": "4fac71bb-38ad-4334-bac9-3fc18a7696f5",
+  "sex": "Female",
+  "personality": null,
+  "likes": null,
+  "dislikes": null,
+  "other": null,
+  "dateCreated": 1674029106694,
+  "dateModified": 1674029106694,
+  "imageUrl": "https://storage.googleapis.com/catsofsg-backend-images-prod/4fac71bb-38ad-4334-bac9-3fc18a7696f5/Xiaobai-blur.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=upload-images-acc%40catsofsg-backend.iam.gserviceaccount.com%2F20250417%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250417T131501Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=30c80601c709f2ac3709b5c58f6cc8508816771c0f9ba08424a6c65c0f1639ec49aa20508a501b5a84336730daee8bfb16f8be9ae33ccb2604a5d1d1433da2a5151b151b4f33d17de2a8e436402646958eedff63136758e237f7d533dd5f9237d231bbed307b96c0686cfa9eec67863d8bc944b2f6020bedf46a33af4997e92e26e56834c10a0db9516b937521d2b3fe18b1d2ab7394899f4520125bd477e093615113dec434c87ddd60667111a58427906cd463ca3ccb4fbbd548c49745affdc558e2d00ecc9f1acfa911ba08395fc2f3e8b4258875c506610be68a6a7baef5e60c8d603ae6dadbe88ef7f147742a33a3e6c9d6a59105f7dd20dc8e4f564c67",
+  "imageName": "4fac71bb-38ad-4334-bac9-3fc18a7696f5/Xiaobai-blur.png",
+  "region": "WEST"
+}
