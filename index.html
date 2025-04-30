@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Singapore Regions Only</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            background: white;
+        }
+        #map {
+            height: calc(100vh - 60px); /* Adjust based on your title size */
+            background: white;
+        }
+        .region-label {
+            pointer-events: none;
+            text-align: center;
+        }
+        .cat-pin {
+          pointer-events: none;
+          z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center; font-family:sans-serif; margin-top:10px;">Meow Map</h1>
+    <div style="text-align:center; margin-bottom:10px;">
+      <img src="logo.jpg" alt="Cat Logo" style="width:40px; height:40px;">
+    </div>
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map', {
+            zoomControl: false,
+            attributionControl: false,
+            dragging: true
+        });
+
+        // White background – no tile layer added
+
+        // Fit tightly to Singapore bounds
+        var singaporeBounds = [[1.1305, 103.6], [1.4784, 104.1]];
+        map.fitBounds(singaporeBounds);
+
+        // Region colors
+        const regionColors = {
+            "CENTRAL REGION": "#66BB6A",
+            "NORTH REGION": "#FFF176",
+            "NORTH-EAST REGION": "#3F51B5",
+            "EAST REGION": "#B39DDB",
+            "WEST REGION": "#EC407A"
+        };
+
+        // Load and display only Singapore regions
+        fetch('map/sgmap.json')
+            .then(res => res.json())
+            .then(data => {
+                const filtered = {
+                    ...data,
+                    features: data.features.filter(f =>
+                        f.properties["Region Name"] && f.properties["Region Name"].includes("REGION")
+                    )
+                };
+
+                L.geoJSON(filtered, {
+                    style: function(feature) {
+                        return {
+                            color: "#e6e1e1",                         // dotted grey border
+                            weight: 0.5,
+                            dashArray: "4, 4",                     // pattern for dots
+                            fillOpacity: 0.6,
+                            fillColor: regionColors[feature.properties["Region Name"]] || "#e6e1e1"
+                        };
+                    // onEachFeature: function(feature, layer) {
+                    //     layer.bindPopup(`${feature.properties["Subzone Name"]}<br>${feature.properties["Region Name"]}`);
+                    //
+                    }
+                }).addTo(map);
+
+                // Add labels at more precise region centroids
+                const regionCentroids = {
+                    "CENTRAL REGION": [1.297, 103.83],
+                    "NORTH REGION": [1.415, 103.808],
+                    "NORTH-EAST REGION": [1.378, 103.88],
+                    "EAST REGION": [1.345, 103.96],
+                    "WEST REGION": [1.345, 103.72]
+                };
+
+                Object.entries(regionCentroids).forEach(([region, coords]) => {
+                    L.marker(coords, {
+                        icon: L.divIcon({
+                            className: 'region-label',
+                            html: `<div style="font-weight:bold;font-size:14px;color:#333;">${region.replace(" REGION", "")}</div>`,
+                            iconSize: [100, 40],
+                            iconAnchor: [50, 20]
+                        })
+                    }).addTo(map);
+                });
+
+
+                // Helper to generate random point within a polygon
+                function getJitteredPointInPolygon(polygon, index = 0, total = 1) {
+                    const centroid = turf.centerOfMass(polygon).geometry.coordinates;
+                    const angle = (index / total) * 2 * Math.PI;
+                    const radius = 0.005 + Math.random() * 0.002; // ~500-700 meters max
+
+                    const lng = centroid[0] + radius * Math.cos(angle);
+                    const lat = centroid[1] + radius * Math.sin(angle);
+
+                    return [lat, lng];
+                }
+
+                // Group features by region name
+                function getMergedPolygon(regionName, allFeatures) {
+                    const regionFeatures = allFeatures.filter(f => f.properties["Region Name"] === regionName);
+                    if (regionFeatures.length === 0) return null;
+
+                    const union = regionFeatures.reduce((acc, f) => {
+                        return acc ? turf.union(acc, f) : f;
+                    }, null);
+
+                    return union;
+                }
+
+                function getRandomPointInPolygon(polygonFeature, maxAttempts = 10) {
+                    const polygon = polygonFeature.geometry;
+                    const bbox = turf.bbox(polygon); // [minX, minY, maxX, maxY]
+                    let attempts = 0;
+
+                    while (attempts < maxAttempts) {
+                        const randomPoint = turf.randomPoint(1, { bbox }).features[0];
+                        if (turf.booleanPointInPolygon(randomPoint, polygon)) {
+                            return [randomPoint.geometry.coordinates[1], randomPoint.geometry.coordinates[0]]; // [lat, lng]
+                        }
+                        attempts++;
+                    }
+
+                    console.warn("Failed to find point inside polygon after many tries.");
+                    return turf.centerOfMass(polygon).geometry.coordinates.reverse(); // fallback
+                }
+
+                // Load cats from detail folder
+                fetch('cats_detail_json/manifest.json')  // This file should list all cat JSON file names
+                    .then(res => res.json())
+                    .then(fileList => {
+                        fileList.forEach((filename, index) => {
+                            fetch(`cats_detail_json/${filename}`)
+                                .then(res => res.json())
+                                .then(cat => {
+                                    // console.warn("filename", filename, "cat?", cat)
+                                    const region = (cat.region || "").toUpperCase() + " REGION";
+                                    const regionFeature = filtered.features.find(f => f.properties["Region Name"] === region);
+                                    if (regionFeature) {
+                                        const mergedRegion = getMergedPolygon(region, filtered.features);
+                                        const point = getRandomPointInPolygon(mergedRegion);
+                                        L.marker(point, {
+                                            icon: L.divIcon({
+                                                html: `<div><img src="cat_images/${cat.catId}.jpg"  style="width:20px;height:20px;border-radius:50%;"></div>`,
+                                                className: 'cat-pin',
+                                                iconSize: [5, 5],
+                                                iconAnchor: [10, 10]
+                                            })
+                                        <!DOCTYPE html>
+<html>
+<head>
+    <title>Singapore Regions Only</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            background: white;
+        }
+        #map {
+            height: 100vh;
+            background: white;
+        }
+        .region-label {
+            pointer-events: none;
+            text-align: center;
+        }
+        .cat-pin {
+          pointer-events: none;
+          z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map', {
+            zoomControl: false,
+            attributionControl: false,
+            dragging: true
+        });
+
+        // White background – no tile layer added
+
+        // Fit tightly to Singapore bounds
+        var singaporeBounds = [[1.1305, 103.6], [1.4784, 104.1]];
+        map.fitBounds(singaporeBounds);
+
+        // Region colors
+        const regionColors = {
+            "CENTRAL REGION": "#66BB6A",
+            "NORTH REGION": "#FFF176",
+            "NORTH-EAST REGION": "#3F51B5",
+            "EAST REGION": "#B39DDB",
+            "WEST REGION": "#EC407A"
+        };
+
+        // Load and display only Singapore regions
+        fetch('map/sgmap.json')
+            .then(res => res.json())
+            .then(data => {
+                const filtered = {
+                    ...data,
+                    features: data.features.filter(f =>
+                        f.properties["Region Name"] && f.properties["Region Name"].includes("REGION")
+                    )
+                };
+
+                L.geoJSON(filtered, {
+                    style: function(feature) {
+                        return {
+                            color: "#e6e1e1",                         // dotted grey border
+                            weight: 0.5,
+                            dashArray: "4, 4",                     // pattern for dots
+                            fillOpacity: 0.6,
+                            fillColor: regionColors[feature.properties["Region Name"]] || "#e6e1e1"
+                        };
+                    // onEachFeature: function(feature, layer) {
+                    //     layer.bindPopup(`${feature.properties["Subzone Name"]}<br>${feature.properties["Region Name"]}`);
+                    //
+                    }
+                }).addTo(map);
+
+                // Add labels at more precise region centroids
+                const regionCentroids = {
+                    "CENTRAL REGION": [1.297, 103.83],
+                    "NORTH REGION": [1.415, 103.808],
+                    "NORTH-EAST REGION": [1.378, 103.88],
+                    "EAST REGION": [1.345, 103.96],
+                    "WEST REGION": [1.345, 103.72]
+                };
+
+                Object.entries(regionCentroids).forEach(([region, coords]) => {
+                    L.marker(coords, {
+                        icon: L.divIcon({
+                            className: 'region-label',
+                            html: `<div style="font-weight:bold;font-size:16px;color:#333;">${region.replace(" REGION", "")}</div>`,
+                            iconSize: [100, 40],
+                            iconAnchor: [50, 20]
+                        })
+                    }).addTo(map);
+                });
+
+
+                // Helper to generate random point within a polygon
+                function getJitteredPointInPolygon(polygon, index = 0, total = 1) {
+                    const centroid = turf.centerOfMass(polygon).geometry.coordinates;
+                    const angle = (index / total) * 2 * Math.PI;
+                    const radius = 0.005 + Math.random() * 0.002; // ~500-700 meters max
+
+                    const lng = centroid[0] + radius * Math.cos(angle);
+                    const lat = centroid[1] + radius * Math.sin(angle);
+
+                    return [lat, lng];
+                }
+
+                // Group features by region name
+                function getMergedPolygon(regionName, allFeatures) {
+                    const regionFeatures = allFeatures.filter(f => f.properties["Region Name"] === regionName);
+                    if (regionFeatures.length === 0) return null;
+
+                    const union = regionFeatures.reduce((acc, f) => {
+                        return acc ? turf.union(acc, f) : f;
+                    }, null);
+
+                    return union;
+                }
+
+                function getRandomPointInPolygon(polygonFeature, maxAttempts = 10) {
+                    const polygon = polygonFeature.geometry;
+                    const bbox = turf.bbox(polygon); // [minX, minY, maxX, maxY]
+                    let attempts = 0;
+
+                    while (attempts < maxAttempts) {
+                        const randomPoint = turf.randomPoint(1, { bbox }).features[0];
+                        if (turf.booleanPointInPolygon(randomPoint, polygon)) {
+                            return [randomPoint.geometry.coordinates[1], randomPoint.geometry.coordinates[0]]; // [lat, lng]
+                        }
+                        attempts++;
+                    }
+
+                    console.warn("Failed to find point inside polygon after many tries.");
+                    return turf.centerOfMass(polygon).geometry.coordinates.reverse(); // fallback
+                }
+
+                // Load cats from detail folder
+                fetch('cats_detail_json/manifest.json')  // This file should list all cat JSON file names
+                    .then(res => res.json())
+                    .then(fileList => {
+                        fileList.forEach((filename, index) => {
+                            fetch(`cats_detail_json/${filename}`)
+                                .then(res => res.json())
+                                .then(cat => {
+                                    // console.warn("filename", filename, "cat?", cat)
+                                    const region = (cat.region || "").toUpperCase() + " REGION";
+                                    const regionFeature = filtered.features.find(f => f.properties["Region Name"] === region);
+                                    if (regionFeature) {
+                                        const mergedRegion = getMergedPolygon(region, filtered.features);
+                                        const point = getRandomPointInPolygon(mergedRegion);
+                                        L.marker(point, {
+                                            icon: L.divIcon({
+                                                html: `<div><img src="cat_images/${cat.catId}.jpg"  style="width:20px;height:20px;border-radius:50%;"></div>`,
+                                                className: 'cat-pin',
+                                                iconSize: [5, 5],
+                                                iconAnchor: [10, 10]
+                                            })
+                                        }).bindPopup(`
+                                          <div style="width:150px">
+                                            <img src="cat_images/${cat.catId}.jpg" style="width:100%; border-radius:8px; margin-bottom:5px;">
+                                            <strong>${cat.name}</strong><br>
+                                            <span style="font-style: italic;">Sex:</span><span style="color: #888;">${cat.sex || 'N/A'}</span><br>
+                                            <span style="font-style: italic;">Personality:</span> <span style="color: #888;">${cat.personality || 'N/A'}</span><br>
+                                            <span style="font-style: italic;">Likes:</span> <span style="color: #888;">${cat.likes || 'N/A'}</span><br>
+                                            <span style="font-style: italic;">Dislikes:</span> <span style="color: #888;">${cat.dislikes || 'N/A'}</span><br>
+                                          </div>
+                                        `).addTo(map);
+                                    }
+                                });
+                        });
+                    });
+            });
+    </script>
+</body>
+</html>
+                                    }
+                                });
+                        });
+                    });
+            });
+    </script>
+</body>
+</html>
