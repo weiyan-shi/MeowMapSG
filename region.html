@@ -1,23 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Meow Map - Region View</title>
+  <title>Meow Map - Region Cats</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     html, body { margin: 0; padding: 0; }
     #map { height: 100vh; }
-    .region-flag {
+    .cat-pin {
       pointer-events: auto;
       z-index: 1000;
+    }
+    #back-btn {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 999;
+      background: white;
+      padding: 6px 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
     }
   </style>
 </head>
 <body>
+  <div id="back-btn" onclick="window.location.href='index.html'">← Back to Regions</div>
   <div id="map"></div>
+
   <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="js/main.js"></script>
+  <script src="js/region.js"></script>
 </body>
 </html>

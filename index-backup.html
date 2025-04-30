@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Singapore Regions Only</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            background: white;
+        }
+        #map {
+            height: 100vh;
+            background: white;
+        }
+        .region-label {
+            pointer-events: none;
+            text-align: center;
+        }
+        .cat-pin {
+            pointer-events: none;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <!-- Leaflet JS and Turf.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map', {
+            zoomControl: false,
+            attributionControl: false,
+            dragging: true
+        });
+
+        var singaporeBounds = [[1.1305, 103.6], [1.4784, 104.1]];
+        map.fitBounds(singaporeBounds);
+
+        const regionColors = {
+            "CENTRAL REGION": "#66BB6A",
+            "NORTH REGION": "#FFF176",
+            "NORTH-EAST REGION": "#3F51B5",
+            "EAST REGION": "#B39DDB",
+            "WEST REGION": "#EC407A"
+        };
+
+        fetch('map/sgmap.json')
+            .then(res => res.json())
+            .then(data => {
+                const filtered = {
+                    ...data,
+                    features: data.features.filter(f =>
+                        f.properties["Region Name"] && f.properties["Region Name"].includes("REGION")
+                    )
+                };
+
+                L.geoJSON(filtered, {
+                    style: function(feature) {
+                        return {
+                            color: "#e6e1e1",
+                            weight: 0.5,
+                            dashArray: "4, 4",
+                            fillOpacity: 0.6,
+                            fillColor: regionColors[feature.properties["Region Name"]] || "#e6e1e1"
+                        };
+                    }
+                }).addTo(map);
+
+                const regionCentroids = {
+                    "CENTRAL REGION": [1.297, 103.83],
+                    "NORTH REGION": [1.415, 103.808],
+                    "NORTH-EAST REGION": [1.378, 103.88],
+                    "EAST REGION": [1.345, 103.96],
+                    "WEST REGION": [1.345, 103.72]
+                };
+
+                Object.entries(regionCentroids).forEach(([region, coords]) => {
+                    L.marker(coords, {
+                        icon: L.divIcon({
+                            className: 'region-label',
+                            html: `<div style="font-weight:bold;font-size:14px;color:#333;">${region.replace(" REGION", "")}</div>`,
+                            iconSize: [100, 40],
+                            iconAnchor: [50, 20]
+                        })
+                    }).addTo(map);
+                });
+
+                function getMergedPolygon(regionName, allFeatures) {
+                    const regionFeatures = allFeatures.filter(f => f.properties["Region Name"] === regionName);
+                    if (regionFeatures.length === 0) return null;
+
+                    return regionFeatures.reduce((acc, f) => acc ? turf.union(acc, f) : f, null);
+                }
+
+                function getRandomPointInPolygon(polygonFeature, maxAttempts = 10) {
+                    const polygon = polygonFeature.geometry;
+                    const bbox = turf.bbox(polygon);
+                    let attempts = 0;
+
+                    while (attempts < maxAttempts) {
+                        const randomPoint = turf.randomPoint(1, { bbox }).features[0];
+                        if (turf.booleanPointInPolygon(randomPoint, polygon)) {
+                            return [randomPoint.geometry.coordinates[1], randomPoint.geometry.coordinates[0]];
+                        }
+                        attempts++;
+                    }
+
+                    console.warn("Fallback to centroid.");
+                    return turf.centerOfMass(polygon).geometry.coordinates.reverse();
+                }
+
+                fetch('cats_detail_json/manifest.json')
+                    .then(res => res.json())
+                    .then(fileList => {
+                        fileList.forEach((filename, index) => {
+                            fetch(`cats_detail_json/${filename}`)
+                                .then(res => res.json())
+                                .then(cat => {
+                                    const region = (cat.region || "").toUpperCase() + " REGION";
+                                    const mergedRegion = getMergedPolygon(region, filtered.features);
+                                    if (mergedRegion) {
+                                        const point = getRandomPointInPolygon(mergedRegion);
+                                        L.marker(point, {
+                                            icon: L.divIcon({
+                                                html: `<div><img src="cat_images/${cat.catId}.jpg" style="width:20px;height:20px;border-radius:50%;"></div>`,
+                                                className: 'cat-pin',
+                                                iconSize: [20, 20],
+                                                iconAnchor: [10, 10]
+                                            })
+                                        }).bindPopup(`
+                                            <div style="width:150px">
+                                                <img src="cat_images/${cat.catId}.jpg" style="width:100%; border-radius:8px; margin-bottom:5px;">
+                                                <strong>${cat.name}</strong><br>
+                                                <em>Sex:</em> <span style="color: #888;">${cat.sex || 'N/A'}</span><br>
+                                                <em>Personality:</em> <span style="color: #888;">${cat.personality || 'N/A'}</span><br>
+                                                <em>Likes:</em> <span style="color: #888;">${cat.likes || 'N/A'}</span><br>
+                                                <em>Dislikes:</em> <span style="color: #888;">${cat.dislikes || 'N/A'}</span><br>
+                                            </div>
+                                        `).addTo(map);
+                                    }
+                                });
+                        });
+                    });
+            });
+    </script>
+</body>
+</html>
