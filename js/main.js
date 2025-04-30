@@ -15,7 +15,6 @@ const regionCentroids = {
   "WEST REGION": [1.345, 103.72]
 };
 
-// 区域名到图标文件名的映射
 const regionIcons = {
   "CENTRAL REGION": "central.png",
   "NORTH REGION": "north.png",
@@ -32,23 +31,27 @@ fetch('data/sgmap.json')
     );
 
     L.geoJSON(regionFeatures, {
-      style: {
-        color: "#ccc",
-        weight: 1,
-        fillOpacity: 0.1
+      style: function(feature) {
+        const regionName = feature.properties["Region Name"];
+        return {
+          color: "#e0e0e0", // light grey border
+          weight: 1,
+          fillOpacity: 0.4,
+          fillColor: regionColors[regionName] || "#dddddd"
+        };
       }
     }).addTo(map);
-
+    
     Object.entries(regionCentroids).forEach(([region, coords]) => {
       const iconFile = regionIcons[region];
       if (!iconFile) return;
 
       L.marker(coords, {
         icon: L.divIcon({
-          html: `<img src="assets/regions/${iconFile}" title="${region}" style="width:40px;">`,
+          html: `<img src="assets/regions/${iconFile}" title="${region}" style="width:90px;">`,
           className: 'region-flag',
-          iconSize: [40, 40],
-          iconAnchor: [20, 20]
+          iconSize: [90, 90],
+          iconAnchor: [45, 45]
         })
       }).on('click', () => {
         const query = encodeURIComponent(region);
