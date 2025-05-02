@@ -39,6 +39,6 @@ Filtered and cleaned to retain valid Singapore regions: Central, North, Northeas
 ![Map Screenshot](https://weiyan-shi.github.io/MeowMapSG/assets/demo.png)
 
 🙌 Authors
-Weiyan Shi – https://github.com/weiyan-shi
+- Weiyan Shi – https://github.com/weiyan-shi
 
-Shuyi Jiang - https://github.com/Jiangshuyi0V0
+- Shuyi Jiang - https://github.com/Jiangshuyi0V0
