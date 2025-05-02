@@ -1,4 +1,7 @@
 # 🐾 MeowMapSG: Mapping Singapore's Stray Cats
+
+## 📸 Screenshot
+![Map Screenshot](https://weiyan-shi.github.io/MeowMapSG/assets/demo.png)
 Live Demo: https://weiyan-shi.github.io/MeowMapSG/
 
 ## Overview
@@ -35,10 +38,7 @@ Filtered and cleaned to retain valid Singapore regions: Central, North, Northeas
 
 - Python – Web scraping (for data preparation)
 
-## 📸 Screenshot
-![Map Screenshot](https://weiyan-shi.github.io/MeowMapSG/assets/demo.png)
-
-🙌 Authors
+## 🙌 Authors
 - Weiyan Shi – https://github.com/weiyan-shi
 
 - Shuyi Jiang - https://github.com/Jiangshuyi0V0
