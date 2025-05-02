@@ -21,7 +21,7 @@ We scraped data from https://catsofsg.com/map using browser inspection and autom
 
 - Cat images
 
-- Metadata (name, sex, personality, location coordinates, description, etc.)
+- Metadata (name, sex, personality, region, description, etc.)
 All entries are mapped using a unique ID.
 
 ### 🗺 Map Dataset
